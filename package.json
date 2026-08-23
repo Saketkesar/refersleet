@@ -1,0 +1,41 @@
+{
+  "name": "refx",
+  "version": "1.0.0",
+  "description": "RefX — Community-powered referral programs for India",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "tsx scripts/validate-referrals.ts",
+    "validate:links": "tsx scripts/validate-links.ts",
+    "validate:duplicates": "tsx scripts/detect-duplicates.ts",
+    "build:data": "tsx scripts/build-index.ts",
+    "build:rankings": "tsx scripts/calculate-rankings.ts",
+    "build:reputation": "tsx scripts/calculate-reputation.ts",
+    "build:api": "tsx scripts/generate-api-data.ts",
+    "pipeline": "npm run validate && npm run validate:duplicates && npm run build:data && npm run build:rankings && npm run build:reputation && npm run build:api",
+    "web:dev": "npm --prefix website run dev",
+    "web:build": "npm --prefix website run build"
+  },
+  "keywords": [
+    "referral",
+    "india",
+    "rewards",
+    "coupons",
+    "cashback",
+    "open-source",
+    "community"
+  ],
+  "author": "RefX Community",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^22.13.0",
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "glob": "^11.0.1",
+    "gray-matter": "^4.0.3",
+    "js-yaml": "^4.1.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

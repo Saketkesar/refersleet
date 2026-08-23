@@ -1,0 +1,19 @@
+name: Bug Report
+description: File an issue with the RefX validation scripts, website, or API
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: A clear description of what went wrong.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      placeholder: 1. Go to...\n2. Click on...\n3. See error
+    validations:
+      required: true

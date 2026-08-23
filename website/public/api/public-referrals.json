@@ -1,0 +1,184 @@
+[
+  {
+    "id": "agent-router",
+    "name": "Agent Router",
+    "slug": "agent-router",
+    "status": "active",
+    "category": [
+      "technology"
+    ],
+    "subcategories": [
+      "ai",
+      "developer"
+    ],
+    "country": [
+      "US",
+      "IN",
+      "EU"
+    ],
+    "official_website": "https://agentrouter.org",
+    "reward": {
+      "referrer": "$150.00 AI Credits",
+      "referred_user": "$50.00 AI Compute Credits",
+      "type": "dual_sided",
+      "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
+    },
+    "eligibility": [
+      "Developers, AI researchers, and autonomous agent builders",
+      "Standard OpenAI-compatible API client support"
+    ],
+    "requirements": [
+      "Sign up via invite link on Agent Router",
+      "Transfer the reward amount to your account balance using the transfer function",
+      "Use $50.00 AI credits across Claude 3.5 Sonnet, GPT-4o, DeepSeek, and open models"
+    ],
+    "terms_url": "https://agentrouter.org/terms",
+    "submitted_by": {
+      "username": "saketkesar",
+      "display_name": "Saket Kesar",
+      "avatar": "https://avatars.githubusercontent.com/u/93246904?v=4"
+    },
+    "submitted_at": "2026-08-23",
+    "last_verified": "2026-08-23",
+    "verification": {
+      "status": "official-verified",
+      "working_votes": 195,
+      "not_working_votes": 0,
+      "reward_changed_votes": 0,
+      "confidence": 100
+    },
+    "tags": [
+      "ai",
+      "developer",
+      "llm-routing",
+      "api-credits",
+      "dual-sided"
+    ],
+    "screenshots": [
+      "https://agentrouter.org/logo.png"
+    ],
+    "description": "Agent Router is an intelligent routing infrastructure for LLMs and autonomous agents. For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI credits (not real money). Transfer the reward amount to your account balance through the transfer function. The more friends you invite, the more rewards you will get.\n",
+    "refx_url": "https://refx.in/r/agent-router"
+  },
+  {
+    "id": "honey",
+    "name": "Honey by PayPal",
+    "slug": "honey",
+    "status": "active",
+    "category": [
+      "shopping"
+    ],
+    "subcategories": [
+      "ecommerce",
+      "cashback"
+    ],
+    "country": [
+      "US",
+      "IN",
+      "GB",
+      "CA"
+    ],
+    "official_website": "https://www.joinhoney.com",
+    "reward": {
+      "referrer": "500 Honey Gold",
+      "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
+      "type": "dual_sided",
+      "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
+    },
+    "eligibility": [
+      "New Honey user account",
+      "Works on Chrome, Safari, Firefox, Edge and Mobile"
+    ],
+    "requirements": [
+      "Refer friends with your unique link above",
+      "Friends sign up using your link and make their first qualifying purchase to collect 500 Gold",
+      "Redeem for a ₹500 / $5 gift card once you collect 1,000 Gold"
+    ],
+    "terms_url": "https://www.joinhoney.com/terms",
+    "submitted_by": {
+      "username": "saketkesar",
+      "display_name": "Saket Kesar",
+      "avatar": "https://avatars.githubusercontent.com/u/93246904?v=4"
+    },
+    "submitted_at": "2026-08-23",
+    "last_verified": "2026-08-23",
+    "verification": {
+      "status": "community-verified",
+      "working_votes": 142,
+      "not_working_votes": 0,
+      "reward_changed_votes": 0,
+      "confidence": 100
+    },
+    "tags": [
+      "shopping",
+      "coupons",
+      "gift-cards",
+      "cashback",
+      "dual-sided"
+    ],
+    "screenshots": [
+      "https://lh3.googleusercontent.com/7JKQtRzFchNfomvdwyw0W2xhYnsSjNhWz7h2HpCihLEy9MjrodV4g0UFJFqBKgf2fZsmPF_rTVz-beAVrrXdsEzK5w=s120"
+    ],
+    "description": "Honey is a free browser extension and mobile shopping tool by PayPal that automatically discovers and applies coupon codes at checkout across thousands of online stores. Members collect Honey Gold on eligible purchases, which can be redeemed for gift cards.\n",
+    "refx_url": "https://refx.in/r/honey"
+  },
+  {
+    "id": "buyhatke",
+    "name": "Buyhatke",
+    "slug": "buyhatke",
+    "status": "active",
+    "category": [
+      "shopping"
+    ],
+    "subcategories": [
+      "ecommerce",
+      "gift-cards"
+    ],
+    "country": [
+      "IN",
+      "US"
+    ],
+    "official_website": "https://buyhatke.com",
+    "reward": {
+      "referrer": "Instant points per order + Brand commissions",
+      "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
+      "type": "sale_reward_cps",
+      "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
+    },
+    "eligibility": [
+      "All online shoppers and gift card buyers",
+      "Works across Amazon, Flipkart, Myntra, Swiggy, and hundreds of top brands"
+    ],
+    "requirements": [
+      "Share your unique referral link via WhatsApp, Email, or Social Media",
+      "Friends sign up using your link and purchase their first gift card",
+      "Receive reward points instantly in your rewards wallet for every order placed"
+    ],
+    "terms_url": "https://buyhatke.com/gift-cards/referral/brand-commissions",
+    "submitted_by": {
+      "username": "saketkesar",
+      "display_name": "Saket Kesar",
+      "avatar": "https://avatars.githubusercontent.com/u/93246904?v=4"
+    },
+    "submitted_at": "2026-08-23",
+    "last_verified": "2026-08-23",
+    "verification": {
+      "status": "community-verified",
+      "working_votes": 120,
+      "not_working_votes": 0,
+      "reward_changed_votes": 0,
+      "confidence": 100
+    },
+    "tags": [
+      "shopping",
+      "gift-cards",
+      "brand-commissions",
+      "sale-reward-cps"
+    ],
+    "screenshots": [
+      "https://lh3.googleusercontent.com/5MCP76SIC04mQLsYFJGteu_4jm8EDkW80WX9QtkK9b_cZwyIWhXGJqUBAZDSr7q6cEQhyamxc7taUJZpHsXg_J17=s120"
+    ],
+    "description": "Buyhatke Gift Card Referral Program lets you earn instant wallet points and brand commissions whenever your referred friends purchase gift cards across hundreds of top retail brands.\n",
+    "refx_url": "https://refx.in/r/buyhatke"
+  }
+]

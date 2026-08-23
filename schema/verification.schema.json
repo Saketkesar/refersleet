@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RefX Verification Vote Schema",
+  "type": "object",
+  "required": ["referral_id", "vote_type", "timestamp"],
+  "properties": {
+    "referral_id": { "type": "string" },
+    "user_id": { "type": "string" },
+    "vote_type": {
+      "type": "string",
+      "enum": ["working", "not_working", "reward_changed", "expired"]
+    },
+    "note": { "type": "string" },
+    "timestamp": { "type": "string" }
+  }
+}

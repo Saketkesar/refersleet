@@ -1,0 +1,39 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RefX Contributor Schema",
+  "type": "object",
+  "required": [
+    "username",
+    "display_name",
+    "avatar",
+    "github_url",
+    "joined_at",
+    "approved_submissions",
+    "verified_submissions",
+    "reports_submitted",
+    "valid_reports",
+    "reputation",
+    "rank",
+    "badges"
+  ],
+  "properties": {
+    "username": { "type": "string" },
+    "display_name": { "type": "string" },
+    "bio": { "type": "string" },
+    "avatar": { "type": "string" },
+    "github_url": { "type": "string", "format": "uri" },
+    "twitter_url": { "type": "string" },
+    "website_url": { "type": "string" },
+    "joined_at": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "approved_submissions": { "type": "integer", "minimum": 0 },
+    "verified_submissions": { "type": "integer", "minimum": 0 },
+    "reports_submitted": { "type": "integer", "minimum": 0 },
+    "valid_reports": { "type": "integer", "minimum": 0 },
+    "reputation": { "type": "integer", "minimum": 0 },
+    "rank": { "type": "integer", "minimum": 1 },
+    "badges": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RefX Category Schema",
+  "type": "object",
+  "required": ["id", "name", "slug", "icon", "description", "subcategories"],
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "slug": { "type": "string" },
+    "icon": { "type": "string" },
+    "description": { "type": "string" },
+    "featured": { "type": "boolean" },
+    "subcategories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "slug"],
+        "properties": {
+          "id": { "type": "string" },
+          "name": { "type": "string" },
+          "slug": { "type": "string" },
+          "description": { "type": "string" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "username": "saketkesar",
+    "display_name": "Saket Kesar",
+    "avatar": "https://avatars.githubusercontent.com/u/93246904?v=4",
+    "github_url": "https://github.com/Saketkesar",
+    "bio": "Founder and lead maintainer of RefX. Curating verified developer credits, coupon finders, and rewards.",
+    "joined_at": "2026-08-01",
+    "links": {
+      "github": "https://github.com/Saketkesar",
+      "twitter": "https://twitter.com/saketkesar",
+      "website": "https://github.com/Saketkesar"
+    },
+    "reputation": 500,
+    "rank": 1,
+    "badges": [
+      "maintainer",
+      "founding-contributor",
+      "top-verifier",
+      "First Contribution",
+      "Trusted Contributor",
+      "Top Contributor"
+    ],
+    "approved_submissions": 3,
+    "verified_submissions": 15,
+    "reports_submitted": 0,
+    "valid_reports": 0,
+    "markdown_content": "# Saket Kesar\n\nLead maintainer and founder of the RefX open directory.",
+    "source_file": "contributors/saketkesar.md"
+  }
+]

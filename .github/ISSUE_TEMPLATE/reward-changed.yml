@@ -1,0 +1,27 @@
+name: Reward Amount or Terms Changed
+description: Notify that a referral reward amount, tier, or requirement changed
+title: "[Reward Change]: <Company or Referral Name>"
+labels: ["status:update-needed", "triage"]
+body:
+  - type: input
+    id: referral_id
+    attributes:
+      label: Referral ID / Slug
+      placeholder: cred
+    validations:
+      required: true
+  - type: textarea
+    id: old_vs_new
+    attributes:
+      label: Old Reward vs New Reward
+      description: Explain the change in payout or eligibility.
+      placeholder: Previously ₹500, now updated to ₹250...
+    validations:
+      required: true
+  - type: input
+    id: updated_terms_url
+    attributes:
+      label: Official Terms URL
+      placeholder: https://company.com/terms
+    validations:
+      required: true

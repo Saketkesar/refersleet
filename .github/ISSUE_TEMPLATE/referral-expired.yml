@@ -1,0 +1,29 @@
+name: Referral Expired or Inactive
+description: Report an expired referral program or invalid promo code
+title: "[Expired]: <Company or Referral Name>"
+labels: ["status:expired", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping keep RefX accurate and trusted!
+  - type: input
+    id: referral_id
+    attributes:
+      label: Referral ID / Slug
+      description: e.g. `cred`, `zerodha`
+      placeholder: cred
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Expiry Details
+      description: What happens when attempting to use this referral now?
+      placeholder: The official promotion ended on ...
+    validations:
+      required: true
+  - type: input
+    id: official_source
+    attributes:
+      label: Official Source Link
+      description: Link to terms or announcement showing expiry

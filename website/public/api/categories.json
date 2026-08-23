@@ -1,0 +1,211 @@
+[
+  {
+    "id": "technology",
+    "name": "Technology & SaaS",
+    "slug": "technology",
+    "icon": "Laptop",
+    "featured": true,
+    "description": "Cloud hosting, developer tools, AI platforms, SaaS software credits, and student developer packs.",
+    "subcategories": [
+      {
+        "id": "hosting",
+        "name": "Cloud & Hosting",
+        "slug": "hosting",
+        "description": "Web hosting discounts, VPS credits, and domain registrar perks."
+      },
+      {
+        "id": "developer",
+        "name": "Developer Tools",
+        "slug": "developer",
+        "description": "API credits, developer subscriptions, and GitHub student perks."
+      },
+      {
+        "id": "ai",
+        "name": "AI & Machine Learning",
+        "slug": "ai",
+        "description": "Generative AI subscriptions, compute credits, and trial extensions."
+      },
+      {
+        "id": "saas",
+        "name": "SaaS & Productivity",
+        "slug": "saas",
+        "description": "Team collaboration, project management, and CRM credits."
+      }
+    ],
+    "markdown_content": "# Technology & SaaS Referrals\n\nFind verified referral promotions for developers, founders, students, and tech enthusiasts in India."
+  },
+  {
+    "id": "shopping",
+    "name": "Shopping & E-Commerce",
+    "slug": "shopping",
+    "icon": "ShoppingBag",
+    "featured": true,
+    "description": "E-commerce shopping vouchers, grocery discounts, fashion rewards, and food delivery cashback.",
+    "subcategories": [
+      {
+        "id": "ecommerce",
+        "name": "E-Commerce & Marketplaces",
+        "slug": "ecommerce",
+        "description": "Welcome vouchers and first-order cashback on major shopping platforms."
+      },
+      {
+        "id": "fashion",
+        "name": "Fashion & Apparel",
+        "slug": "fashion",
+        "description": "Referral coupons on clothing, footwear, and accessories."
+      },
+      {
+        "id": "food",
+        "name": "Food & Dining",
+        "slug": "food",
+        "description": "Food delivery vouchers, dining club memberships, and grocery discounts."
+      }
+    ],
+    "markdown_content": "# Shopping & E-Commerce Referrals\n\nBrowse community-tested discount coupons and referral perks for online shopping in India."
+  },
+  {
+    "id": "other",
+    "name": "Utilities & Telecom",
+    "slug": "other",
+    "icon": "Zap",
+    "featured": false,
+    "description": "Broadband fiber bill rebates, mobile recharge cashback, EV charging bonuses, and utility bill rewards.",
+    "subcategories": [
+      {
+        "id": "telecom",
+        "name": "Telecom & Broadband",
+        "slug": "telecom",
+        "description": "Fiber internet setup fee waivers and bill credits."
+      },
+      {
+        "id": "utilities",
+        "name": "Electricity & Utilities",
+        "slug": "utilities",
+        "description": "Smart bill payment incentives and EV fast charging rewards."
+      }
+    ],
+    "markdown_content": "# Utilities & Telecom Referrals\n\nFind reliable referral bonuses for broadband connections, mobile recharges, and EV charging stations."
+  },
+  {
+    "id": "lifestyle",
+    "name": "Lifestyle & Travel",
+    "slug": "lifestyle",
+    "icon": "Plane",
+    "featured": false,
+    "description": "Gym memberships, travel flight/hotel bookings, entertainment streaming, and mobility passes.",
+    "subcategories": [
+      {
+        "id": "fitness",
+        "name": "Fitness & Health",
+        "slug": "fitness",
+        "description": "Gym passes, yoga subscriptions, and diagnostic health check rewards."
+      },
+      {
+        "id": "travel",
+        "name": "Travel & Hotels",
+        "slug": "travel",
+        "description": "Flight ticket cashback, hotel loyalty points, and cab booking discounts."
+      },
+      {
+        "id": "entertainment",
+        "name": "Entertainment & Streaming",
+        "slug": "entertainment",
+        "description": "OTT platform free trials, movie tickets, and gaming passes."
+      }
+    ],
+    "markdown_content": "# Lifestyle & Travel Referrals\n\nSave on fitness memberships, travel bookings, and leisure activities with verified community referral codes."
+  },
+  {
+    "id": "finance",
+    "name": "Finance & Banking",
+    "slug": "finance",
+    "icon": "Landmark",
+    "featured": true,
+    "description": "Indian banking, UPI apps, credit cards, investments, mutual funds, and insurance referral rewards.",
+    "subcategories": [
+      {
+        "id": "banking",
+        "name": "Banking & Accounts",
+        "slug": "banking",
+        "description": "Savings account opening incentives and zero-balance bonuses."
+      },
+      {
+        "id": "payments",
+        "name": "Payments & UPI",
+        "slug": "payments",
+        "description": "UPI cashback, peer-to-peer incentives, and payment wallets."
+      },
+      {
+        "id": "credit-cards",
+        "name": "Credit Cards",
+        "slug": "credit-cards",
+        "description": "Credit card welcome rewards, fee waivers, and cardholder bonuses."
+      },
+      {
+        "id": "investing",
+        "name": "Investing & Brokerages",
+        "slug": "investing",
+        "description": "Demat account opening credits, brokerage discounts, and stock rewards."
+      },
+      {
+        "id": "insurance",
+        "name": "Insurance",
+        "slug": "insurance",
+        "description": "Life, health, and vehicle insurance referral benefits."
+      }
+    ],
+    "markdown_content": "# Finance & Banking Referrals in India\n\nExplore community-vetted referral incentives for Indian financial institutions, fintech platforms, Demat accounts, and credit cards."
+  },
+  {
+    "id": "education",
+    "name": "Education & Learning",
+    "slug": "education",
+    "icon": "GraduationCap",
+    "featured": true,
+    "description": "Edtech discounts, online course certifications, coding bootcamps, and student grants.",
+    "subcategories": [
+      {
+        "id": "coding",
+        "name": "Coding & Engineering",
+        "slug": "coding",
+        "description": "Software engineering, data science, and web development courses."
+      },
+      {
+        "id": "certifications",
+        "name": "Certifications & Degrees",
+        "slug": "certifications",
+        "description": "Global university certifications and professional credentials."
+      },
+      {
+        "id": "student-programs",
+        "name": "Student Programs & Grants",
+        "slug": "student-programs",
+        "description": "Exclusive student ID verifications and educational software grants."
+      }
+    ],
+    "markdown_content": "# Education & Learning Referrals\n\nExplore active student programs, course fee waivers, and educational referral bonuses."
+  },
+  {
+    "id": "career",
+    "name": "Career & Freelance",
+    "slug": "career",
+    "icon": "Briefcase",
+    "featured": false,
+    "description": "Freelancing platforms, job boards, creator monetization tools, and business banking rewards.",
+    "subcategories": [
+      {
+        "id": "freelancing",
+        "name": "Freelancing & Remote Work",
+        "slug": "freelancing",
+        "description": "Commission fee discounts and portfolio hosting perks."
+      },
+      {
+        "id": "creator-tools",
+        "name": "Creator Tools",
+        "slug": "creator-tools",
+        "description": "Video editing, podcast hosting, and newsletter platform discounts."
+      }
+    ],
+    "markdown_content": "# Career & Freelancing Referrals\n\nFind promotions and starter perks for freelancers, creators, and professionals in India."
+  }
+]
