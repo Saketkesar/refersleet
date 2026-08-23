@@ -33,7 +33,7 @@ submitted_at: 2026-08-23
 last_verified: 2026-08-23
 verification:
   status: community-verified
-  working_votes: 120
+  working_votes: 0
   not_working_votes: 0
   reward_changed_votes: 0
   confidence: 100

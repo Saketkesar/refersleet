@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { DataProvider } from './context/DataContext';
 import { Navbar } from './components/layout/Navbar';
 import { Footer } from './components/layout/Footer';
@@ -18,7 +18,7 @@ import { ApiDocsPage } from './pages/ApiDocsPage';
 export const App: React.FC = () => {
   return (
     <DataProvider>
-      <BrowserRouter>
+      <Router>
         <div className="flex flex-col min-h-screen bg-[#FFFFFF] text-[#191716] font-sans selection:bg-orange-100 selection:text-orange-900">
           <Navbar />
           <main className="flex-1">
@@ -38,7 +38,7 @@ export const App: React.FC = () => {
           </main>
           <Footer />
         </div>
-      </BrowserRouter>
+      </Router>
     </DataProvider>
   );
 };
