@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
-console.log('📊 [RefX Rankings] Calculating trending, trusted, and top reward rankings...');
+console.log('📊 [Refersleet Rankings] Calculating trending, trusted, and top reward rankings...');
 
 const referrals = JSON.parse(fs.readFileSync(path.resolve('generated/referrals.json'), 'utf-8'));
 const contributors = JSON.parse(fs.readFileSync(path.resolve('generated/contributors.json'), 'utf-8'));

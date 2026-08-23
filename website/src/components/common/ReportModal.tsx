@@ -29,7 +29,7 @@ export const ReportModal: React.FC<ReportModalProps> = ({ referral, onClose }) =
 
     // Send email to maintainer
     const emailTo = 'kesarsaket607@gmail.com';
-    const emailSubject = `[RefX Report] Issue with ${referral.name} (${reason})`;
+    const emailSubject = `[Refersleet Report] Issue with ${referral.name} (${reason})`;
     const emailBody = `Hey Saket,
 
 A community member reported an issue with a referral listing:
@@ -68,7 +68,7 @@ A community member reported an issue with a referral listing:
             </div>
             <h4 className="text-sm font-semibold text-stone-900">Report Sent to Maintainer</h4>
             <p className="text-xs text-stone-500">
-              Thank you for keeping RefX accurate.
+              Thank you for keeping Refersleet accurate.
             </p>
           </div>
         ) : (

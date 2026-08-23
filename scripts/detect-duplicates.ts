@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import matter from 'gray-matter';
 import { globSync } from 'glob';
 
-console.log('🔍 [RefX Duplicate Detector] Checking for duplicate identifiers...');
+console.log('🔍 [Refersleet Duplicate Detector] Checking for duplicate identifiers...');
 
 const referralFiles = globSync('referrals/**/*.md');
 const ids = new Map<string, string>();

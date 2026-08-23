@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "RefX Issue Report Schema",
+  "title": "Refersleet Issue Report Schema",
   "type": "object",
   "required": ["referral_id", "reason", "details", "reported_at"],
   "properties": {

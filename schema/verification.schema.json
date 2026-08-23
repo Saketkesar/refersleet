@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "RefX Verification Vote Schema",
+  "title": "Refersleet Verification Vote Schema",
   "type": "object",
   "required": ["referral_id", "vote_type", "timestamp"],
   "properties": {

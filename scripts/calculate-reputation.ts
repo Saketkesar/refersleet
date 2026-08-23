@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
-console.log('🎖️  [RefX Reputation Engine] Computing contributor reputation points and badges...');
+console.log('🎖️  [Refersleet Reputation Engine] Computing contributor reputation points and badges...');
 
 const contributors = JSON.parse(fs.readFileSync(path.resolve('generated/contributors.json'), 'utf-8'));
 const referrals = JSON.parse(fs.readFileSync(path.resolve('generated/referrals.json'), 'utf-8'));

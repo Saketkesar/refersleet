@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "RefX Category Schema",
+  "title": "Refersleet Category Schema",
   "type": "object",
   "required": ["id", "name", "slug", "icon", "description", "subcategories"],
   "properties": {

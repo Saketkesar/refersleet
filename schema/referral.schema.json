@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "RefX Referral Schema",
+  "title": "Refersleet Referral Schema",
   "type": "object",
   "required": [
     "id",

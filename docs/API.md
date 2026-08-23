@@ -1,36 +1,7 @@
-# RefX Public API Documentation
+# Refersleet Public API
 
-RefX provides a free, unauthenticated REST API for developers building WhatsApp bots, Telegram channels, browser extensions, and deal aggregator apps.
+Refersleet publishes structured, zero-auth raw JSON feeds hosted directly on GitHub:
 
-## Base URL
-```
-https://api.refx.in/v1
-```
-
-## Quick Examples
-
-### cURL
-```bash
-curl -s https://api.refx.in/v1/referrals?category=finance | jq .
-```
-
-### JavaScript / TypeScript
-```typescript
-const response = await fetch('https://api.refx.in/v1/referrals?sort=trending');
-const data = await response.json();
-console.log(data);
-```
-
-### Python
-```python
-import requests
-
-res = requests.get('https://api.refx.in/v1/referrals', params={'category': 'technology'})
-referrals = res.json()
-for ref in referrals:
-    print(ref['name'], ref['reward']['description'])
-```
-
-## Rate Limits
-- Unauthenticated requests: `100 requests / hour / IP`
-- Authenticated developer key: `10,000 requests / hour`
+- **Referrals Feed**: `https://raw.githubusercontent.com/Saketkesar/refersleet/main/generated/referrals.json`
+- **Categories Feed**: `https://raw.githubusercontent.com/Saketkesar/refersleet/main/generated/categories.json`
+- **Platform Stats**: `https://raw.githubusercontent.com/Saketkesar/refersleet/main/generated/stats.json`

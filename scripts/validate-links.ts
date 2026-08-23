@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import matter from 'gray-matter';
 import { globSync } from 'glob';
 
-console.log('🔗 [RefX Link Checker] Checking URL formats and domain safety...');
+console.log('🔗 [Refersleet Link Checker] Checking URL formats and domain safety...');
 
 const referralFiles = globSync('referrals/**/*.md');
 let hasErrors = false;

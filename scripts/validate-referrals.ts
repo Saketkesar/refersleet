@@ -41,7 +41,7 @@ function normalizeData(obj: any): any {
   return obj;
 }
 
-console.log('🔍 [RefX Validator] Starting validation of Markdown files...');
+console.log('🔍 [Refersleet Validator] Starting validation of Markdown files...');
 
 let hasErrors = false;
 

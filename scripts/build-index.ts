@@ -3,7 +3,7 @@ import path from 'node:path';
 import matter from 'gray-matter';
 import { globSync } from 'glob';
 
-console.log('🏗️  [RefX Indexer] Compiling Markdown into structured JSON indexes...');
+console.log('🏗️  [Refersleet Indexer] Compiling Markdown into structured JSON indexes...');
 
 fs.mkdirSync(path.resolve('generated'), { recursive: true });
 
