@@ -42,7 +42,7 @@
     "last_verified": "2026-08-23",
     "verification": {
       "status": "official-verified",
-      "working_votes": 195,
+      "working_votes": 0,
       "not_working_votes": 0,
       "reward_changed_votes": 0,
       "confidence": 100
@@ -57,8 +57,7 @@
     "screenshots": [
       "https://agentrouter.org/logo.png"
     ],
-    "description": "Agent Router is an intelligent routing infrastructure for LLMs and autonomous agents. For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI credits (not real money). Transfer the reward amount to your account balance through the transfer function. The more friends you invite, the more rewards you will get.\n",
-    "refx_url": "https://refx.in/r/agent-router"
+    "description": "Agent Router is an intelligent routing infrastructure for LLMs and autonomous agents. For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI credits (not real money). Transfer the reward amount to your account balance through the transfer function. The more friends you invite, the more rewards you will get.\n"
   },
   {
     "id": "honey",
@@ -104,7 +103,7 @@
     "last_verified": "2026-08-23",
     "verification": {
       "status": "community-verified",
-      "working_votes": 142,
+      "working_votes": 0,
       "not_working_votes": 0,
       "reward_changed_votes": 0,
       "confidence": 100
@@ -119,8 +118,7 @@
     "screenshots": [
       "https://lh3.googleusercontent.com/7JKQtRzFchNfomvdwyw0W2xhYnsSjNhWz7h2HpCihLEy9MjrodV4g0UFJFqBKgf2fZsmPF_rTVz-beAVrrXdsEzK5w=s120"
     ],
-    "description": "Honey is a free browser extension and mobile shopping tool by PayPal that automatically discovers and applies coupon codes at checkout across thousands of online stores. Members collect Honey Gold on eligible purchases, which can be redeemed for gift cards.\n",
-    "refx_url": "https://refx.in/r/honey"
+    "description": "Honey is a free browser extension and mobile shopping tool by PayPal that automatically discovers and applies coupon codes at checkout across thousands of online stores. Members collect Honey Gold on eligible purchases, which can be redeemed for gift cards.\n"
   },
   {
     "id": "buyhatke",
@@ -164,7 +162,7 @@
     "last_verified": "2026-08-23",
     "verification": {
       "status": "community-verified",
-      "working_votes": 120,
+      "working_votes": 0,
       "not_working_votes": 0,
       "reward_changed_votes": 0,
       "confidence": 100
@@ -178,7 +176,6 @@
     "screenshots": [
       "https://lh3.googleusercontent.com/5MCP76SIC04mQLsYFJGteu_4jm8EDkW80WX9QtkK9b_cZwyIWhXGJqUBAZDSr7q6cEQhyamxc7taUJZpHsXg_J17=s120"
     ],
-    "description": "Buyhatke Gift Card Referral Program lets you earn instant wallet points and brand commissions whenever your referred friends purchase gift cards across hundreds of top retail brands.\n",
-    "refx_url": "https://refx.in/r/buyhatke"
+    "description": "Buyhatke Gift Card Referral Program lets you earn instant wallet points and brand commissions whenever your referred friends purchase gift cards across hundreds of top retail brands.\n"
   }
 ]

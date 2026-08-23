@@ -55,6 +55,7 @@ if (!fs.existsSync(publicApiDir)) {
   fs.mkdirSync(publicApiDir, { recursive: true });
 }
 fs.writeFileSync(path.join(publicApiDir, 'referrals.json'), JSON.stringify(publicReferrals, null, 2));
+fs.writeFileSync(path.join(publicApiDir, 'public-referrals.json'), JSON.stringify(publicReferrals, null, 2));
 fs.writeFileSync(path.join(publicApiDir, 'categories.json'), JSON.stringify(categories, null, 2));
 fs.writeFileSync(path.join(publicApiDir, 'contributors.json'), JSON.stringify(contributors, null, 2));
 fs.writeFileSync(path.join(publicApiDir, 'stats.json'), JSON.stringify(stats, null, 2));

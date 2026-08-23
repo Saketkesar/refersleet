@@ -5,7 +5,7 @@ Thank you for contributing to Refersleet! Refersleet is an open-source, communit
 ## How to Contribute
 
 ### 1. Submit a New Referral Program
-- You can submit directly using the web form at [refersleet.github.io/submit](https://refersleet.github.io/submit).
+- You can submit directly using the web form at [saketkesar.github.io/refersleet/#/submit](https://saketkesar.github.io/refersleet/#/submit).
 - Or create a new Markdown file under `referrals/<category>/<subcategory>/<program>.md`.
 
 ### 2. Verify or Report an Issue
