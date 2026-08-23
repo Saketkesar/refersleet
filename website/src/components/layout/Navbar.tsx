@@ -34,13 +34,9 @@ export const Navbar: React.FC = () => {
           <div className="flex items-center gap-6">
             <Link to="/" className="flex items-center gap-2 group">
               <img
-                src="/logo.png"
+                src={`${import.meta.env.BASE_URL}logo.png`}
                 alt="Refersleet"
                 className="h-5.5 sm:h-6 w-auto object-contain transition-transform group-hover:scale-105"
-                onError={(e) => {
-                  const target = e.currentTarget;
-                  target.style.display = 'none';
-                }}
               />
             </Link>
 

@@ -1,22 +1,7 @@
 {
-  "calculated_at": "2026-08-23T07:41:04.392Z",
+  "calculated_at": "2026-08-23T07:47:15.352Z",
   "total_referrals": 3,
   "trending": [
-    {
-      "id": "honey",
-      "slug": "honey",
-      "name": "Honey by PayPal",
-      "category": [
-        "shopping"
-      ],
-      "reward": {
-        "referrer": "500 Honey Gold",
-        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
-        "type": "dual_sided",
-        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
-      },
-      "confidence": 100
-    },
     {
       "id": "agent-router",
       "slug": "agent-router",
@@ -44,6 +29,21 @@
         "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
         "type": "sale_reward_cps",
         "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "honey",
+      "slug": "honey",
+      "name": "Honey by PayPal",
+      "category": [
+        "shopping"
+      ],
+      "reward": {
+        "referrer": "500 Honey Gold",
+        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
+        "type": "dual_sided",
+        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
       },
       "confidence": 100
     }

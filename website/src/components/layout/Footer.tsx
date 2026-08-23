@@ -11,7 +11,7 @@ export const Footer: React.FC = () => {
           <div className="space-y-1">
             <div className="flex items-center gap-2">
               <img
-                src="/favicon.png"
+                src={`${import.meta.env.BASE_URL}favicon.png`}
                 alt="Refersleet icon"
                 className="w-5 h-5 rounded object-contain"
               />

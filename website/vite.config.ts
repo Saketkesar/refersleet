@@ -11,5 +11,18 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
       '@generated': path.resolve(__dirname, '../generated')
     }
+  },
+  build: {
+    target: 'esnext',
+    minify: 'esbuild',
+    cssMinify: true,
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          vendor: ['react', 'react-dom', 'react-router-dom'],
+          icons: ['lucide-react']
+        }
+      }
+    }
   }
 });
