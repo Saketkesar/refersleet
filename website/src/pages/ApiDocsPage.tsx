@@ -7,7 +7,7 @@ export const ApiDocsPage: React.FC = () => {
   const [activeTab, setActiveTab] = useState<'referrals' | 'categories' | 'stats'>('referrals');
   const [copied, setCopied] = useState(false);
 
-  const rawGithubBase = 'https://raw.githubusercontent.com/Saketkesar/Refx/main/generated';
+  const rawGithubBase = 'https://raw.githubusercontent.com/Saketkesar/refersleet/main/generated';
 
   const endpoints = {
     referrals: {

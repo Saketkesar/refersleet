@@ -11,7 +11,7 @@ export const RedirectSimulatorPage: React.FC = () => {
     r => r.refx?.redirect_slug === slug || r.slug === slug || r.id === slug
   );
 
-  const targetUrl = referral?.refx?.destination_url || referral?.official_website || 'https://refx.in';
+  const targetUrl = referral?.redirect?.destination_url || referral?.refx?.destination_url || referral?.official_website || 'https://saketkesar.github.io/refersleet/';
 
   let destinationHost = 'partner.com';
   try {

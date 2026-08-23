@@ -92,20 +92,15 @@ export const Navbar: React.FC = () => {
               <span>Add Referral</span>
             </Link>
 
-            {/* Saket Kesar Avatar & GitHub link */}
+            {/* GitHub link */}
             <a
               href="https://github.com/Saketkesar"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center gap-1.5 p-1 hover:bg-stone-100 rounded-md transition-colors border border-stone-200"
-              title="Saket Kesar GitHub Profile"
+              className="p-1.5 text-stone-500 hover:text-stone-800 hover:bg-stone-100 rounded-md transition-colors"
+              title="GitHub Profile (@Saketkesar)"
             >
-              <img
-                src="https://avatars.githubusercontent.com/u/93246904?v=4"
-                alt="Saket Kesar"
-                className="w-5 h-5 rounded-full object-cover"
-              />
-              <Github className="w-3.5 h-3.5 text-stone-700 hidden sm:inline" />
+              <Github className="w-4 h-4" />
             </a>
 
             {/* Mobile menu button */}
