@@ -5,14 +5,16 @@ Thank you for contributing to Refersleet! Refersleet is an open-source, communit
 ## How to Contribute
 
 ### 1. Submit a New Referral Program
-- You can submit directly using the web form at [saketkesar.github.io/refersleet/#/submit](https://saketkesar.github.io/refersleet/#/submit).
-- Or create a new Markdown file under `referrals/<category>/<subcategory>/<program>.md`.
+- You can submit directly using the web form at **[saketkesar.github.io/refersleet/#/submit](https://saketkesar.github.io/refersleet/#/submit)**.
+- The web form automatically formats your details into valid Markdown so you can copy it with 1 click to create a Pull Request, or send it directly via email.
+- Alternatively, you can create a new Markdown file under `referrals/<category>/<subcategory>/<program>.md` and open a Pull Request directly.
 
 ### 2. Verify or Report an Issue
-- If terms have changed or an offer expired, report it through the website or open an issue on GitHub.
+- If terms have changed or an offer expired, click **"Report issue"** on any deal page or open an issue on GitHub.
 
 ### 3. Add Yourself as a Contributor
-- Create `contributors/<your_username>.md` with your profile details.
+- When submitting through the website form, your contributor profile is automatically formatted.
+- Or create `contributors/<your_username>.md` with your profile details and submit a Pull Request.
 
 ---
 
