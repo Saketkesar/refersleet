@@ -1,7 +1,8 @@
 {
-  "name": "refx",
+  "name": "refersleet",
   "version": "1.0.0",
-  "description": "RefX — Community-powered referral programs for India",
+  "description": "Refersleet — Open Source Community Verified Referral Directory",
+  "author": "Saket Kesar",
   "private": true,
   "type": "module",
   "scripts": {
@@ -25,7 +26,6 @@
     "open-source",
     "community"
   ],
-  "author": "RefX Community",
   "license": "MIT",
   "devDependencies": {
     "@types/js-yaml": "^4.0.9",

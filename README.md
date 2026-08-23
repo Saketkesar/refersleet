@@ -1,18 +1,16 @@
 <p align="center">
-  <img src="website/public/logo.png" alt="Refersleet" width="220" />
+  <img src="website/public/logo.png" alt="Refersleet" width="260" />
 </p>
-
-<h1 align="center">Refersleet</h1>
 
 <p align="center">
   An open-source directory of community-verified referral programs, coupon finders, and developer credits.
 </p>
 
 <p align="center">
-  <a href="https://refersleet.github.io">Website</a> •
-  <a href="https://refersleet.github.io/explore">Directory</a> •
-  <a href="https://refersleet.github.io/api-docs">API Feeds</a> •
-  <a href="https://refersleet.github.io/submit">Submit Referral</a>
+  <a href="https://saketkesar.github.io/refersleet/">Website</a> •
+  <a href="https://saketkesar.github.io/refersleet/explore">Directory</a> •
+  <a href="https://saketkesar.github.io/refersleet/api-docs">API Feeds</a> •
+  <a href="https://saketkesar.github.io/refersleet/submit">Submit Referral</a>
 </p>
 
 ---
@@ -39,15 +37,15 @@ All data is stored directly in Markdown and published to GitHub Pages.
 
 You can access the live JSON data directly via GitHub CDN:
 
-- **Referrals**: `https://raw.githubusercontent.com/Saketkesar/Refx/main/generated/referrals.json`
-- **Categories**: `https://raw.githubusercontent.com/Saketkesar/Refx/main/generated/categories.json`
-- **Stats**: `https://raw.githubusercontent.com/Saketkesar/Refx/main/generated/stats.json`
+- **Referrals**: `https://raw.githubusercontent.com/Saketkesar/refersleet/main/generated/referrals.json`
+- **Categories**: `https://raw.githubusercontent.com/Saketkesar/refersleet/main/generated/categories.json`
+- **Stats**: `https://raw.githubusercontent.com/Saketkesar/refersleet/main/generated/stats.json`
 
 ---
 
 ## How to Submit a Program
 
-1. Submit using the web form at [refersleet.github.io/submit](https://refersleet.github.io/submit).
+1. Submit using the web form at [Submit Referral](https://saketkesar.github.io/refersleet/submit).
 2. Or add a Markdown file to the `referrals/` directory and open a Pull Request.
 
 ---

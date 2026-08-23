@@ -3,11 +3,12 @@ username: saketkesar
 display_name: Saket Kesar
 avatar: https://avatars.githubusercontent.com/u/93246904?v=4
 github_url: https://github.com/Saketkesar
-bio: maintainer of RefX. Curating verified developer credits, coupon finders, and rewards.
+bio: Founder and lead maintainer of Refersleet. Curating verified developer credits, coupon finders, and rewards.
 joined_at: 2026-08-01
 links:
   github: https://github.com/Saketkesar
-  website: https://saket.is-a.dev
+  twitter: https://twitter.com/saketkesar
+  website: https://github.com/Saketkesar
 reputation: 500
 rank: 1
 badges:
@@ -22,4 +23,4 @@ valid_reports: 0
 
 # Saket Kesar
 
-Lead maintainer and founder of the RefX open directory.
+Lead maintainer and founder of the Refersleet open directory.

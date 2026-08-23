@@ -97,8 +97,8 @@ for (const file of contributorFiles) {
 }
 
 if (hasErrors) {
-  console.error('\n❌ RefX validation encountered errors.');
+  console.error('\n❌ Refersleet validation encountered errors.');
   process.exit(1);
 } else {
-  console.log('\n✨ All RefX files successfully validated against JSON schemas!');
+  console.log('\n✨ All Refersleet files successfully validated against JSON schemas!');
 }
