@@ -57,7 +57,7 @@ const referrals = referralFiles.map(file => {
     },
     markdown_content: parsed.content.trim(),
     source_file: file,
-    refx_url: `https://refx.in/r/${data.refx?.redirect_slug || data.slug}`
+    referral_url: `https://saketkesar.github.io/refersleet/r/${data.redirect?.redirect_slug || data.refx?.redirect_slug || data.slug}`
   };
 });
 fs.writeFileSync(path.resolve('generated/referrals.json'), JSON.stringify(referrals, null, 2));

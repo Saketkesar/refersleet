@@ -50,7 +50,7 @@ description: |
 notes: |
   Check full brand commission rates at https://buyhatke.com/gift-cards/referral/brand-commissions
 
-refx:
+redirect:
   redirect_slug: buyhatke
   disclosure_required: true
   featured: false

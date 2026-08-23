@@ -20,7 +20,7 @@
     "verification",
     "tags",
     "description",
-    "refx"
+    "redirect"
   ],
   "properties": {
     "id": {
@@ -152,7 +152,7 @@
     "notes": {
       "type": "string"
     },
-    "refx": {
+    "redirect": {
       "type": "object",
       "required": ["redirect_slug", "disclosure_required"],
       "properties": {

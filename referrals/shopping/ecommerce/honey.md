@@ -53,7 +53,7 @@ description: |
 notes: |
   White gift box with blue ribbons, Orange shopping bag, Blue, white, and orange gift cards.
 
-refx:
+redirect:
   redirect_slug: honey
   disclosure_required: true
   featured: false

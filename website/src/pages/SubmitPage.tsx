@@ -74,7 +74,7 @@ screenshots:
   - ${logoUrl || 'https://example.com/logo.png'}
 description: |
   ${rewardDescription || name}
-refx:
+redirect:
   redirect_slug: ${slug || 'company-slug'}
   disclosure_required: true
   featured: false

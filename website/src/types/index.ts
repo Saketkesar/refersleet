@@ -33,7 +33,7 @@ export interface Verification {
   confidence: number;
 }
 
-export interface RefXMeta {
+export interface RedirectMeta {
   redirect_slug: string;
   disclosure_required: boolean;
   featured?: boolean;
@@ -61,10 +61,11 @@ export interface Referral {
   screenshots?: string[];
   description: string;
   notes?: string;
-  refx: RefXMeta;
+  redirect?: RedirectMeta;
+  refx?: RedirectMeta; // optional backward compatibility
   markdown_content?: string;
   source_file?: string;
-  refx_url?: string;
+  referral_url?: string;
 }
 
 export interface SubCategory {

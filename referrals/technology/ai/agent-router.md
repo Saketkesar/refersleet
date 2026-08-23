@@ -52,7 +52,7 @@ description: |
 notes: |
   Credits can be directly transferred to your active API balance for model inference.
 
-refx:
+redirect:
   redirect_slug: agent-router
   disclosure_required: true
   featured: false

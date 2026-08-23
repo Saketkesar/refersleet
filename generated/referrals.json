@@ -59,7 +59,7 @@
     ],
     "description": "Agent Router is an intelligent routing infrastructure for LLMs and autonomous agents. For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI credits (not real money). Transfer the reward amount to your account balance through the transfer function. The more friends you invite, the more rewards you will get.\n",
     "notes": "Credits can be directly transferred to your active API balance for model inference.\n",
-    "refx": {
+    "redirect": {
       "redirect_slug": "agent-router",
       "disclosure_required": true,
       "featured": false,
@@ -67,7 +67,7 @@
     },
     "markdown_content": "# Agent Router Referral Program\n\nFor each friend you invite to register, you get a **$150.00 reward** and your friend gets a **$50.00 reward** in AI credits (not real money).\n\n### How It Works:\n1. **Invite Friends**: Share your unique referral link with developers and AI builders.\n2. **Friend Registers**: Your friend gets **$50.00 in AI credits** on signup.\n3. **Receive $150.00 Reward**: You receive **$150.00 in AI credits** per registration.\n4. **Transfer to Balance**: Transfer the reward amount to your account balance through the transfer function.\n5. The more friends you invite, the more rewards you get.",
     "source_file": "referrals/technology/ai/agent-router.md",
-    "refx_url": "https://refx.in/r/agent-router"
+    "referral_url": "https://saketkesar.github.io/refersleet/r/agent-router"
   },
   {
     "id": "honey",
@@ -130,7 +130,7 @@
     ],
     "description": "Honey is a free browser extension and mobile shopping tool by PayPal that automatically discovers and applies coupon codes at checkout across thousands of online stores. Members collect Honey Gold on eligible purchases, which can be redeemed for gift cards.\n",
     "notes": "White gift box with blue ribbons, Orange shopping bag, Blue, white, and orange gift cards.\n",
-    "refx": {
+    "redirect": {
       "redirect_slug": "honey",
       "disclosure_required": true,
       "featured": false,
@@ -138,7 +138,7 @@
     },
     "markdown_content": "# Honey by PayPal Referral Program\n\nAutomatically apply coupon codes and earn gift card rewards on your purchases.\n\n### How it works:\n1. **Invite**: Refer friends with your unique link `joinhoney.com/ref/odbpdid`.\n2. **Collect rewards**: Get 500 Gold when they sign up using your link and make their first qualifying purchase.\n3. **Get gift cards**: Redeem for a ₹500 / $5 gift card once you collect 1,000 Gold.",
     "source_file": "referrals/shopping/ecommerce/honey.md",
-    "refx_url": "https://refx.in/r/honey"
+    "referral_url": "https://saketkesar.github.io/refersleet/r/honey"
   },
   {
     "id": "buyhatke",
@@ -198,7 +198,7 @@
     ],
     "description": "Buyhatke Gift Card Referral Program lets you earn instant wallet points and brand commissions whenever your referred friends purchase gift cards across hundreds of top retail brands.\n",
     "notes": "Check full brand commission rates at https://buyhatke.com/gift-cards/referral/brand-commissions\n",
-    "refx": {
+    "redirect": {
       "redirect_slug": "buyhatke",
       "disclosure_required": true,
       "featured": false,
@@ -206,6 +206,6 @@
     },
     "markdown_content": "# Buyhatke Gift Card Referral Program\n\nThree simple steps to start earning rewards:\n\n### 🔗 Step 01: Share your link\nCopy your unique referral link and share it with your friends via WhatsApp, Email or Social Media.\n\n### 🛍️ Step 02: Friends sign up & buy\nYour friends sign up using your link and purchase their first gift card from hundreds of brands.\n\n### 💰 Step 03: You get rewards\nVoila! You receive points instantly in your rewards wallet for every order your friends place. Check active brand commission tiers at `buyhatke.com/gift-cards/referral/brand-commissions`.",
     "source_file": "referrals/shopping/ecommerce/buyhatke.md",
-    "refx_url": "https://refx.in/r/buyhatke"
+    "referral_url": "https://saketkesar.github.io/refersleet/r/buyhatke"
   }
 ]

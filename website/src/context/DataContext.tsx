@@ -151,12 +151,12 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
       },
       tags: sub.tags,
       description: sub.description,
-      refx: {
+      redirect: {
         redirect_slug: sub.slug,
         disclosure_required: true,
         destination_url: sub.destination_url
       },
-      refx_url: `https://refx.in/r/${sub.slug}`
+      referral_url: `https://saketkesar.github.io/refersleet/r/${sub.slug}`
     };
 
     const updatedReferrals = [newReferral, ...referrals];
