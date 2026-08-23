@@ -1,22 +1,7 @@
 {
-  "calculated_at": "2026-08-23T07:58:52.962Z",
+  "calculated_at": "2026-08-23T08:16:06.498Z",
   "total_referrals": 3,
   "trending": [
-    {
-      "id": "buyhatke",
-      "slug": "buyhatke",
-      "name": "Buyhatke",
-      "category": [
-        "shopping"
-      ],
-      "reward": {
-        "referrer": "Instant points per order + Brand commissions",
-        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
-        "type": "sale_reward_cps",
-        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
-      },
-      "confidence": 100
-    },
     {
       "id": "honey",
       "slug": "honey",
@@ -44,6 +29,21 @@
         "referred_user": "$50.00 AI Compute Credits",
         "type": "dual_sided",
         "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "buyhatke",
+      "slug": "buyhatke",
+      "name": "Buyhatke",
+      "category": [
+        "shopping"
+      ],
+      "reward": {
+        "referrer": "Instant points per order + Brand commissions",
+        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
+        "type": "sale_reward_cps",
+        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
       },
       "confidence": 100
     }
