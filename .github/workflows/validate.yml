@@ -1,4 +1,4 @@
-name: RefX Schema & Link Validation
+name: Refersleet Schema & Link Validation
 
 on:
   push:

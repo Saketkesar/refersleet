@@ -1,187 +1,60 @@
 openapi: 3.0.3
 info:
-  title: RefX Public API
+  title: Refersleet Public Data API
   description: |
-    Free, community-powered public API providing structured referral programs, reward codes, and discount data for India.
+    Free, community-powered public API providing structured referral programs, reward codes, and developer perks.
   version: 1.0.0
   contact:
-    name: RefX Community
-    url: https://github.com/saketkesar/Refx
+    name: Saket Kesar
+    url: https://github.com/Saketkesar/refersleet
+    email: kesarsaket607@gmail.com
 servers:
-  - url: https://api.refx.in/v1
-    description: Production API Server
-  - url: http://localhost:3000/api/v1
-    description: Local Development Server
-
+  - url: https://raw.githubusercontent.com/Saketkesar/refersleet/main/generated
+    description: GitHub Raw CDN Feed
 paths:
-  /stats:
+  /referrals.json:
     get:
-      summary: Get platform statistics
-      description: Returns aggregate counts of referrals, categories, contributors, and verification confidence.
+      summary: Get all active referral programs
+      description: Returns a list of all active verified referral programs.
       responses:
         '200':
           description: Successful response
           content:
             application/json:
               schema:
-                $ref: '#/components/schemas/Stats'
-
-  /referrals:
-    get:
-      summary: List all active referral programs
-      description: Query referral programs with optional filtering by category, status, reward type, or search term.
-      parameters:
-        - name: category
-          in: query
-          description: Filter by category slug (e.g., finance, technology)
-          schema:
-            type: string
-        - name: status
-          in: query
-          description: Filter by status (active, expired)
-          schema:
-            type: string
-            default: active
-        - name: tag
-          in: query
-          description: Filter by tag (e.g., student, cashback)
-          schema:
-            type: string
-        - name: sort
-          in: query
-          description: Sorting field
-          schema:
-            type: string
-            enum: [trending, highest_reward, confidence, newest]
-            default: trending
-        - name: q
-          in: query
-          description: Search term query
-          schema:
-            type: string
-      responses:
-        '200':
-          description: List of referrals
-          content:
-            application/json:
-              schema:
                 type: array
                 items:
                   $ref: '#/components/schemas/Referral'
-
-  /referrals/{slug}:
+  /categories.json:
     get:
-      summary: Get single referral by slug
-      parameters:
-        - name: slug
-          in: path
-          required: true
-          schema:
-            type: string
+      summary: Get all categories
       responses:
         '200':
-          description: Detailed referral record
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/Referral'
-        '404':
-          description: Referral not found
-
-  /categories:
+          description: Successful response
+  /stats.json:
     get:
-      summary: List all categories and subcategories
+      summary: Get platform summary statistics
       responses:
         '200':
-          description: Array of category trees
-          content:
-            application/json:
-              schema:
-                type: array
-                items:
-                  $ref: '#/components/schemas/Category'
-
-  /contributors:
-    get:
-      summary: List top contributors and leaderboard
-      responses:
-        '200':
-          description: Contributor profiles with reputation rankings
-          content:
-            application/json:
-              schema:
-                type: array
-                items:
-                  $ref: '#/components/schemas/Contributor'
-
-  /rankings:
-    get:
-      summary: Get ranked referral lists
-      responses:
-        '200':
-          description: Trending and trusted leaderboards
-
+          description: Successful response
 components:
   schemas:
-    Stats:
-      type: object
-      properties:
-        total_referrals: { type: integer, example: 120 }
-        active_referrals: { type: integer, example: 110 }
-        total_categories: { type: integer, example: 7 }
-        total_contributors: { type: integer, example: 35 }
-        total_verifications: { type: integer, example: 1420 }
-        average_confidence: { type: number, example: 98.2 }
-
     Referral:
       type: object
+      required:
+        - id
+        - name
+        - slug
+        - status
+        - reward
       properties:
-        id: { type: string, example: "cred" }
-        name: { type: string, example: "CRED" }
-        slug: { type: string, example: "cred" }
-        status: { type: string, example: "active" }
-        category: { type: array, items: { type: string } }
-        official_website: { type: string, format: "uri" }
+        id:
+          type: string
+        name:
+          type: string
+        slug:
+          type: string
+        status:
+          type: string
         reward:
           type: object
-          properties:
-            referrer: { type: string, example: "₹1,000" }
-            referred_user: { type: string, example: "₹250 cashback" }
-            type: { type: string, example: "cashback" }
-            description: { type: string }
-        eligibility: { type: array, items: { type: string } }
-        requirements: { type: array, items: { type: string } }
-        terms_url: { type: string, format: "uri" }
-        submitted_by:
-          type: object
-          properties:
-            username: { type: string }
-            display_name: { type: string }
-        last_verified: { type: string, example: "2026-08-23" }
-        verification:
-          type: object
-          properties:
-            status: { type: string }
-            confidence: { type: number, example: 97 }
-            working_votes: { type: integer }
-            not_working_votes: { type: integer }
-        refx_url: { type: string, format: "uri", example: "https://refx.in/r/cred" }
-
-    Category:
-      type: object
-      properties:
-        id: { type: string }
-        name: { type: string }
-        slug: { type: string }
-        icon: { type: string }
-        description: { type: string }
-        subcategories: { type: array, items: { type: object } }
-
-    Contributor:
-      type: object
-      properties:
-        username: { type: string }
-        display_name: { type: string }
-        reputation: { type: integer }
-        rank: { type: integer }
-        badges: { type: array, items: { type: string } }

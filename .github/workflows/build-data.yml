@@ -10,6 +10,9 @@ on:
       - 'schema/**'
       - 'scripts/**'
 
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Rebuild Indexes & Static API
@@ -34,4 +37,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(data): auto-generate updated JSON indexes [skip ci]"
-          file_pattern: "generated/*.json"
+          file_pattern: "generated/*.json website/public/api/*.json"
