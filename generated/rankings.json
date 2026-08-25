@@ -1,5 +1,5 @@
 {
-  "calculated_at": "2026-08-25T06:22:31.443Z",
+  "calculated_at": "2026-08-25T06:22:54.435Z",
   "total_referrals": 5,
   "trending": [
     {
@@ -14,6 +14,21 @@
         "referred_user": "₹20 Instant FamCash",
         "type": "dual_sided",
         "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "honey",
+      "slug": "honey",
+      "name": "Honey by PayPal",
+      "category": [
+        "shopping"
+      ],
+      "reward": {
+        "referrer": "500 Honey Gold",
+        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
+        "type": "dual_sided",
+        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
       },
       "confidence": 100
     },
@@ -59,21 +74,6 @@
         "referred_user": "$50.00 AI Compute Credits",
         "type": "dual_sided",
         "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "honey",
-      "slug": "honey",
-      "name": "Honey by PayPal",
-      "category": [
-        "shopping"
-      ],
-      "reward": {
-        "referrer": "500 Honey Gold",
-        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
-        "type": "dual_sided",
-        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
       },
       "confidence": 100
     }
