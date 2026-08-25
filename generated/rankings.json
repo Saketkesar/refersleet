@@ -1,19 +1,19 @@
 {
-  "calculated_at": "2026-08-25T06:27:04.116Z",
+  "calculated_at": "2026-08-25T06:31:07.056Z",
   "total_referrals": 8,
   "trending": [
     {
-      "id": "agent-router",
-      "slug": "agent-router",
-      "name": "Agent Router",
+      "id": "honey",
+      "slug": "honey",
+      "name": "Honey by PayPal",
       "category": [
-        "technology"
+        "shopping"
       ],
       "reward": {
-        "referrer": "$150.00 AI Credits",
-        "referred_user": "$50.00 AI Compute Credits",
+        "referrer": "500 Honey Gold",
+        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
         "type": "dual_sided",
-        "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
+        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
       },
       "confidence": 100
     },
@@ -33,21 +33,6 @@
       "confidence": 100
     },
     {
-      "id": "pollpe",
-      "slug": "pollpe",
-      "name": "PollPe",
-      "category": [
-        "lifestyle"
-      ],
-      "reward": {
-        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
-        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
-        "type": "dual_sided",
-        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
-      },
-      "confidence": 100
-    },
-    {
       "id": "pawns-app",
       "slug": "pawns-app",
       "name": "Pawns.app",
@@ -63,17 +48,17 @@
       "confidence": 100
     },
     {
-      "id": "rooter",
-      "slug": "rooter",
-      "name": "Rooter",
+      "id": "pollpe",
+      "slug": "pollpe",
+      "name": "PollPe",
       "category": [
-        "other"
+        "lifestyle"
       ],
       "reward": {
-        "referrer": "Up to ₹100 / Diamonds per verified friend",
-        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
-        "type": "lead_reward_cpl",
-        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
+        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
+        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
+        "type": "dual_sided",
+        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
       },
       "confidence": 100
     },
@@ -93,17 +78,32 @@
       "confidence": 100
     },
     {
-      "id": "honey",
-      "slug": "honey",
-      "name": "Honey by PayPal",
+      "id": "agent-router",
+      "slug": "agent-router",
+      "name": "Agent Router",
       "category": [
-        "shopping"
+        "technology"
       ],
       "reward": {
-        "referrer": "500 Honey Gold",
-        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
+        "referrer": "$150.00 AI Credits",
+        "referred_user": "$50.00 AI Compute Credits",
         "type": "dual_sided",
-        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
+        "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "rooter",
+      "slug": "rooter",
+      "name": "Rooter",
+      "category": [
+        "other"
+      ],
+      "reward": {
+        "referrer": "Up to ₹100 / Diamonds per verified friend",
+        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
+        "type": "lead_reward_cpl",
+        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
       },
       "confidence": 100
     },
