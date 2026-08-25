@@ -1,19 +1,19 @@
 {
-  "calculated_at": "2026-08-25T06:13:32.247Z",
-  "total_referrals": 4,
+  "calculated_at": "2026-08-25T06:22:31.443Z",
+  "total_referrals": 5,
   "trending": [
     {
-      "id": "honey",
-      "slug": "honey",
-      "name": "Honey by PayPal",
+      "id": "famapp",
+      "slug": "famapp",
+      "name": "FamApp by FamPay",
       "category": [
-        "shopping"
+        "finance"
       ],
       "reward": {
-        "referrer": "500 Honey Gold",
-        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
+        "referrer": "₹20 FamCash per friend",
+        "referred_user": "₹20 Instant FamCash",
         "type": "dual_sided",
-        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
+        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
       },
       "confidence": 100
     },
@@ -29,6 +29,21 @@
         "referred_user": "$3 Starter Bonus ($1 after each of first 3 payouts)",
         "type": "dual_sided",
         "description": "Kick-start your money-making journey on Pawns.app with a $3 bonus — $1 after your 1st payout, $1 after your 2nd payout, and $1 after your 3rd payout."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "buyhatke",
+      "slug": "buyhatke",
+      "name": "Buyhatke",
+      "category": [
+        "shopping"
+      ],
+      "reward": {
+        "referrer": "Instant points per order + Brand commissions",
+        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
+        "type": "sale_reward_cps",
+        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
       },
       "confidence": 100
     },
@@ -59,36 +74,6 @@
         "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
         "type": "dual_sided",
         "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "buyhatke",
-      "slug": "buyhatke",
-      "name": "Buyhatke",
-      "category": [
-        "shopping"
-      ],
-      "reward": {
-        "referrer": "Instant points per order + Brand commissions",
-        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
-        "type": "sale_reward_cps",
-        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "famapp",
-      "slug": "famapp",
-      "name": "FamApp by FamPay",
-      "category": [
-        "finance"
-      ],
-      "reward": {
-        "referrer": "₹20 FamCash per friend",
-        "referred_user": "₹20 Instant FamCash",
-        "type": "dual_sided",
-        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
       },
       "confidence": 100
     }
@@ -133,6 +118,16 @@
       ],
       "confidence": 100,
       "votes": 0
+    },
+    {
+      "id": "famapp",
+      "slug": "famapp",
+      "name": "FamApp by FamPay",
+      "category": [
+        "finance"
+      ],
+      "confidence": 100,
+      "votes": 0
     }
   ],
   "newest": [
@@ -140,6 +135,12 @@
       "id": "pawns-app",
       "slug": "pawns-app",
       "name": "Pawns.app",
+      "submitted_at": "2026-08-25"
+    },
+    {
+      "id": "famapp",
+      "slug": "famapp",
+      "name": "FamApp by FamPay",
       "submitted_at": "2026-08-25"
     },
     {
