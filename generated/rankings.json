@@ -1,6 +1,6 @@
 {
-  "calculated_at": "2026-08-25T06:24:52.865Z",
-  "total_referrals": 6,
+  "calculated_at": "2026-08-25T06:26:08.792Z",
+  "total_referrals": 7,
   "trending": [
     {
       "id": "pawns-app",
@@ -18,17 +18,17 @@
       "confidence": 100
     },
     {
-      "id": "honey",
-      "slug": "honey",
-      "name": "Honey by PayPal",
+      "id": "pollpe",
+      "slug": "pollpe",
+      "name": "PollPe",
       "category": [
-        "shopping"
+        "lifestyle"
       ],
       "reward": {
-        "referrer": "500 Honey Gold",
-        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
+        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
+        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
         "type": "dual_sided",
-        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
+        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
       },
       "confidence": 100
     },
@@ -63,17 +63,32 @@
       "confidence": 100
     },
     {
-      "id": "pollpe",
-      "slug": "pollpe",
-      "name": "PollPe",
+      "id": "honey",
+      "slug": "honey",
+      "name": "Honey by PayPal",
+      "category": [
+        "shopping"
+      ],
+      "reward": {
+        "referrer": "500 Honey Gold",
+        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
+        "type": "dual_sided",
+        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "attapoll",
+      "slug": "attapoll",
+      "name": "AttaPoll",
       "category": [
         "lifestyle"
       ],
       "reward": {
-        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
-        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
+        "referrer": "10% of referral earnings + Signup bonus",
+        "referred_user": "Instant Welcome Bonus Credits + Paid Surveys",
         "type": "dual_sided",
-        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
+        "description": "Get paid for taking short surveys on your phone with low cashout thresholds to PayPal, Revolut, and digital gift cards."
       },
       "confidence": 100
     },
@@ -145,6 +160,16 @@
       "votes": 0
     },
     {
+      "id": "attapoll",
+      "slug": "attapoll",
+      "name": "AttaPoll",
+      "category": [
+        "lifestyle"
+      ],
+      "confidence": 100,
+      "votes": 0
+    },
+    {
       "id": "famapp",
       "slug": "famapp",
       "name": "FamApp by FamPay",
@@ -166,6 +191,12 @@
       "id": "pollpe",
       "slug": "pollpe",
       "name": "PollPe",
+      "submitted_at": "2026-08-25"
+    },
+    {
+      "id": "attapoll",
+      "slug": "attapoll",
+      "name": "AttaPoll",
       "submitted_at": "2026-08-25"
     },
     {
