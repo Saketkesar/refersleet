@@ -33,9 +33,12 @@ export const ContributorDetailPage: React.FC = () => {
     <div className="max-w-3xl mx-auto px-4 sm:px-6 py-10 space-y-8 bg-white">
       
       <div>
-        <Link to="/explore" className="text-xs text-stone-400 hover:text-stone-700 flex items-center gap-1 font-mono">
+        <Link
+          to="/explore"
+          className="inline-flex items-center gap-1 text-xs text-stone-500 hover:text-stone-900 font-mono transition-colors"
+        >
           <ArrowLeft className="w-3.5 h-3.5" />
-          <span>refx / directory</span>
+          <span>refersleet / directory</span>
         </Link>
       </div>
 

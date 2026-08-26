@@ -8,10 +8,10 @@ export const RedirectSimulatorPage: React.FC = () => {
   const { referrals } = useData();
 
   const referral = referrals.find(
-    r => r.refx?.redirect_slug === slug || r.slug === slug || r.id === slug
+    r => r.redirect?.redirect_slug === slug || r.slug === slug || r.id === slug
   );
 
-  const targetUrl = referral?.redirect?.destination_url || referral?.refx?.destination_url || referral?.official_website || 'https://saketkesar.github.io/refersleet/';
+  const targetUrl = referral?.redirect?.destination_url || referral?.official_website || 'https://saketkesar.github.io/refersleet/';
 
   let destinationHost = 'partner.com';
   try {

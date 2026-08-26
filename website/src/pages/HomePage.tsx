@@ -266,8 +266,8 @@ export const HomePage: React.FC = () => {
                       </td>
                       <td className="text-right whitespace-nowrap">
                         <Link
-                          to={`/r/${referral.refx?.redirect_slug || referral.slug}`}
-                          className="notion-btn-orange px-2.5 py-1 text-xs inline-flex items-center gap-1 shadow-xs"
+                          to={`/r/${referral.redirect?.redirect_slug || referral.refx?.redirect_slug || referral.slug}`}
+                          className="notion-btn-orange px-2.5 py-1 text-xs inline-flex items-center gap-1 shadow-xs font-semibold"
                         >
                           <span>Get</span>
                           <ArrowUpRight className="w-3 h-3" />

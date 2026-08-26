@@ -32,7 +32,7 @@ export const ReferralDetailPage: React.FC = () => {
 
   const getInitials = (name: string) => name.substring(0, 2).toUpperCase();
   const image = referral.screenshots?.[0];
-  const targetUrl = referral.refx?.destination_url || referral.official_website;
+  const targetUrl = referral.redirect?.destination_url || referral.official_website;
 
   const contributor = contributors.find(
     c => c.username.toLowerCase() === referral.submitted_by?.username?.toLowerCase()
@@ -60,19 +60,16 @@ export const ReferralDetailPage: React.FC = () => {
   return (
     <div className="max-w-3xl mx-auto px-4 sm:px-6 py-10 space-y-8 bg-white">
       
-      {/* Top Breadcrumb */}
+      {/* Breadcrumb Navigation */}
       <div className="flex items-center justify-between text-xs text-stone-400 font-mono">
-        <div className="flex items-center gap-1.5">
-          <Link to="/explore" className="hover:text-stone-800 flex items-center gap-1">
+        <div>
+          <Link
+            to="/explore"
+            className="inline-flex items-center gap-1 text-xs text-stone-500 hover:text-stone-900 font-mono transition-colors"
+          >
             <ArrowLeft className="w-3.5 h-3.5" />
-            <span>directory</span>
+            <span>refersleet / directory</span>
           </Link>
-          <span>/</span>
-          <Link to={`/category/${referral.category[0]}`} className="hover:text-stone-800 capitalize">
-            {referral.category[0]}
-          </Link>
-          <span>/</span>
-          <span className="text-stone-700">{referral.slug}</span>
         </div>
 
         <button
@@ -115,7 +112,7 @@ export const ReferralDetailPage: React.FC = () => {
         {/* Action CTA Bar */}
         <div className="flex flex-wrap items-center gap-3 pt-2">
           <Link
-            to={`/r/${referral.refx?.redirect_slug || referral.slug}`}
+            to={`/r/${referral.redirect?.redirect_slug || referral.slug}`}
             className="notion-btn-orange px-5 py-2.5 text-xs font-semibold inline-flex items-center gap-1.5 shadow-xs"
           >
             <span>Get {referral.name} Referral</span>

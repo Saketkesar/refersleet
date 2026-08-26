@@ -10,7 +10,7 @@ export const AdminPage: React.FC = () => {
       
       <div>
         <div className="text-xs text-stone-400 font-mono mb-1">
-          refx / moderation
+          refersleet / moderation
         </div>
         <h1 className="text-2xl sm:text-4xl font-bold text-stone-900 font-heading">
           Moderation Queue

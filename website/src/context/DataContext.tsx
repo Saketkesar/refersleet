@@ -36,17 +36,17 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
   });
 
   const [userVotes, setUserVotes] = useState<Record<string, 'working' | 'not_working' | 'reward_changed'>>(() => {
-    const saved = localStorage.getItem('refx_user_votes_v2');
+    const saved = localStorage.getItem('refersleet_user_votes_v2');
     return saved ? JSON.parse(saved) : {};
   });
 
   const [reports, setReports] = useState<IssueReport[]>(() => {
-    const saved = localStorage.getItem('refx_reports_v2');
+    const saved = localStorage.getItem('refersleet_reports_v2');
     return saved ? JSON.parse(saved) : [];
   });
 
   const [pendingSubmissions, setPendingSubmissions] = useState<SubmissionItem[]>(() => {
-    const saved = localStorage.getItem('refx_submissions_v2');
+    const saved = localStorage.getItem('refersleet_submissions_v2');
     return saved ? JSON.parse(saved) : [];
   });
 
@@ -95,7 +95,7 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
     const newVotes = { ...userVotes, [referralId]: voteType };
     setUserVotes(newVotes);
     setReferrals(updatedReferrals);
-    localStorage.setItem('refx_user_votes_v2', JSON.stringify(newVotes));
+    localStorage.setItem('refersleet_user_votes_v2', JSON.stringify(newVotes));
   };
 
   const submitReport = (reportData: Omit<IssueReport, 'id' | 'reportedAt' | 'status'>) => {
@@ -107,7 +107,7 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
     };
     const updated = [newReport, ...reports];
     setReports(updated);
-    localStorage.setItem('refx_reports_v2', JSON.stringify(updated));
+    localStorage.setItem('refersleet_reports_v2', JSON.stringify(updated));
   };
 
   const submitReferral = (subData: Omit<SubmissionItem, 'id' | 'submitted_at' | 'status'>) => {
@@ -119,7 +119,7 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
     };
     const updated = [newSub, ...pendingSubmissions];
     setPendingSubmissions(updated);
-    localStorage.setItem('refx_submissions_v2', JSON.stringify(updated));
+    localStorage.setItem('refersleet_submissions_v2', JSON.stringify(updated));
   };
 
   const approveSubmission = (id: string) => {
@@ -163,19 +163,19 @@ export const DataProvider: React.FC<{ children: React.ReactNode }> = ({ children
     const updatedSubs = pendingSubmissions.filter(s => s.id !== id);
     setReferrals(updatedReferrals);
     setPendingSubmissions(updatedSubs);
-    localStorage.setItem('refx_submissions_v2', JSON.stringify(updatedSubs));
+    localStorage.setItem('refersleet_submissions_v2', JSON.stringify(updatedSubs));
   };
 
   const rejectSubmission = (id: string) => {
     const updatedSubs = pendingSubmissions.filter(s => s.id !== id);
     setPendingSubmissions(updatedSubs);
-    localStorage.setItem('refx_submissions_v2', JSON.stringify(updatedSubs));
+    localStorage.setItem('refersleet_submissions_v2', JSON.stringify(updatedSubs));
   };
 
   const resolveReport = (id: string) => {
     const updatedReports = reports.map(r => r.id === id ? { ...r, status: 'resolved' as const } : r);
     setReports(updatedReports);
-    localStorage.setItem('refx_reports_v2', JSON.stringify(updatedReports));
+    localStorage.setItem('refersleet_reports_v2', JSON.stringify(updatedReports));
   };
 
   return (

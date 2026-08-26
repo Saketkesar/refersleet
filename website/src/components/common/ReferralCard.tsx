@@ -91,7 +91,7 @@ export const ReferralCard: React.FC<ReferralCardProps> = ({ referral }) => {
           </Link>
 
           <Link
-            to={`/r/${referral.refx?.redirect_slug || referral.slug}`}
+            to={`/r/${referral.redirect?.redirect_slug || referral.refx?.redirect_slug || referral.slug}`}
             className="notion-btn-orange px-3 py-1 text-xs flex items-center gap-1 shadow-xs"
           >
             <span>Get Referral</span>
