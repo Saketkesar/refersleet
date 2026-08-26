@@ -1,19 +1,49 @@
 {
-  "calculated_at": "2026-08-26T02:20:53.514Z",
+  "calculated_at": "2026-08-26T02:28:29.607Z",
   "total_referrals": 8,
   "trending": [
     {
-      "id": "famapp",
-      "slug": "famapp",
-      "name": "FamApp by FamPay",
+      "id": "rooter",
+      "slug": "rooter",
+      "name": "Rooter",
       "category": [
-        "finance"
+        "other"
       ],
       "reward": {
-        "referrer": "₹20 FamCash per friend",
-        "referred_user": "₹20 Instant FamCash",
+        "referrer": "Up to ₹100 / Diamonds per verified friend",
+        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
+        "type": "lead_reward_cpl",
+        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "agent-router",
+      "slug": "agent-router",
+      "name": "Agent Router",
+      "category": [
+        "technology"
+      ],
+      "reward": {
+        "referrer": "$150.00 AI Credits",
+        "referred_user": "$50.00 AI Compute Credits",
         "type": "dual_sided",
-        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
+        "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "pollpe",
+      "slug": "pollpe",
+      "name": "PollPe",
+      "category": [
+        "lifestyle"
+      ],
+      "reward": {
+        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
+        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
+        "type": "dual_sided",
+        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
       },
       "confidence": 100
     },
@@ -29,6 +59,21 @@
         "referred_user": "Instant Welcome Bonus Credits + Paid Surveys",
         "type": "dual_sided",
         "description": "Get paid for taking short surveys on your phone with low cashout thresholds to PayPal, Revolut, and digital gift cards."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "famapp",
+      "slug": "famapp",
+      "name": "FamApp by FamPay",
+      "category": [
+        "finance"
+      ],
+      "reward": {
+        "referrer": "₹20 FamCash per friend",
+        "referred_user": "₹20 Instant FamCash",
+        "type": "dual_sided",
+        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
       },
       "confidence": 100
     },
@@ -63,36 +108,6 @@
       "confidence": 100
     },
     {
-      "id": "pollpe",
-      "slug": "pollpe",
-      "name": "PollPe",
-      "category": [
-        "lifestyle"
-      ],
-      "reward": {
-        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
-        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
-        "type": "dual_sided",
-        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "agent-router",
-      "slug": "agent-router",
-      "name": "Agent Router",
-      "category": [
-        "technology"
-      ],
-      "reward": {
-        "referrer": "$150.00 AI Credits",
-        "referred_user": "$50.00 AI Compute Credits",
-        "type": "dual_sided",
-        "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
-      },
-      "confidence": 100
-    },
-    {
       "id": "buyhatke",
       "slug": "buyhatke",
       "name": "Buyhatke",
@@ -104,21 +119,6 @@
         "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
         "type": "sale_reward_cps",
         "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "rooter",
-      "slug": "rooter",
-      "name": "Rooter",
-      "category": [
-        "other"
-      ],
-      "reward": {
-        "referrer": "Up to ₹100 / Diamonds per verified friend",
-        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
-        "type": "lead_reward_cpl",
-        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
       },
       "confidence": 100
     }

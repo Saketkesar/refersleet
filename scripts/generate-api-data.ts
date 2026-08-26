@@ -60,5 +60,32 @@ fs.writeFileSync(path.join(publicApiDir, 'categories.json'), JSON.stringify(cate
 fs.writeFileSync(path.join(publicApiDir, 'contributors.json'), JSON.stringify(contributors, null, 2));
 fs.writeFileSync(path.join(publicApiDir, 'stats.json'), JSON.stringify(stats, null, 2));
 
+// Generate RSS 2.0 Feed
+const rssItems = referrals.map((r: any) => `    <item>
+      <title><![CDATA[${r.name}: ${r.reward.referred_user}]]></title>
+      <link>https://saketkesar.github.io/refersleet/#/referrals/${r.slug}</link>
+      <guid>https://saketkesar.github.io/refersleet/#/referrals/${r.slug}</guid>
+      <pubDate>${new Date(r.submitted_at).toUTCString()}</pubDate>
+      <description><![CDATA[${r.reward.description}]]></description>
+      <category>${r.category[0] || 'General'}</category>
+    </item>`).join('\n');
+
+const rssXml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refersleet — Verified Referral & Reward Feed</title>
+    <link>https://saketkesar.github.io/refersleet/</link>
+    <description>Latest community-verified referral offers, AI compute credits, and coupon rewards.</description>
+    <language>en-us</language>
+    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+    <atom:link href="https://saketkesar.github.io/refersleet/rss.xml" rel="self" type="application/rss+xml" />
+${rssItems}
+  </channel>
+</rss>`;
+
+fs.writeFileSync(path.resolve('generated/rss.xml'), rssXml);
+fs.writeFileSync(path.resolve('website/public/rss.xml'), rssXml);
+
 console.log(`✓ Generated generated/ & website/public/api/:`, stats);
+console.log('✓ Generated website/public/rss.xml feed for aggregators');
 console.log('✨ All Refersleet API data successfully compiled!');
