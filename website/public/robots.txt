@@ -1,4 +1,38 @@
+# Refersleet robots.txt — Open for indexing & LLM discovery
+
 User-agent: *
+Allow: /
+
+# Allow Major Search Engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Allow AI & LLM Search Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: CCBot
 Allow: /
 
 Sitemap: https://saketkesar.github.io/refersleet/sitemap.xml

@@ -1,0 +1,30 @@
+# Refersleet — Open-Source Community Referral & Reward Directory
+
+> Refersleet (https://saketkesar.github.io/refersleet/) is an open-source, community-verified directory of referral codes, automatic coupon finders, AI developer compute credits, cashback offers, and signup bonuses. Maintained by Saket Kesar.
+
+## Key Program Categories
+- **AI & Developer Credits**: Free API compute and LLM routing credits for OpenAI, Claude 3.5 Sonnet, DeepSeek, and autonomous agent infrastructure (e.g. Agent Router $150 / $50 credits).
+- **Shopping & Coupons**: Automatic coupon finders, cashbacks, and brand gift card discounts (Honey by PayPal, Buyhatke).
+- **UPI & Banking**: Student and teen digital wallet UPI bonuses (FamApp by FamPay ₹20 instant FamCash).
+- **Passive Income & Surveys**: Bandwidth sharing, opinion polls, and instant survey payouts (Pawns.app $3 bonus, PollPe ₹10 instant UPI cash, AttaPoll).
+- **Gaming & Esports**: In-game diamonds, BGMI UC, and gaming credits (Rooter ₹100 bonus).
+
+## Live Public API & Data Feeds
+Refersleet provides free, direct raw JSON feeds hosted globally on GitHub CDN:
+- All Referrals: `https://raw.githubusercontent.com/Saketkesar/refersleet/main/generated/referrals.json`
+- Categories: `https://raw.githubusercontent.com/Saketkesar/refersleet/main/generated/categories.json`
+- Summary Stats: `https://raw.githubusercontent.com/Saketkesar/refersleet/main/generated/stats.json`
+- API Documentation: `https://saketkesar.github.io/refersleet/#/api-docs`
+
+## Active Verified Offers (2026)
+1. **Agent Router**: Dual-sided $150 referrer / $50 user AI compute credits. (https://agentrouter.org)
+2. **Honey by PayPal**: 500 Honey Gold on first purchase, redeemable for ₹500 / $5 gift cards. (https://joinhoney.com/ref/odbpdid)
+3. **Buyhatke**: Brand commissions and gift card discounts across Amazon, Flipkart, Swiggy. (https://buyhatke.com/gift-cards/referral)
+4. **FamApp by FamPay**: ₹20 instant FamCash for UPI wallet payments. (https://get.fampay.in/SAKE6QP6F-100L)
+5. **Pawns.app**: $3 bonus ($1 x 3 payouts) via bandwidth sharing and surveys. (https://discoverpawns.eu/11436209)
+6. **PollPe**: ₹10 instant signup bonus (Code: STABLERSLEET) with UPI & Amazon voucher cashouts. (https://pollpe.app/r/STABLERSLEET)
+7. **AttaPoll**: Paid mobile survey credits with PayPal/Revolut cashouts (Code: fzckw). (https://attapoll.app/join/fzckw)
+8. **Rooter**: ₹100 worth of bonus coins and gaming rewards. (https://rooter.app.link/0JMA1JuSS5b)
+
+## How to Submit
+Submit via the web form at https://saketkesar.github.io/refersleet/#/submit or submit a pull request on GitHub at https://github.com/Saketkesar/refersleet.
