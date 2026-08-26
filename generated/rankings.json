@@ -1,7 +1,22 @@
 {
-  "calculated_at": "2026-08-26T02:28:57.995Z",
+  "calculated_at": "2026-08-26T02:32:46.612Z",
   "total_referrals": 8,
   "trending": [
+    {
+      "id": "buyhatke",
+      "slug": "buyhatke",
+      "name": "Buyhatke",
+      "category": [
+        "shopping"
+      ],
+      "reward": {
+        "referrer": "Instant points per order + Brand commissions",
+        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
+        "type": "sale_reward_cps",
+        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
+      },
+      "confidence": 100
+    },
     {
       "id": "pawns-app",
       "slug": "pawns-app",
@@ -14,21 +29,6 @@
         "referred_user": "$3 Starter Bonus ($1 after each of first 3 payouts)",
         "type": "dual_sided",
         "description": "Kick-start your money-making journey on Pawns.app with a $3 bonus — $1 after your 1st payout, $1 after your 2nd payout, and $1 after your 3rd payout."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "rooter",
-      "slug": "rooter",
-      "name": "Rooter",
-      "category": [
-        "other"
-      ],
-      "reward": {
-        "referrer": "Up to ₹100 / Diamonds per verified friend",
-        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
-        "type": "lead_reward_cpl",
-        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
       },
       "confidence": 100
     },
@@ -48,36 +48,6 @@
       "confidence": 100
     },
     {
-      "id": "pollpe",
-      "slug": "pollpe",
-      "name": "PollPe",
-      "category": [
-        "lifestyle"
-      ],
-      "reward": {
-        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
-        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
-        "type": "dual_sided",
-        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "attapoll",
-      "slug": "attapoll",
-      "name": "AttaPoll",
-      "category": [
-        "lifestyle"
-      ],
-      "reward": {
-        "referrer": "10% of referral earnings + Signup bonus",
-        "referred_user": "Instant Welcome Bonus Credits + Paid Surveys",
-        "type": "dual_sided",
-        "description": "Get paid for taking short surveys on your phone with low cashout thresholds to PayPal, Revolut, and digital gift cards."
-      },
-      "confidence": 100
-    },
-    {
       "id": "famapp",
       "slug": "famapp",
       "name": "FamApp by FamPay",
@@ -89,6 +59,21 @@
         "referred_user": "₹20 Instant FamCash",
         "type": "dual_sided",
         "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "pollpe",
+      "slug": "pollpe",
+      "name": "PollPe",
+      "category": [
+        "lifestyle"
+      ],
+      "reward": {
+        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
+        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
+        "type": "dual_sided",
+        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
       },
       "confidence": 100
     },
@@ -108,17 +93,32 @@
       "confidence": 100
     },
     {
-      "id": "buyhatke",
-      "slug": "buyhatke",
-      "name": "Buyhatke",
+      "id": "rooter",
+      "slug": "rooter",
+      "name": "Rooter",
       "category": [
-        "shopping"
+        "other"
       ],
       "reward": {
-        "referrer": "Instant points per order + Brand commissions",
-        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
-        "type": "sale_reward_cps",
-        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
+        "referrer": "Up to ₹100 / Diamonds per verified friend",
+        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
+        "type": "lead_reward_cpl",
+        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "attapoll",
+      "slug": "attapoll",
+      "name": "AttaPoll",
+      "category": [
+        "lifestyle"
+      ],
+      "reward": {
+        "referrer": "10% of referral earnings + Signup bonus",
+        "referred_user": "Instant Welcome Bonus Credits + Paid Surveys",
+        "type": "dual_sided",
+        "description": "Get paid for taking short surveys on your phone with low cashout thresholds to PayPal, Revolut, and digital gift cards."
       },
       "confidence": 100
     }
