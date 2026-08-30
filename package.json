@@ -34,7 +34,7 @@
     "ajv-formats": "^3.0.1",
     "glob": "^13.0.6",
     "gray-matter": "^4.0.3",
-    "js-yaml": "^5.3.0",
+    "js-yaml": "^5.4.1",
     "tsx": "^4.19.2",
     "typescript": "^7.0.2"
   }
