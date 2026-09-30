@@ -1,37 +1,7 @@
 {
-  "calculated_at": "2026-09-30T02:26:49.429Z",
+  "calculated_at": "2026-09-30T02:32:23.125Z",
   "total_referrals": 9,
   "trending": [
-    {
-      "id": "pollpe",
-      "slug": "pollpe",
-      "name": "PollPe",
-      "category": [
-        "lifestyle"
-      ],
-      "reward": {
-        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
-        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
-        "type": "dual_sided",
-        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "honey",
-      "slug": "honey",
-      "name": "Honey by PayPal",
-      "category": [
-        "shopping"
-      ],
-      "reward": {
-        "referrer": "500 Honey Gold",
-        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
-        "type": "dual_sided",
-        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
-      },
-      "confidence": 100
-    },
     {
       "id": "attapoll",
       "slug": "attapoll",
@@ -44,51 +14,6 @@
         "referred_user": "Instant Welcome Bonus Credits + Paid Surveys",
         "type": "dual_sided",
         "description": "Get paid for taking short surveys on your phone with low cashout thresholds to PayPal, Revolut, and digital gift cards."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "famapp",
-      "slug": "famapp",
-      "name": "FamApp by FamPay",
-      "category": [
-        "finance"
-      ],
-      "reward": {
-        "referrer": "₹20 FamCash per friend",
-        "referred_user": "₹20 Instant FamCash",
-        "type": "dual_sided",
-        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "agent-router",
-      "slug": "agent-router",
-      "name": "Agent Router",
-      "category": [
-        "technology"
-      ],
-      "reward": {
-        "referrer": "$150.00 AI Credits",
-        "referred_user": "$50.00 AI Compute Credits",
-        "type": "dual_sided",
-        "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "buyhatke",
-      "slug": "buyhatke",
-      "name": "Buyhatke",
-      "category": [
-        "shopping"
-      ],
-      "reward": {
-        "referrer": "Instant points per order + Brand commissions",
-        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
-        "type": "sale_reward_cps",
-        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
       },
       "confidence": 100
     },
@@ -135,7 +60,82 @@
         "type": "dual_sided",
         "description": "Invite a friend to Muse with your personal invite code. When they redeem it within 48 hours of signing up, you both get 1 billion free Muse tokens added to your accounts."
       },
-      "confidence": 80
+      "confidence": 95
+    },
+    {
+      "id": "agent-router",
+      "slug": "agent-router",
+      "name": "Agent Router",
+      "category": [
+        "technology"
+      ],
+      "reward": {
+        "referrer": "$150.00 AI Credits",
+        "referred_user": "$50.00 AI Compute Credits",
+        "type": "dual_sided",
+        "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "buyhatke",
+      "slug": "buyhatke",
+      "name": "Buyhatke",
+      "category": [
+        "shopping"
+      ],
+      "reward": {
+        "referrer": "Instant points per order + Brand commissions",
+        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
+        "type": "sale_reward_cps",
+        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "famapp",
+      "slug": "famapp",
+      "name": "FamApp by FamPay",
+      "category": [
+        "finance"
+      ],
+      "reward": {
+        "referrer": "₹20 FamCash per friend",
+        "referred_user": "₹20 Instant FamCash",
+        "type": "dual_sided",
+        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "honey",
+      "slug": "honey",
+      "name": "Honey by PayPal",
+      "category": [
+        "shopping"
+      ],
+      "reward": {
+        "referrer": "500 Honey Gold",
+        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
+        "type": "dual_sided",
+        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "pollpe",
+      "slug": "pollpe",
+      "name": "PollPe",
+      "category": [
+        "lifestyle"
+      ],
+      "reward": {
+        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
+        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
+        "type": "dual_sided",
+        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
+      },
+      "confidence": 100
     }
   ],
   "most_trusted": [
@@ -226,8 +226,8 @@
       "category": [
         "technology"
       ],
-      "confidence": 80,
-      "votes": 0
+      "confidence": 95,
+      "votes": 1
     }
   ],
   "newest": [

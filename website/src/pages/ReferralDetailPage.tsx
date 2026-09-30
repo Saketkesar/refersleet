@@ -296,6 +296,33 @@ export const ReferralDetailPage: React.FC = () => {
           </ol>
         </div>
 
+        {/* Visual Proof & Screenshots */}
+        {referral.screenshots && referral.screenshots.length > 0 && (
+          <div className="space-y-3 pt-2">
+            <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">
+              <span>Visual Proof & Claim Instructions</span>
+              <span className="text-xs font-normal text-stone-400">({referral.screenshots.length} screenshot)</span>
+            </h3>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              {referral.screenshots.map((imgUrl, idx) => (
+                <div key={idx} className="border border-stone-200 rounded-xl overflow-hidden shadow-xs bg-stone-50 group">
+                  <a href={imgUrl} target="_blank" rel="noopener noreferrer" className="block relative">
+                    <img
+                      src={imgUrl}
+                      alt={`${referral.name} verification screenshot`}
+                      className="w-full h-auto object-cover max-h-80 hover:opacity-95 transition-opacity"
+                    />
+                    <div className="absolute bottom-2 right-2 bg-stone-900/80 backdrop-blur-xs text-white text-[11px] px-2 py-1 rounded-md opacity-0 group-hover:opacity-100 transition-opacity flex items-center gap-1 font-mono">
+                      <span>View Full Image</span>
+                      <ExternalLink className="w-3 h-3" />
+                    </div>
+                  </a>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
         {/* Terms Link */}
         <div className="pt-2 text-xs text-stone-500">
           <a
@@ -308,7 +335,6 @@ export const ReferralDetailPage: React.FC = () => {
             <span>Read official program terms on {new URL(referral.official_website).hostname}</span>
           </a>
         </div>
-
       </div>
 
       {/* Community Verification Voting Box */}

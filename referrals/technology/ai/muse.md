@@ -10,6 +10,8 @@ subcategories:
 country:
   - US
   - CA
+  - IN
+  - GB
 official_website: https://muse.ai
 reward:
   referrer: "1 billion Muse tokens"
@@ -17,11 +19,12 @@ reward:
   type: dual_sided
   description: Invite a friend to Muse with your personal invite code. When they redeem it within 48 hours of signing up, you both get 1 billion free Muse tokens added to your accounts.
 eligibility:
-  - New Muse users in the US and Canada
-  - Code must be redeemed within 48 hours of creating the Muse account
+  - New Muse users
+  - Code must be claimed in Settings within 48 hours of creating the Muse account
 requirements:
   - Join Muse at https://muse.ai/join
-  - Within 48 hours of signing up, go to Settings → Redeem token and enter the invite code ZEP1V3
+  - Open Settings → General in your Muse app/dashboard
+  - Under Usage / Invitations, enter the invitation code O8VAV4 to claim 1 billion free tokens
 terms_url: https://muse.ai
 submitted_by:
   username: 535774696a-cpu
@@ -31,23 +34,35 @@ submitted_at: 2026-09-30
 last_verified: 2026-09-30
 verification:
   status: community-verified
-  working_votes: 0
+  working_votes: 1
   not_working_votes: 0
   reward_changed_votes: 0
-  confidence: 80
+  confidence: 95
 tags:
   - ai
   - personal-assistant
   - meta
   - invite-code
   - dual-sided
+  - llm-credits
+screenshots:
+  - https://saketkesar.github.io/refersleet/images/referrals/muse-settings.png
 description: |
-  Muse is Meta's personal AI agent. Each Muse account gets a personal 6-character invite code — share it and earn 1 billion free tokens every time someone redeems it. New users join at muse.ai/join, then within 48 hours go to Settings → Redeem token and enter the code ZEP1V3; both sides receive 1 billion tokens. A working community-shared code is ZEP1V3.
+  Muse is Meta's personal AI agent. Each Muse account gets a personal 6-character invite code — share it and earn 1 billion free tokens every time someone redeems it. New users join at https://muse.ai/join, then within 48 hours go to Settings → General → Claim Invitation and enter the code O8VAV4; both sides receive 1 billion free Muse tokens.
 notes: |
-  Each invite code has a limited number of redemptions. The Muse app currently shows 25 uses remaining for code ZEP1V3. If the code is used up, ask the community for a fresh one.
+  In Settings -> General, you can verify your active token balance and claim invitation codes. Ensure you enter code O8VAV4 within 48 hours of signup.
 redirect:
   redirect_slug: muse
   disclosure_required: true
   featured: false
   destination_url: https://muse.ai/join
 ---
+
+# Muse AI Referral Program
+
+Get 1 Billion Free Muse Tokens when signing up for Meta's personal AI agent Muse.
+
+### How to Claim:
+1. Sign up at [muse.ai/join](https://muse.ai/join).
+2. Within 48 hours, go to **Settings** → **General**.
+3. Enter invite code **`O8VAV4`** to claim your 1,000,000,000 free tokens!
