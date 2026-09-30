@@ -1,5 +1,5 @@
 {
-  "calculated_at": "2026-09-30T02:47:23.690Z",
+  "calculated_at": "2026-09-30T02:48:00.609Z",
   "total_referrals": 10,
   "trending": [
     {
@@ -14,21 +14,6 @@
         "referred_user": "1 billion Muse tokens",
         "type": "dual_sided",
         "description": "Invite a friend to Muse with your personal invite code. When they redeem it in Settings within 48 hours of joining, you both get 1 billion free Muse tokens."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "famapp",
-      "slug": "famapp",
-      "name": "FamApp by FamPay",
-      "category": [
-        "finance"
-      ],
-      "reward": {
-        "referrer": "₹20 FamCash per friend",
-        "referred_user": "₹20 Instant FamCash",
-        "type": "dual_sided",
-        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
       },
       "confidence": 100
     },
@@ -48,21 +33,6 @@
       "confidence": 100
     },
     {
-      "id": "pawns-app",
-      "slug": "pawns-app",
-      "name": "Pawns.app",
-      "category": [
-        "other"
-      ],
-      "reward": {
-        "referrer": "$3 bonus ($1 x 3 payouts) + 10% commission",
-        "referred_user": "$3 Starter Bonus ($1 after each of first 3 payouts)",
-        "type": "dual_sided",
-        "description": "Kick-start your money-making journey on Pawns.app with a $3 bonus — $1 after your 1st payout, $1 after your 2nd payout, and $1 after your 3rd payout."
-      },
-      "confidence": 100
-    },
-    {
       "id": "pollpe",
       "slug": "pollpe",
       "name": "PollPe",
@@ -78,32 +48,17 @@
       "confidence": 100
     },
     {
-      "id": "buyhatke",
-      "slug": "buyhatke",
-      "name": "Buyhatke",
-      "category": [
-        "shopping"
-      ],
-      "reward": {
-        "referrer": "Instant points per order + Brand commissions",
-        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
-        "type": "sale_reward_cps",
-        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "rooter",
-      "slug": "rooter",
-      "name": "Rooter",
+      "id": "pawns-app",
+      "slug": "pawns-app",
+      "name": "Pawns.app",
       "category": [
         "other"
       ],
       "reward": {
-        "referrer": "Up to ₹100 / Diamonds per verified friend",
-        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
-        "type": "lead_reward_cpl",
-        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
+        "referrer": "$3 bonus ($1 x 3 payouts) + 10% commission",
+        "referred_user": "$3 Starter Bonus ($1 after each of first 3 payouts)",
+        "type": "dual_sided",
+        "description": "Kick-start your money-making journey on Pawns.app with a $3 bonus — $1 after your 1st payout, $1 after your 2nd payout, and $1 after your 3rd payout."
       },
       "confidence": 100
     },
@@ -138,6 +93,21 @@
       "confidence": 100
     },
     {
+      "id": "buyhatke",
+      "slug": "buyhatke",
+      "name": "Buyhatke",
+      "category": [
+        "shopping"
+      ],
+      "reward": {
+        "referrer": "Instant points per order + Brand commissions",
+        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
+        "type": "sale_reward_cps",
+        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
+      },
+      "confidence": 100
+    },
+    {
       "id": "attapoll",
       "slug": "attapoll",
       "name": "AttaPoll",
@@ -149,6 +119,36 @@
         "referred_user": "Instant Welcome Bonus Credits + Paid Surveys",
         "type": "dual_sided",
         "description": "Get paid for taking short surveys on your phone with low cashout thresholds to PayPal, Revolut, and digital gift cards."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "famapp",
+      "slug": "famapp",
+      "name": "FamApp by FamPay",
+      "category": [
+        "finance"
+      ],
+      "reward": {
+        "referrer": "₹20 FamCash per friend",
+        "referred_user": "₹20 Instant FamCash",
+        "type": "dual_sided",
+        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "rooter",
+      "slug": "rooter",
+      "name": "Rooter",
+      "category": [
+        "other"
+      ],
+      "reward": {
+        "referrer": "Up to ₹100 / Diamonds per verified friend",
+        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
+        "type": "lead_reward_cpl",
+        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
       },
       "confidence": 100
     }
