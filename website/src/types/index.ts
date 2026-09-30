@@ -40,11 +40,18 @@ export interface RedirectMeta {
   destination_url?: string;
 }
 
+export interface AlternativeCode {
+  code: string;
+  submitted_by: string;
+  note?: string;
+}
+
 export interface Referral {
   id: string;
   name: string;
   slug: string;
   code?: string;
+  alternative_codes?: AlternativeCode[];
   status: 'active' | 'expired' | 'pending' | 'flagged' | 'archived';
   category: string[];
   subcategories?: string[];

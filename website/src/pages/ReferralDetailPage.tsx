@@ -17,8 +17,78 @@ export const ReferralDetailPage: React.FC = () => {
   const { referrals, contributors } = useData();
   const [copiedLink, setCopiedLink] = useState(false);
   const [copiedCode, setCopiedCode] = useState(false);
+  const [copiedCodeValue, setCopiedCodeValue] = useState<string | null>(null);
 
   const referral = referrals.find(r => r.slug === slug || r.id === slug);
+
+  React.useEffect(() => {
+    if (!referral) return;
+    
+    // Dynamic SEO 100 Title & Meta Tags
+    document.title = `${referral.name} Referral Code ${referral.code ? `(${referral.code}) ` : ''}– Get ${referral.reward.referred_user} | Refersleet`;
+    
+    let metaDesc = document.querySelector('meta[name="description"]');
+    if (!metaDesc) {
+      metaDesc = document.createElement('meta');
+      metaDesc.setAttribute('name', 'description');
+      document.head.appendChild(metaDesc);
+    }
+    metaDesc.setAttribute('content', `Verified ${referral.name} referral code, invite links & bonus: ${referral.reward.referred_user}. Free open directory.`);
+
+    // Inject JSON-LD Rich Snippet for 100% SEO Score
+    const schemaScriptId = 'referral-jsonld';
+    let scriptEl = document.getElementById(schemaScriptId) as HTMLScriptElement | null;
+    if (!scriptEl) {
+      scriptEl = document.createElement('script');
+      scriptEl.id = schemaScriptId;
+      scriptEl.type = 'application/ld+json';
+      document.head.appendChild(scriptEl);
+    }
+
+    scriptEl.textContent = JSON.stringify({
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Product',
+          'name': referral.name,
+          'image': referral.screenshots?.[0] || 'https://saketkesar.github.io/refersleet/logo.png',
+          'description': referral.description,
+          'offers': {
+            '@type': 'Offer',
+            'price': '0',
+            'priceCurrency': 'USD',
+            'availability': 'https://schema.org/InStock',
+            'priceValidUntil': '2027-12-31',
+            'url': referral.redirect?.destination_url || referral.official_website,
+            'description': referral.reward.referred_user
+          }
+        },
+        {
+          '@type': 'BreadcrumbList',
+          'itemListElement': [
+            {
+              '@type': 'ListItem',
+              'position': 1,
+              'name': 'Home',
+              'item': 'https://saketkesar.github.io/refersleet/'
+            },
+            {
+              '@type': 'ListItem',
+              'position': 2,
+              'name': referral.category[0] || 'Directory',
+              'item': `https://saketkesar.github.io/refersleet/#/explore`
+            },
+            {
+              '@type': 'ListItem',
+              'position': 3,
+              'name': referral.name,
+              'item': `https://saketkesar.github.io/refersleet/#/referrals/${referral.slug}`
+            }
+          ]
+        }
+      ]
+    });
+  }, [referral]);
 
   if (!referral) {
     return (
@@ -190,6 +260,65 @@ export const ReferralDetailPage: React.FC = () => {
           </div>
         </div>
       </div>
+
+      {/* Community Codes Picker (Users Choice) */}
+      {referral.alternative_codes && referral.alternative_codes.length > 0 && (
+        <div className="p-4 bg-orange-50/60 border border-orange-200/90 rounded-xl space-y-3">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <span className="font-bold text-stone-900 text-xs">Community Contributor Codes</span>
+              <span className="text-[11px] font-mono text-orange-950 bg-orange-100 px-2 py-0.5 rounded font-semibold">
+                {referral.alternative_codes.length} available
+              </span>
+            </div>
+            <span className="text-[11px] text-stone-500 hidden sm:inline">Pick any active code to claim reward</span>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+            {referral.alternative_codes.map((alt, idx) => {
+              const isCopied = copiedCodeValue === alt.code;
+              return (
+                <div
+                  key={idx}
+                  className="p-3 bg-white border border-stone-200 rounded-lg shadow-2xs flex items-center justify-between gap-2 hover:border-orange-300 transition-colors"
+                >
+                  <div className="space-y-0.5 min-w-0">
+                    <div className="flex items-center gap-1.5">
+                      <span className="font-mono font-bold text-xs text-orange-950 bg-orange-50 px-2 py-0.5 rounded border border-orange-200 select-all">
+                        {alt.code}
+                      </span>
+                      <Link
+                        to={`/contributors/${alt.submitted_by}`}
+                        className="text-[11px] text-stone-500 hover:text-orange-600 font-mono truncate"
+                      >
+                        @{alt.submitted_by}
+                      </Link>
+                    </div>
+                    {alt.note && (
+                      <div className="text-[11px] text-stone-500 line-clamp-1">
+                        {alt.note}
+                      </div>
+                    )}
+                  </div>
+
+                  <button
+                    type="button"
+                    onClick={() => {
+                      navigator.clipboard.writeText(alt.code);
+                      setCopiedCodeValue(alt.code);
+                      setTimeout(() => setCopiedCodeValue(null), 2000);
+                    }}
+                    className="shrink-0 px-2.5 py-1 bg-white hover:bg-orange-50 text-orange-900 border border-stone-200 hover:border-orange-200 rounded text-xs font-semibold inline-flex items-center gap-1 cursor-pointer transition-colors"
+                  >
+                    {isCopied ? <Check className="w-3 h-3 text-emerald-600" /> : <Copy className="w-3 h-3 text-stone-500" />}
+                    <span>{isCopied ? 'Copied' : 'Copy'}</span>
+                  </button>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      )}
 
       {/* Notion Document Properties Table */}
       <div className="p-4 bg-white rounded-xl border border-stone-200 space-y-2.5 text-xs">

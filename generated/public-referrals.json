@@ -96,7 +96,7 @@
     "requirements": [
       "Sign up for Muse at https://muse.ai/join",
       "Open Settings → General inside the Muse app/dashboard",
-      "Enter referral code O8VAV4 to claim 1 billion free Muse tokens"
+      "Enter either community code O8VAV4 or ZEP1V3 under Claim Invitation to receive 1 billion free Muse tokens"
     ],
     "terms_url": "https://muse.ai",
     "submitted_by": {
@@ -108,7 +108,7 @@
     "last_verified": "2026-09-30",
     "verification": {
       "status": "official-verified",
-      "working_votes": 5,
+      "working_votes": 6,
       "not_working_votes": 0,
       "reward_changed_votes": 0,
       "confidence": 100
@@ -125,7 +125,7 @@
       "https://lookaside.fbsbx.com/elementpath/media/?media_id=878166652047061&version=1789771377&transcode_extension=webp",
       "https://saketkesar.github.io/refersleet/images/referrals/muse-settings.png"
     ],
-    "description": "Take a look at Muse – your personal AI agent from Meta. Redeem code O8VAV4 in Settings within 48 hours of joining and both sides receive 1 billion free Muse tokens added to their account balance for AI generation and assistance.\n"
+    "description": "Take a look at Muse – your personal AI agent from Meta. Redeem community codes O8VAV4 or ZEP1V3 in Settings within 48 hours of joining and both sides receive 1 billion free Muse tokens added to their balance for AI generation and assistance.\n"
   },
   {
     "id": "agent-router",
