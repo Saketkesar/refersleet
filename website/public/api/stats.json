@@ -1,9 +1,9 @@
 {
-  "total_referrals": 9,
-  "active_referrals": 9,
+  "total_referrals": 10,
+  "active_referrals": 10,
   "total_categories": 7,
   "total_contributors": 2,
-  "total_verifications": 1,
-  "average_confidence": 99,
-  "last_synced_at": "2026-09-30T02:36:14.312Z"
+  "total_verifications": 6,
+  "average_confidence": 100,
+  "last_synced_at": "2026-09-30T02:47:24.091Z"
 }

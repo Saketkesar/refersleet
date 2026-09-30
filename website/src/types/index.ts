@@ -44,6 +44,7 @@ export interface Referral {
   id: string;
   name: string;
   slug: string;
+  code?: string;
   status: 'active' | 'expired' | 'pending' | 'flagged' | 'archived';
   category: string[];
   subcategories?: string[];

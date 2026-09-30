@@ -36,6 +36,9 @@
       "type": "string",
       "pattern": "^[a-z0-9-]+$"
     },
+    "code": {
+      "type": "string"
+    },
     "status": {
       "type": "string",
       "enum": ["active", "expired", "pending", "flagged", "archived"]
