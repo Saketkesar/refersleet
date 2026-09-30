@@ -1,7 +1,22 @@
 {
-  "calculated_at": "2026-09-30T03:11:28.568Z",
+  "calculated_at": "2026-09-30T03:13:41.024Z",
   "total_referrals": 10,
   "trending": [
+    {
+      "id": "yap-cash",
+      "slug": "yap-cash",
+      "name": "Yap Cash",
+      "category": [
+        "technology"
+      ],
+      "reward": {
+        "referrer": "$5 gift card per 5 active users",
+        "referred_user": "+200 XP free bonus",
+        "type": "gift_card",
+        "description": "Earn free gift cards just by using ChatGPT & Claude. Join with invite link or code YC-GETSAKET to get +200 XP free instantly when installing the browser extension. Referrers receive a $5 gift card per 5 users who use the extension for 7 days."
+      },
+      "confidence": 100
+    },
     {
       "id": "muse",
       "slug": "muse",
@@ -14,21 +29,6 @@
         "referred_user": "1 billion Muse tokens",
         "type": "dual_sided",
         "description": "Invite a friend to Muse with your personal invite code. When they redeem it in Settings within 48 hours of joining, you both get 1 billion free Muse tokens."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "honey",
-      "slug": "honey",
-      "name": "Honey by PayPal",
-      "category": [
-        "shopping"
-      ],
-      "reward": {
-        "referrer": "500 Honey Gold",
-        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
-        "type": "dual_sided",
-        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
       },
       "confidence": 100
     },
@@ -48,32 +48,32 @@
       "confidence": 100
     },
     {
-      "id": "famapp",
-      "slug": "famapp",
-      "name": "FamApp by FamPay",
+      "id": "pollpe",
+      "slug": "pollpe",
+      "name": "PollPe",
       "category": [
-        "finance"
+        "lifestyle"
       ],
       "reward": {
-        "referrer": "₹20 FamCash per friend",
-        "referred_user": "₹20 Instant FamCash",
+        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
+        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
         "type": "dual_sided",
-        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
+        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
       },
       "confidence": 100
     },
     {
-      "id": "yap-cash",
-      "slug": "yap-cash",
-      "name": "Yap Cash",
+      "id": "honey",
+      "slug": "honey",
+      "name": "Honey by PayPal",
       "category": [
-        "technology"
+        "shopping"
       ],
       "reward": {
-        "referrer": "$5 gift card per 5 active users",
-        "referred_user": "+200 XP free bonus",
-        "type": "gift_card",
-        "description": "Earn free gift cards just by using ChatGPT & Claude. Join with invite link or code YC-GETSAKET to get +200 XP free instantly when installing the browser extension. Referrers receive a $5 gift card per 5 users who use the extension for 7 days."
+        "referrer": "500 Honey Gold",
+        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
+        "type": "dual_sided",
+        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
       },
       "confidence": 100
     },
@@ -108,32 +108,17 @@
       "confidence": 100
     },
     {
-      "id": "pollpe",
-      "slug": "pollpe",
-      "name": "PollPe",
+      "id": "famapp",
+      "slug": "famapp",
+      "name": "FamApp by FamPay",
       "category": [
-        "lifestyle"
+        "finance"
       ],
       "reward": {
-        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
-        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
+        "referrer": "₹20 FamCash per friend",
+        "referred_user": "₹20 Instant FamCash",
         "type": "dual_sided",
-        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "attapoll",
-      "slug": "attapoll",
-      "name": "AttaPoll",
-      "category": [
-        "lifestyle"
-      ],
-      "reward": {
-        "referrer": "10% of referral earnings + Signup bonus",
-        "referred_user": "Instant Welcome Bonus Credits + Paid Surveys",
-        "type": "dual_sided",
-        "description": "Get paid for taking short surveys on your phone with low cashout thresholds to PayPal, Revolut, and digital gift cards."
+        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
       },
       "confidence": 100
     },
@@ -149,6 +134,21 @@
         "referred_user": "$50.00 AI Compute Credits",
         "type": "dual_sided",
         "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "attapoll",
+      "slug": "attapoll",
+      "name": "AttaPoll",
+      "category": [
+        "lifestyle"
+      ],
+      "reward": {
+        "referrer": "10% of referral earnings + Signup bonus",
+        "referred_user": "Instant Welcome Bonus Credits + Paid Surveys",
+        "type": "dual_sided",
+        "description": "Get paid for taking short surveys on your phone with low cashout thresholds to PayPal, Revolut, and digital gift cards."
       },
       "confidence": 100
     }
