@@ -30,7 +30,7 @@ submitted_by:
 submitted_at: 2026-09-30
 last_verified: 2026-09-30
 verification:
-  status: community-submitted
+  status: community-verified
   working_votes: 0
   not_working_votes: 0
   reward_changed_votes: 0
