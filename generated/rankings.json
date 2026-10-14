@@ -1,5 +1,5 @@
 {
-  "calculated_at": "2026-10-14T12:50:37.587Z",
+  "calculated_at": "2026-10-14T12:54:16.731Z",
   "total_referrals": 10,
   "trending": [
     {
@@ -33,17 +33,17 @@
       "confidence": 100
     },
     {
-      "id": "agent-router",
-      "slug": "agent-router",
-      "name": "Agent Router",
+      "id": "honey",
+      "slug": "honey",
+      "name": "Honey by PayPal",
       "category": [
-        "technology"
+        "shopping"
       ],
       "reward": {
-        "referrer": "$150.00 AI Credits",
-        "referred_user": "$50.00 AI Compute Credits",
+        "referrer": "500 Honey Gold",
+        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
         "type": "dual_sided",
-        "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
+        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
       },
       "confidence": 100
     },
@@ -63,17 +63,17 @@
       "confidence": 100
     },
     {
-      "id": "famapp",
-      "slug": "famapp",
-      "name": "FamApp by FamPay",
+      "id": "rooter",
+      "slug": "rooter",
+      "name": "Rooter",
       "category": [
-        "finance"
+        "other"
       ],
       "reward": {
-        "referrer": "₹20 FamCash per friend",
-        "referred_user": "₹20 Instant FamCash",
-        "type": "dual_sided",
-        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
+        "referrer": "Up to ₹100 / Diamonds per verified friend",
+        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
+        "type": "lead_reward_cpl",
+        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
       },
       "confidence": 100
     },
@@ -93,36 +93,6 @@
       "confidence": 100
     },
     {
-      "id": "honey",
-      "slug": "honey",
-      "name": "Honey by PayPal",
-      "category": [
-        "shopping"
-      ],
-      "reward": {
-        "referrer": "500 Honey Gold",
-        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
-        "type": "dual_sided",
-        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "rooter",
-      "slug": "rooter",
-      "name": "Rooter",
-      "category": [
-        "other"
-      ],
-      "reward": {
-        "referrer": "Up to ₹100 / Diamonds per verified friend",
-        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
-        "type": "lead_reward_cpl",
-        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
-      },
-      "confidence": 100
-    },
-    {
       "id": "pawns-app",
       "slug": "pawns-app",
       "name": "Pawns.app",
@@ -134,6 +104,36 @@
         "referred_user": "$3 Starter Bonus ($1 after each of first 3 payouts)",
         "type": "dual_sided",
         "description": "Kick-start your money-making journey on Pawns.app with a $3 bonus — $1 after your 1st payout, $1 after your 2nd payout, and $1 after your 3rd payout."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "famapp",
+      "slug": "famapp",
+      "name": "FamApp by FamPay",
+      "category": [
+        "finance"
+      ],
+      "reward": {
+        "referrer": "₹20 FamCash per friend",
+        "referred_user": "₹20 Instant FamCash",
+        "type": "dual_sided",
+        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "agent-router",
+      "slug": "agent-router",
+      "name": "Agent Router",
+      "category": [
+        "technology"
+      ],
+      "reward": {
+        "referrer": "$150.00 AI Credits",
+        "referred_user": "$50.00 AI Compute Credits",
+        "type": "dual_sided",
+        "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
       },
       "confidence": 100
     },
