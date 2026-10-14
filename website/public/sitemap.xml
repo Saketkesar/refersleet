@@ -14,9 +14,39 @@
   </url>
   <url>
     <loc>https://saketkesar.github.io/refersleet/#/leaderboard</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://saketkesar.github.io/refersleet/#/contributors/saketkesar</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://saketkesar.github.io/refersleet/#/contributors/535774696a-cpu</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://saketkesar.github.io/refersleet/#/contributors/midnightmichigan</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://saketkesar.github.io/refersleet/#/contributors/shunshun2026</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://saketkesar.github.io/refersleet/#/contributors/hill-wwy</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://saketkesar.github.io/refersleet/#/referrals/muse</loc>

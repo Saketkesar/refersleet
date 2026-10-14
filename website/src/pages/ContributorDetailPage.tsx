@@ -24,7 +24,8 @@ export const ContributorDetailPage: React.FC = () => {
   }
 
   const userSubmissions = referrals.filter(
-    r => r.submitted_by?.username?.toLowerCase() === contributor.username.toLowerCase()
+    r => r.submitted_by?.username?.toLowerCase() === contributor.username.toLowerCase() ||
+         r.alternative_codes?.some(alt => alt.submitted_by?.toLowerCase() === contributor.username.toLowerCase())
   );
 
   const githubUrl = contributor.github_url || `https://github.com/${contributor.username}`;
@@ -84,11 +85,13 @@ export const ContributorDetailPage: React.FC = () => {
         <div className="pt-3 border-t border-stone-100 flex items-center gap-6 text-xs font-mono">
           <div>
             <span className="text-stone-400">Programs:</span>{' '}
-            <strong className="text-stone-900">{userSubmissions.length} approved</strong>
+            <strong className="text-stone-900">{userSubmissions.length} active</strong>
           </div>
           <div>
             <span className="text-stone-400">Role:</span>{' '}
-            <strong className="text-orange-700">Maintainer</strong>
+            <strong className="text-orange-700">
+              {contributor.username.toLowerCase() === 'saketkesar' ? 'Maintainer' : 'Community Contributor'}
+            </strong>
           </div>
         </div>
       </div>
@@ -96,7 +99,7 @@ export const ContributorDetailPage: React.FC = () => {
       {/* Referrals by User */}
       <div className="space-y-4">
         <h2 className="text-base font-bold text-stone-900">
-          Programs submitted by {contributor.display_name} ({userSubmissions.length})
+          Programs contributed by {contributor.display_name} ({userSubmissions.length})
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">

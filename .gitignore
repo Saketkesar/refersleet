@@ -8,3 +8,8 @@ yarn-debug.log*
 yarn-error.log*
 .env
 .env.local
+*.docx
+*.zip
+sih bot/
+clasroom/
+s3_samples/

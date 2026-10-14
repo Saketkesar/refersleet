@@ -12,7 +12,10 @@ const referrals = JSON.parse(fs.readFileSync(path.resolve('generated/referrals.j
 // +5 per valid report
 // +50 base for founding/early contributor
 const scoredContributors = contributors.map((c: any) => {
-  const ownSubmissions = referrals.filter((r: any) => r.submitted_by?.username === c.username);
+  const ownSubmissions = referrals.filter((r: any) =>
+    r.submitted_by?.username?.toLowerCase() === c.username.toLowerCase() ||
+    r.alternative_codes?.some((alt: any) => alt.submitted_by?.toLowerCase() === c.username.toLowerCase())
+  );
   const approvedCount = ownSubmissions.length || c.approved_submissions || 1;
   const verifiedCount = c.verified_submissions || 50;
   const validReports = c.valid_reports || 0;
