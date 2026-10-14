@@ -13,6 +13,9 @@ alternative_codes:
   - code: B3NYLG
     submitted_by: midnightmichigan
     note: Community contributor code (1 billion free tokens for both sides)
+  - code: AVL1VC
+    submitted_by: shunshun2026
+    note: Community contributor code (1 billion free tokens for both sides)
 status: active
 category:
   - technology
@@ -35,7 +38,7 @@ eligibility:
 requirements:
   - Sign up for Muse at https://muse.ai/join
   - Open Settings → General inside the Muse app/dashboard
-  - Enter either community code O8VAV4, ZEP1V3, or B3NYLG under Claim Invitation to receive 1 billion free Muse tokens
+  - Enter either community code O8VAV4, ZEP1V3, B3NYLG, or AVL1VC under Claim Invitation to receive 1 billion free Muse tokens
 terms_url: https://muse.ai
 submitted_by:
   username: saketkesar
@@ -60,9 +63,9 @@ screenshots:
   - https://lookaside.fbsbx.com/elementpath/media/?media_id=878166652047061&version=1789771377&transcode_extension=webp
   - https://saketkesar.github.io/refersleet/images/referrals/muse-settings.png
 description: |
-  Take a look at Muse – your personal AI agent from Meta. Redeem community codes O8VAV4, ZEP1V3, or B3NYLG in Settings within 48 hours of joining and both sides receive 1 billion free Muse tokens added to their balance for AI generation and assistance.
+  Take a look at Muse – your personal AI agent from Meta. Redeem community codes O8VAV4, ZEP1V3, B3NYLG, or AVL1VC in Settings within 48 hours of joining and both sides receive 1 billion free Muse tokens added to their balance for AI generation and assistance.
 notes: |
-  In Settings -> General, you can verify your active token balance and claim your invitation code. Ensure you enter code O8VAV4, ZEP1V3, or B3NYLG within 48 hours of creating your account.
+  In Settings -> General, you can verify your active token balance and claim your invitation code. Ensure you enter code O8VAV4, ZEP1V3, B3NYLG, or AVL1VC within 48 hours of creating your account.
 redirect:
   redirect_slug: muse
   disclosure_required: true
@@ -80,10 +83,11 @@ Get **1 Billion Free Muse Tokens** when signing up for Meta's personal AI agent 
 1. **`O8VAV4`** — Submitted by [@saketkesar](https://github.com/Saketkesar) *(Verified Active)*
 2. **`ZEP1V3`** — Submitted by [@535774696a-cpu](https://github.com/535774696a-cpu) *(Community Contributor)*
 3. **`B3NYLG`** — Submitted by [@midnightmichigan](https://github.com/midnightmichigan) *(Community Contributor)*
+4. **`AVL1VC`** — Submitted by [@shunshun2026](https://github.com/shunshun2026) *(Community Contributor)*
 
 ---
 
 ### How to Claim:
 1. Join Muse at [muse.ai/join](https://muse.ai/join).
 2. Within 48 hours of creating your account, go to **Settings** → **General**.
-3. Under **Usage / Invitations**, enter invite code **`O8VAV4`**, **`ZEP1V3`**, or **`B3NYLG`** to claim **1,000,000,000 free tokens** instantly!
+3. Under **Usage / Invitations**, enter invite code **`O8VAV4`**, **`ZEP1V3`**, **`B3NYLG`**, or **`AVL1VC`** to claim **1,000,000,000 free tokens** instantly!
