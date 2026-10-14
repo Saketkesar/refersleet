@@ -1,22 +1,7 @@
 {
-  "calculated_at": "2026-10-14T12:54:16.731Z",
-  "total_referrals": 10,
+  "calculated_at": "2026-10-14T13:05:34.989Z",
+  "total_referrals": 11,
   "trending": [
-    {
-      "id": "muse",
-      "slug": "muse",
-      "name": "Muse",
-      "category": [
-        "technology"
-      ],
-      "reward": {
-        "referrer": "1 billion Muse tokens",
-        "referred_user": "1 billion Muse tokens",
-        "type": "dual_sided",
-        "description": "Invite a friend to Muse with your personal invite code. When they redeem it in Settings within 48 hours of joining, you both get 1 billion free Muse tokens."
-      },
-      "confidence": 100
-    },
     {
       "id": "yap-cash",
       "slug": "yap-cash",
@@ -33,77 +18,17 @@
       "confidence": 100
     },
     {
-      "id": "honey",
-      "slug": "honey",
-      "name": "Honey by PayPal",
+      "id": "muse",
+      "slug": "muse",
+      "name": "Muse",
       "category": [
-        "shopping"
+        "technology"
       ],
       "reward": {
-        "referrer": "500 Honey Gold",
-        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
+        "referrer": "1 billion Muse tokens",
+        "referred_user": "1 billion Muse tokens",
         "type": "dual_sided",
-        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "buyhatke",
-      "slug": "buyhatke",
-      "name": "Buyhatke",
-      "category": [
-        "shopping"
-      ],
-      "reward": {
-        "referrer": "Instant points per order + Brand commissions",
-        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
-        "type": "sale_reward_cps",
-        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "rooter",
-      "slug": "rooter",
-      "name": "Rooter",
-      "category": [
-        "other"
-      ],
-      "reward": {
-        "referrer": "Up to ₹100 / Diamonds per verified friend",
-        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
-        "type": "lead_reward_cpl",
-        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "attapoll",
-      "slug": "attapoll",
-      "name": "AttaPoll",
-      "category": [
-        "lifestyle"
-      ],
-      "reward": {
-        "referrer": "10% of referral earnings + Signup bonus",
-        "referred_user": "Instant Welcome Bonus Credits + Paid Surveys",
-        "type": "dual_sided",
-        "description": "Get paid for taking short surveys on your phone with low cashout thresholds to PayPal, Revolut, and digital gift cards."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "pawns-app",
-      "slug": "pawns-app",
-      "name": "Pawns.app",
-      "category": [
-        "other"
-      ],
-      "reward": {
-        "referrer": "$3 bonus ($1 x 3 payouts) + 10% commission",
-        "referred_user": "$3 Starter Bonus ($1 after each of first 3 payouts)",
-        "type": "dual_sided",
-        "description": "Kick-start your money-making journey on Pawns.app with a $3 bonus — $1 after your 1st payout, $1 after your 2nd payout, and $1 after your 3rd payout."
+        "description": "Invite a friend to Muse with your personal invite code. When they redeem it in Settings within 48 hours of joining, you both get 1 billion free Muse tokens."
       },
       "confidence": 100
     },
@@ -123,6 +48,36 @@
       "confidence": 100
     },
     {
+      "id": "honey",
+      "slug": "honey",
+      "name": "Honey by PayPal",
+      "category": [
+        "shopping"
+      ],
+      "reward": {
+        "referrer": "500 Honey Gold",
+        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
+        "type": "dual_sided",
+        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "rooter",
+      "slug": "rooter",
+      "name": "Rooter",
+      "category": [
+        "other"
+      ],
+      "reward": {
+        "referrer": "Up to ₹100 / Diamonds per verified friend",
+        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
+        "type": "lead_reward_cpl",
+        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
+      },
+      "confidence": 100
+    },
+    {
       "id": "agent-router",
       "slug": "agent-router",
       "name": "Agent Router",
@@ -134,6 +89,66 @@
         "referred_user": "$50.00 AI Compute Credits",
         "type": "dual_sided",
         "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "zulti",
+      "slug": "zulti",
+      "name": "Zulti",
+      "category": [
+        "other"
+      ],
+      "reward": {
+        "referrer": "$1.00 per referral + Free Play (up to $10), 500 gems, 50 XP & 20% draw prize match",
+        "referred_user": "30 XP, 200 gems + Free Play",
+        "type": "dual_sided",
+        "description": "Play 100% free games, spin the prize wheel, and win real USD cash. Referrers earn $1.00 immediately per confirmed referral (up to $7 per withdrawal), a free play worth up to $10, 500 gems and 50 XP after a 2-day spin streak, plus 20% lifetime draw prize matching. New players get 30 XP, 200 gems, and a free play."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "attapoll",
+      "slug": "attapoll",
+      "name": "AttaPoll",
+      "category": [
+        "lifestyle"
+      ],
+      "reward": {
+        "referrer": "10% of referral earnings + Signup bonus",
+        "referred_user": "Instant Welcome Bonus Credits + Paid Surveys",
+        "type": "dual_sided",
+        "description": "Get paid for taking short surveys on your phone with low cashout thresholds to PayPal, Revolut, and digital gift cards."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "buyhatke",
+      "slug": "buyhatke",
+      "name": "Buyhatke",
+      "category": [
+        "shopping"
+      ],
+      "reward": {
+        "referrer": "Instant points per order + Brand commissions",
+        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
+        "type": "sale_reward_cps",
+        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "pawns-app",
+      "slug": "pawns-app",
+      "name": "Pawns.app",
+      "category": [
+        "other"
+      ],
+      "reward": {
+        "referrer": "$3 bonus ($1 x 3 payouts) + 10% commission",
+        "referred_user": "$3 Starter Bonus ($1 after each of first 3 payouts)",
+        "type": "dual_sided",
+        "description": "Kick-start your money-making journey on Pawns.app with a $3 bonus — $1 after your 1st payout, $1 after your 2nd payout, and $1 after your 3rd payout."
       },
       "confidence": 100
     },
@@ -160,6 +175,16 @@
       "name": "Muse",
       "category": [
         "technology"
+      ],
+      "confidence": 100,
+      "votes": 6
+    },
+    {
+      "id": "zulti",
+      "slug": "zulti",
+      "name": "Zulti",
+      "category": [
+        "other"
       ],
       "confidence": 100,
       "votes": 6
@@ -256,6 +281,12 @@
     }
   ],
   "newest": [
+    {
+      "id": "zulti",
+      "slug": "zulti",
+      "name": "Zulti",
+      "submitted_at": "2026-10-14"
+    },
     {
       "id": "yap-cash",
       "slug": "yap-cash",

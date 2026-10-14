@@ -25,6 +25,7 @@ Refersleet provides free, direct raw JSON feeds hosted globally on GitHub CDN:
 6. **PollPe**: ₹10 instant signup bonus (Code: STABLERSLEET) with UPI & Amazon voucher cashouts. (https://pollpe.app/r/STABLERSLEET)
 7. **AttaPoll**: Paid mobile survey credits with PayPal/Revolut cashouts (Code: fzckw). (https://attapoll.app/join/fzckw)
 8. **Rooter**: ₹100 worth of bonus coins and gaming rewards. (https://rooter.app.link/0JMA1JuSS5b)
+9. **Zulti**: 30 XP, 200 free gems & free play worth up to $10 (Invite Code: 79UJUHG94T). (https://zulti.com/?r=79UJUHG94T)
 
 ## How to Submit
 Submit via the web form at https://saketkesar.github.io/refersleet/#/submit or submit a pull request on GitHub at https://github.com/Saketkesar/refersleet.
