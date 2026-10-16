@@ -1,22 +1,7 @@
 {
-  "calculated_at": "2026-10-14T13:11:42.545Z",
+  "calculated_at": "2026-10-16T04:50:03.600Z",
   "total_referrals": 11,
   "trending": [
-    {
-      "id": "zulti",
-      "slug": "zulti",
-      "name": "Zulti",
-      "category": [
-        "other"
-      ],
-      "reward": {
-        "referrer": "$1.00 per referral + Free Play (up to $10), 500 gems, 50 XP & 20% draw prize match",
-        "referred_user": "30 XP, 200 gems + Free Play",
-        "type": "dual_sided",
-        "description": "Play 100% free games, spin the prize wheel, and win real USD cash. Referrers earn $1.00 immediately per confirmed referral (up to $7 per withdrawal), a free play worth up to $10, 500 gems and 50 XP after a 2-day spin streak, plus 20% lifetime draw prize matching. New players get 30 XP, 200 gems, and a free play."
-      },
-      "confidence": 100
-    },
     {
       "id": "muse",
       "slug": "muse",
@@ -33,17 +18,17 @@
       "confidence": 100
     },
     {
-      "id": "pollpe",
-      "slug": "pollpe",
-      "name": "PollPe",
+      "id": "zulti",
+      "slug": "zulti",
+      "name": "Zulti",
       "category": [
-        "lifestyle"
+        "other"
       ],
       "reward": {
-        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
-        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
+        "referrer": "$1.00 per referral + Free Play (up to $10), 500 gems, 50 XP & 20% draw prize match",
+        "referred_user": "30 XP, 200 gems + Free Play",
         "type": "dual_sided",
-        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
+        "description": "Play 100% free games, spin the prize wheel, and win real USD cash. Referrers earn $1.00 immediately per confirmed referral (up to $7 per withdrawal), a free play worth up to $10, 500 gems and 50 XP after a 2-day spin streak, plus 20% lifetime draw prize matching. New players get 30 XP, 200 gems, and a free play."
       },
       "confidence": 100
     },
@@ -63,17 +48,62 @@
       "confidence": 100
     },
     {
-      "id": "rooter",
-      "slug": "rooter",
-      "name": "Rooter",
+      "id": "honey",
+      "slug": "honey",
+      "name": "Honey by PayPal",
       "category": [
-        "other"
+        "shopping"
       ],
       "reward": {
-        "referrer": "Up to ₹100 / Diamonds per verified friend",
-        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
-        "type": "lead_reward_cpl",
-        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
+        "referrer": "500 Honey Gold",
+        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
+        "type": "dual_sided",
+        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "buyhatke",
+      "slug": "buyhatke",
+      "name": "Buyhatke",
+      "category": [
+        "shopping"
+      ],
+      "reward": {
+        "referrer": "Instant points per order + Brand commissions",
+        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
+        "type": "sale_reward_cps",
+        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "famapp",
+      "slug": "famapp",
+      "name": "FamApp by FamPay",
+      "category": [
+        "finance"
+      ],
+      "reward": {
+        "referrer": "₹20 FamCash per friend",
+        "referred_user": "₹20 Instant FamCash",
+        "type": "dual_sided",
+        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "pollpe",
+      "slug": "pollpe",
+      "name": "PollPe",
+      "category": [
+        "lifestyle"
+      ],
+      "reward": {
+        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
+        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
+        "type": "dual_sided",
+        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
       },
       "confidence": 100
     },
@@ -108,47 +138,17 @@
       "confidence": 100
     },
     {
-      "id": "honey",
-      "slug": "honey",
-      "name": "Honey by PayPal",
+      "id": "rooter",
+      "slug": "rooter",
+      "name": "Rooter",
       "category": [
-        "shopping"
+        "other"
       ],
       "reward": {
-        "referrer": "500 Honey Gold",
-        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
-        "type": "dual_sided",
-        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "famapp",
-      "slug": "famapp",
-      "name": "FamApp by FamPay",
-      "category": [
-        "finance"
-      ],
-      "reward": {
-        "referrer": "₹20 FamCash per friend",
-        "referred_user": "₹20 Instant FamCash",
-        "type": "dual_sided",
-        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "buyhatke",
-      "slug": "buyhatke",
-      "name": "Buyhatke",
-      "category": [
-        "shopping"
-      ],
-      "reward": {
-        "referrer": "Instant points per order + Brand commissions",
-        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
-        "type": "sale_reward_cps",
-        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
+        "referrer": "Up to ₹100 / Diamonds per verified friend",
+        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
+        "type": "lead_reward_cpl",
+        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
       },
       "confidence": 100
     },

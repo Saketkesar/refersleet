@@ -98,6 +98,29 @@
     "source_file": "contributors/hill-wwy.md"
   },
   {
+    "username": "chefyhalf",
+    "display_name": "chefyhalf",
+    "avatar": "https://avatars.githubusercontent.com/u/106939706?v=4",
+    "github_url": "https://github.com/chefyhalf",
+    "bio": "Community contributor on Refersleet sharing Muse invite codes.",
+    "joined_at": "2026-10-15",
+    "links": {
+      "github": "https://github.com/chefyhalf"
+    },
+    "reputation": 60,
+    "rank": 5,
+    "badges": [
+      "First Contribution",
+      "community-contributor"
+    ],
+    "approved_submissions": 1,
+    "verified_submissions": 1,
+    "reports_submitted": 0,
+    "valid_reports": 0,
+    "markdown_content": "# chefyhalf\n\nCommunity contributor on Refersleet sharing Muse invite codes.",
+    "source_file": "contributors/chefyhalf.md"
+  },
+  {
     "username": "535774696a-cpu",
     "display_name": "535774696a-cpu",
     "avatar": "https://avatars.githubusercontent.com/u/280461383?v=4",
@@ -108,7 +131,7 @@
       "github": "https://github.com/535774696a-cpu"
     },
     "reputation": 60,
-    "rank": 5,
+    "rank": 6,
     "badges": [
       "First Contribution",
       "community-contributor"
