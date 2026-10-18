@@ -25,6 +25,9 @@ alternative_codes:
   - code: 2YBM8K
     submitted_by: eastar9630
     note: Community contributor code (1 billion free tokens for both sides)
+  - code: BLTW57
+    submitted_by: MrWrecks
+    note: Community contributor code (1 billion free tokens for both sides, 29 uses remaining)
 status: active
 category:
   - technology
@@ -47,7 +50,7 @@ eligibility:
 requirements:
   - Sign up for Muse at https://muse.ai/join
   - Open Settings → General inside the Muse app/dashboard
-  - Enter either community code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, or 2YBM8K under Claim Invitation to receive 1 billion free Muse tokens
+  - Enter either community code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, or BLTW57 under Claim Invitation to receive 1 billion free Muse tokens
 terms_url: https://muse.ai
 submitted_by:
   username: saketkesar
@@ -96,10 +99,11 @@ Get **1 Billion Free Muse Tokens** when signing up for Meta's personal AI agent 
 5. **`O0TMAV`** — Submitted by [@hill-wwy](https://github.com/hill-wwy) *(Community Contributor)*
 6. **`ZV3R14`** — Submitted by [@chefyhalf](https://github.com/chefyhalf) *(Community Contributor)*
 7. **`2YBM8K`** — Submitted by [@eastar9630](https://github.com/eastar9630) *(Community Contributor)*
+8. **`BLTW57`** — Submitted by [@MrWrecks](https://github.com/MrWrecks) *(Community Contributor)*
 
 ---
 
 ### How to Claim:
 1. Join Muse at [muse.ai/join](https://muse.ai/join).
 2. Within 48 hours of creating your account, go to **Settings** → **General**.
-3. Under **Usage / Invitations**, enter invite code **`O8VAV4`**, **`ZEP1V3`**, **`B3NYLG`**, **`AVL1VC`**, **`O0TMAV`**, **`ZV3R14`**, or **`2YBM8K`** to claim **1,000,000,000 free tokens** instantly!
+3. Under **Usage / Invitations**, enter invite code **`O8VAV4`**, **`ZEP1V3`**, **`B3NYLG`**, **`AVL1VC`**, **`O0TMAV`**, **`ZV3R14`**, **`2YBM8K`**, or **`BLTW57`** to claim **1,000,000,000 free tokens** instantly!
