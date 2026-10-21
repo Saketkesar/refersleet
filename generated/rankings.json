@@ -1,6 +1,6 @@
 {
-  "calculated_at": "2026-10-21T02:50:49.152Z",
-  "total_referrals": 11,
+  "calculated_at": "2026-10-21T02:59:18.743Z",
+  "total_referrals": 12,
   "trending": [
     {
       "id": "muse",
@@ -33,17 +33,17 @@
       "confidence": 100
     },
     {
-      "id": "agent-router",
-      "slug": "agent-router",
-      "name": "Agent Router",
+      "id": "rooter",
+      "slug": "rooter",
+      "name": "Rooter",
       "category": [
-        "technology"
+        "other"
       ],
       "reward": {
-        "referrer": "$150.00 AI Credits",
-        "referred_user": "$50.00 AI Compute Credits",
-        "type": "dual_sided",
-        "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
+        "referrer": "Up to ₹100 / Diamonds per verified friend",
+        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
+        "type": "lead_reward_cpl",
+        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
       },
       "confidence": 100
     },
@@ -63,32 +63,17 @@
       "confidence": 100
     },
     {
-      "id": "famapp",
-      "slug": "famapp",
-      "name": "FamApp by FamPay",
+      "id": "chatwait",
+      "slug": "chatwait",
+      "name": "Chatwait",
       "category": [
-        "finance"
+        "technology"
       ],
       "reward": {
-        "referrer": "₹20 FamCash per friend",
-        "referred_user": "₹20 Instant FamCash",
+        "referrer": "50% ad revenue share & referral cash bonuses",
+        "referred_user": "Get paid 50% ad revenue while AI thinks (ChatGPT, Claude & Gemini)",
         "type": "dual_sided",
-        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "attapoll",
-      "slug": "attapoll",
-      "name": "AttaPoll",
-      "category": [
-        "lifestyle"
-      ],
-      "reward": {
-        "referrer": "10% of referral earnings + Signup bonus",
-        "referred_user": "Instant Welcome Bonus Credits + Paid Surveys",
-        "type": "dual_sided",
-        "description": "Get paid for taking short surveys on your phone with low cashout thresholds to PayPal, Revolut, and digital gift cards."
+        "description": "Earn real cash while waiting for ChatGPT, Claude, and Gemini to generate responses. Chatwait is an open-source browser extension that displays a single dismissible sponsored line and pays you 50% of the ad revenue in USD straight to your bank via Whop."
       },
       "confidence": 100
     },
@@ -123,6 +108,21 @@
       "confidence": 100
     },
     {
+      "id": "agent-router",
+      "slug": "agent-router",
+      "name": "Agent Router",
+      "category": [
+        "technology"
+      ],
+      "reward": {
+        "referrer": "$150.00 AI Credits",
+        "referred_user": "$50.00 AI Compute Credits",
+        "type": "dual_sided",
+        "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
+      },
+      "confidence": 100
+    },
+    {
       "id": "pawns-app",
       "slug": "pawns-app",
       "name": "Pawns.app",
@@ -134,21 +134,6 @@
         "referred_user": "$3 Starter Bonus ($1 after each of first 3 payouts)",
         "type": "dual_sided",
         "description": "Kick-start your money-making journey on Pawns.app with a $3 bonus — $1 after your 1st payout, $1 after your 2nd payout, and $1 after your 3rd payout."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "rooter",
-      "slug": "rooter",
-      "name": "Rooter",
-      "category": [
-        "other"
-      ],
-      "reward": {
-        "referrer": "Up to ₹100 / Diamonds per verified friend",
-        "referred_user": "₹100 Bonus Coins & Gaming Rewards",
-        "type": "lead_reward_cpl",
-        "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
       },
       "confidence": 100
     },
@@ -166,6 +151,36 @@
         "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
       },
       "confidence": 100
+    },
+    {
+      "id": "attapoll",
+      "slug": "attapoll",
+      "name": "AttaPoll",
+      "category": [
+        "lifestyle"
+      ],
+      "reward": {
+        "referrer": "10% of referral earnings + Signup bonus",
+        "referred_user": "Instant Welcome Bonus Credits + Paid Surveys",
+        "type": "dual_sided",
+        "description": "Get paid for taking short surveys on your phone with low cashout thresholds to PayPal, Revolut, and digital gift cards."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "famapp",
+      "slug": "famapp",
+      "name": "FamApp by FamPay",
+      "category": [
+        "finance"
+      ],
+      "reward": {
+        "referrer": "₹20 FamCash per friend",
+        "referred_user": "₹20 Instant FamCash",
+        "type": "dual_sided",
+        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
+      },
+      "confidence": 100
     }
   ],
   "most_trusted": [
@@ -173,6 +188,16 @@
       "id": "muse",
       "slug": "muse",
       "name": "Muse",
+      "category": [
+        "technology"
+      ],
+      "confidence": 100,
+      "votes": 6
+    },
+    {
+      "id": "chatwait",
+      "slug": "chatwait",
+      "name": "Chatwait",
       "category": [
         "technology"
       ],
@@ -281,6 +306,12 @@
     }
   ],
   "newest": [
+    {
+      "id": "chatwait",
+      "slug": "chatwait",
+      "name": "Chatwait",
+      "submitted_at": "2026-10-21"
+    },
     {
       "id": "zulti",
       "slug": "zulti",

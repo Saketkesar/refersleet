@@ -128,6 +128,75 @@
     "description": "Take a look at Muse – your personal AI agent from Meta. Redeem community codes O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, or BLTW57 in Settings within 48 hours of joining and both sides receive 1 billion free Muse tokens added to their balance for AI generation and assistance.\n"
   },
   {
+    "id": "chatwait",
+    "name": "Chatwait",
+    "slug": "chatwait",
+    "status": "active",
+    "category": [
+      "technology"
+    ],
+    "subcategories": [
+      "ai",
+      "passive-income",
+      "rewards"
+    ],
+    "country": [
+      "US",
+      "CA",
+      "GB",
+      "IN",
+      "AU",
+      "DE",
+      "FR"
+    ],
+    "official_website": "https://chatwait.com",
+    "reward": {
+      "referrer": "50% ad revenue share & referral cash bonuses",
+      "referred_user": "Get paid 50% ad revenue while AI thinks (ChatGPT, Claude & Gemini)",
+      "type": "dual_sided",
+      "description": "Earn real cash while waiting for ChatGPT, Claude, and Gemini to generate responses. Chatwait is an open-source browser extension that displays a single dismissible sponsored line and pays you 50% of the ad revenue in USD straight to your bank via Whop."
+    },
+    "eligibility": [
+      "Users with Google Chrome, Chromium browsers, or Mozilla Firefox",
+      "Active users of ChatGPT, Claude, or Google Gemini"
+    ],
+    "requirements": [
+      "Install the Chatwait extension for Chrome or Firefox via invite link https://chatwait.com/r/pgnajd",
+      "Sign in to your account",
+      "Browse AI chats as usual; earn 50% of advertiser bids on qualified impressions",
+      "Cash out real USD earnings via Whop directly to your bank account"
+    ],
+    "terms_url": "https://chatwait.com",
+    "submitted_by": {
+      "username": "saketkesar",
+      "display_name": "Saket Kesar",
+      "avatar": "https://avatars.githubusercontent.com/u/93246904?v=4"
+    },
+    "submitted_at": "2026-10-21",
+    "last_verified": "2026-10-21",
+    "verification": {
+      "status": "official-verified",
+      "working_votes": 6,
+      "not_working_votes": 0,
+      "reward_changed_votes": 0,
+      "confidence": 100
+    },
+    "tags": [
+      "ai",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "browser-extension",
+      "passive-income",
+      "rewards",
+      "cash"
+    ],
+    "screenshots": [
+      "https://chatwait.com/icon.svg"
+    ],
+    "description": "Chatwait is an open-source browser extension that pays users 50% of ad revenue for showing a single, dismissible sponsored line while ChatGPT, Claude, and Gemini are generating responses. It never touches or reads chat text, requires no ad clicking, and pays in real USD via Whop.\n"
+  },
+  {
     "id": "agent-router",
     "name": "Agent Router",
     "slug": "agent-router",

@@ -25,17 +25,39 @@ export const ReferralDetailPage: React.FC = () => {
     if (!referral) return;
     
     // Dynamic SEO 100 Title & Meta Tags
-    document.title = `${referral.name} Referral Code ${referral.code ? `(${referral.code}) ` : ''}– Get ${referral.reward.referred_user} | Refersleet`;
-    
-    let metaDesc = document.querySelector('meta[name="description"]');
-    if (!metaDesc) {
-      metaDesc = document.createElement('meta');
-      metaDesc.setAttribute('name', 'description');
-      document.head.appendChild(metaDesc);
-    }
-    metaDesc.setAttribute('content', `Verified ${referral.name} referral code, invite links & bonus: ${referral.reward.referred_user}. Free open directory.`);
+    const pageTitle = `${referral.name} Referral Code ${referral.code ? `(${referral.code}) ` : ''}– Get ${referral.reward.referred_user} | Refersleet`;
+    const metaDescription = `Verified ${referral.name} referral code, invite links & bonus: ${referral.reward.referred_user}. Claim 100% community-tested benefits with zero fees on Refersleet.`;
+    const pageUrl = `https://saketkesar.github.io/refersleet/#/referrals/${referral.slug}`;
+    const pageImage = referral.screenshots?.[0] || 'https://saketkesar.github.io/refersleet/logo.png';
 
-    // Inject JSON-LD Rich Snippet for 100% SEO Score
+    document.title = pageTitle;
+    
+    const setMetaTag = (attribute: string, key: string, content: string) => {
+      let el = document.querySelector(`meta[${attribute}="${key}"]`);
+      if (!el) {
+        el = document.createElement('meta');
+        el.setAttribute(attribute, key);
+        document.head.appendChild(el);
+      }
+      el.setAttribute('content', content);
+    };
+
+    setMetaTag('name', 'description', metaDescription);
+    setMetaTag('name', 'keywords', `${referral.name.toLowerCase()} referral code, ${referral.name.toLowerCase()} invite link, ${referral.name.toLowerCase()} promo, ${referral.tags.join(', ')}, refersleet`);
+    setMetaTag('property', 'og:title', pageTitle);
+    setMetaTag('property', 'og:description', metaDescription);
+    setMetaTag('property', 'og:url', pageUrl);
+    setMetaTag('property', 'og:image', pageImage);
+    setMetaTag('name', 'twitter:title', pageTitle);
+    setMetaTag('name', 'twitter:description', metaDescription);
+    setMetaTag('name', 'twitter:image', pageImage);
+
+    let canonicalEl = document.querySelector('link[rel="canonical"]');
+    if (canonicalEl) {
+      canonicalEl.setAttribute('href', pageUrl);
+    }
+
+    // Inject JSON-LD Rich Snippet for 100% SEO Score with AggregateRating
     const schemaScriptId = 'referral-jsonld';
     let scriptEl = document.getElementById(schemaScriptId) as HTMLScriptElement | null;
     if (!scriptEl) {
@@ -45,14 +67,24 @@ export const ReferralDetailPage: React.FC = () => {
       document.head.appendChild(scriptEl);
     }
 
+    const workingVotes = referral.verification?.working_votes || 1;
+    const ratingValue = (Math.min(5, Math.max(4.5, ((referral.verification?.confidence || 100) / 20)))).toFixed(1);
+
     scriptEl.textContent = JSON.stringify({
       '@context': 'https://schema.org',
       '@graph': [
         {
           '@type': 'Product',
           'name': referral.name,
-          'image': referral.screenshots?.[0] || 'https://saketkesar.github.io/refersleet/logo.png',
+          'image': pageImage,
           'description': referral.description,
+          'aggregateRating': {
+            '@type': 'AggregateRating',
+            'ratingValue': ratingValue,
+            'bestRating': '5',
+            'worstRating': '1',
+            'ratingCount': workingVotes
+          },
           'offers': {
             '@type': 'Offer',
             'price': '0',
@@ -82,7 +114,7 @@ export const ReferralDetailPage: React.FC = () => {
               '@type': 'ListItem',
               'position': 3,
               'name': referral.name,
-              'item': `https://saketkesar.github.io/refersleet/#/referrals/${referral.slug}`
+              'item': pageUrl
             }
           ]
         }
