@@ -75,9 +75,9 @@ screenshots:
   - https://lookaside.fbsbx.com/elementpath/media/?media_id=878166652047061&version=1789771377&transcode_extension=webp
   - https://saketkesar.github.io/refersleet/images/referrals/muse-settings.png
 description: |
-  Take a look at Muse – your personal AI agent from Meta. Redeem community codes O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, or 2YBM8K in Settings within 48 hours of joining and both sides receive 1 billion free Muse tokens added to their balance for AI generation and assistance.
+  Take a look at Muse – your personal AI agent from Meta. Redeem community codes O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, or BLTW57 in Settings within 48 hours of joining and both sides receive 1 billion free Muse tokens added to their balance for AI generation and assistance.
 notes: |
-  In Settings -> General, you can verify your active token balance and claim your invitation code. Ensure you enter code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, or 2YBM8K within 48 hours of creating your account.
+  In Settings -> General, you can verify your active token balance and claim your invitation code. Ensure you enter code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, or BLTW57 within 48 hours of creating your account.
 redirect:
   redirect_slug: muse
   disclosure_required: true
