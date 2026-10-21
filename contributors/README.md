@@ -10,6 +10,7 @@ This directory records all community members and maintainers contributing to Ref
 - [@hill-wwy](hill-wwy.md) — Community Contributor
 - [@chefyhalf](chefyhalf.md) — Community Contributor
 - [@eastar9630](eastar9630.md) — Community Contributor
+- [@MrWrecks](MrWrecks.md) — Community Contributor
 
 See [CONTRIBUTORS.md](../CONTRIBUTORS.md) for full directory links and GitHub profiles.
 
