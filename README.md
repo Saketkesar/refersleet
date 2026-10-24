@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Verified_Programs-12-orange.svg?style=flat-square" alt="Verified Programs" />
-  <img src="https://img.shields.io/badge/Contributors-8-blue.svg?style=flat-square" alt="Contributors" />
+  <img src="https://img.shields.io/badge/Contributors-9-blue.svg?style=flat-square" alt="Contributors" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License" />
   <img src="https://img.shields.io/badge/Zero_Ads-Guaranteed-emerald.svg?style=flat-square" alt="Zero Ads" />
   <img src="https://img.shields.io/badge/Open_Source-100%25-green.svg?style=flat-square" alt="Open Source" />
@@ -44,7 +44,7 @@
 | Program | Category | Referral Code / Link | User Reward | Referrer Bonus | Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Chatwait](https://chatwait.com/r/pgnajd)** | AI / Passive Income | `pgnajd` | **50% Ad Revenue Share** (Get paid while AI thinks) | 50% Lifetime Ad Share + Cash Bonuses | Dual-Sided |
-| **[Muse](https://muse.ai/join)** | AI / Developer | `O8VAV4` (Alt: `ZEP1V3`, `B3NYLG`, `AVL1VC`, `O0TMAV`, `ZV3R14`, `2YBM8K`, `BLTW57`) | **1 Billion Free Muse Tokens** | 1 Billion Free Muse Tokens | Dual-Sided |
+| **[Muse](https://muse.ai/join)** | AI / Developer | `O8VAV4` (Alt: `ZEP1V3`, `B3NYLG`, `AVL1VC`, `O0TMAV`, `ZV3R14`, `2YBM8K`, `BLTW57`, `1NA0ZA`) | **1 Billion Free Muse Tokens** | 1 Billion Free Muse Tokens | Dual-Sided |
 | **[Agent Router](https://agentrouter.org)** | AI / Developer | *Link* | **$50.00 AI Compute Credits** | $150.00 Credits | Dual-Sided |
 | **[Yap Cash](https://yapcash.ai/invite?ref=YC-GETSAKET)** | AI / Browser Extension | `YC-GETSAKET` | **+200 XP Free Welcome Bonus** | $5 Gift Card per 5 Active Friends | Dual-Sided |
 | **[Zulti](https://zulti.com/?r=79UJUHG94T)** | Rewards / Gaming | `79UJUHG94T` | **30 XP, 200 Gems + Free Play ($10)** | $1.00 Cash + Free Play + 20% Draw Match | Dual-Sided |
@@ -70,6 +70,7 @@ Refersleet is built and maintained by awesome open-source contributors! See our 
 - [@chefyhalf](https://github.com/chefyhalf)
 - [@eastar9630](https://github.com/eastar9630)
 - [@MrWrecks](https://github.com/MrWrecks)
+- [@houdaguang](https://github.com/houdaguang)
 
 ---
 
