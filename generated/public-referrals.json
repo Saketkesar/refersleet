@@ -128,6 +128,73 @@
     "description": "Take a look at Muse – your personal AI agent from Meta. Redeem community codes O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, or 1NA0ZA in Settings within 48 hours of joining and both sides receive 1 billion free Muse tokens added to their balance for AI generation and assistance.\n"
   },
   {
+    "id": "kuro",
+    "name": "Kuro",
+    "slug": "kuro",
+    "status": "active",
+    "category": [
+      "technology"
+    ],
+    "subcategories": [
+      "ai",
+      "passive-income",
+      "rewards"
+    ],
+    "country": [
+      "IN",
+      "US",
+      "GB",
+      "CA",
+      "AU"
+    ],
+    "official_website": "https://trykuro.app",
+    "reward": {
+      "referrer": "₹100 bonus per active referral (after 1 hour of recording)",
+      "referred_user": "₹100/hour for accepted recordings + ₹100 welcome bonus",
+      "type": "dual_sided",
+      "description": "Record your screen while you study or work. Kuro pays you ₹100/hour for accepted recordings to help train frontier AI models on real computer workflows. Referrers receive ₹100 once their invitee completes their first hour of real paid work. Payouts via Amazon Pay, Flipkart, and Uber gift cards starting at ₹300."
+    },
+    "eligibility": [
+      "Windows (10/11) or macOS desktop/laptop users",
+      "Genuine computer activity (study, research, work, design, note-taking)"
+    ],
+    "requirements": [
+      "Download and install Kuro for macOS or Windows via invite link https://trykuro.app/r/ren7v7",
+      "Sign in and turn on background recording during daily computer work",
+      "On-device local filters automatically detect and mask sensitive apps (banking, passwords, messaging)",
+      "Accumulate earnings at ₹100/hour and cash out via Amazon Pay, Flipkart, or Uber vouchers starting at ₹300"
+    ],
+    "terms_url": "https://trykuro.app/legal/terms",
+    "submitted_by": {
+      "username": "saketkesar",
+      "display_name": "Saket Kesar",
+      "avatar": "https://avatars.githubusercontent.com/u/93246904?v=4"
+    },
+    "submitted_at": "2026-10-24",
+    "last_verified": "2026-10-24",
+    "verification": {
+      "status": "official-verified",
+      "working_votes": 6,
+      "not_working_votes": 0,
+      "reward_changed_votes": 0,
+      "confidence": 100
+    },
+    "tags": [
+      "ai",
+      "passive-income",
+      "screen-recording",
+      "rewards",
+      "work-from-home",
+      "cash",
+      "gift-cards"
+    ],
+    "screenshots": [
+      "https://trykuro.app/icon.svg",
+      "https://trykuro.app/og.png"
+    ],
+    "description": "Kuro is a frontier AI research platform that pays you ₹100/hour for recording real computer work as you study, code, browse, or take notes. With automatic on-device privacy masking, sensitive password, messaging, and banking data is filtered locally before upload.\n"
+  },
+  {
     "id": "chatwait",
     "name": "Chatwait",
     "slug": "chatwait",

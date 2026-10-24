@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://saketkesar.github.io/refersleet/">🌐 Live Directory</a> •
-  <a href="https://saketkesar.github.io/refersleet/#/explore">📂 Explore All Programs (12)</a> •
+  <a href="https://saketkesar.github.io/refersleet/#/explore">📂 Explore All Programs (13)</a> •
   <a href="https://saketkesar.github.io/refersleet/#/leaderboard">🏆 Contributor Leaderboard</a> •
   <a href="https://saketkesar.github.io/refersleet/#/api-docs">⚡ Public JSON Feeds</a> •
   <a href="https://saketkesar.github.io/refersleet/#/submit">➕ Submit Referral</a> •
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Verified_Programs-12-orange.svg?style=flat-square" alt="Verified Programs" />
+  <img src="https://img.shields.io/badge/Verified_Programs-13-orange.svg?style=flat-square" alt="Verified Programs" />
   <img src="https://img.shields.io/badge/Contributors-9-blue.svg?style=flat-square" alt="Contributors" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License" />
   <img src="https://img.shields.io/badge/Zero_Ads-Guaranteed-emerald.svg?style=flat-square" alt="Zero Ads" />
@@ -44,6 +44,7 @@
 | Program | Category | Referral Code / Link | User Reward | Referrer Bonus | Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Chatwait](https://chatwait.com/r/pgnajd)** | AI / Passive Income | `pgnajd` | **50% Ad Revenue Share** (Get paid while AI thinks) | 50% Lifetime Ad Share + Cash Bonuses | Dual-Sided |
+| **[Kuro](https://trykuro.app/r/ren7v7)** | AI / Passive Income | `ren7v7` | **₹100/Hour Screen Recording** + ₹100 Welcome Bonus | ₹100 Referral Bonus (after 1 hr recording) | Dual-Sided |
 | **[Muse](https://muse.ai/join)** | AI / Developer | `O8VAV4` (Alt: `ZEP1V3`, `B3NYLG`, `AVL1VC`, `O0TMAV`, `ZV3R14`, `2YBM8K`, `BLTW57`, `1NA0ZA`) | **1 Billion Free Muse Tokens** | 1 Billion Free Muse Tokens | Dual-Sided |
 | **[Agent Router](https://agentrouter.org)** | AI / Developer | *Link* | **$50.00 AI Compute Credits** | $150.00 Credits | Dual-Sided |
 | **[Yap Cash](https://yapcash.ai/invite?ref=YC-GETSAKET)** | AI / Browser Extension | `YC-GETSAKET` | **+200 XP Free Welcome Bonus** | $5 Gift Card per 5 Active Friends | Dual-Sided |
