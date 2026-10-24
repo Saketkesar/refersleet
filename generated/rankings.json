@@ -1,22 +1,7 @@
 {
-  "calculated_at": "2026-10-21T03:23:13.356Z",
+  "calculated_at": "2026-10-24T06:23:16.619Z",
   "total_referrals": 12,
   "trending": [
-    {
-      "id": "zulti",
-      "slug": "zulti",
-      "name": "Zulti",
-      "category": [
-        "other"
-      ],
-      "reward": {
-        "referrer": "$1.00 per referral + Free Play (up to $10), 500 gems, 50 XP & 20% draw prize match",
-        "referred_user": "30 XP, 200 gems + Free Play",
-        "type": "dual_sided",
-        "description": "Play 100% free games, spin the prize wheel, and win real USD cash. Referrers earn $1.00 immediately per confirmed referral (up to $7 per withdrawal), a free play worth up to $10, 500 gems and 50 XP after a 2-day spin streak, plus 20% lifetime draw prize matching. New players get 30 XP, 200 gems, and a free play."
-      },
-      "confidence": 100
-    },
     {
       "id": "muse",
       "slug": "muse",
@@ -33,32 +18,62 @@
       "confidence": 100
     },
     {
-      "id": "agent-router",
-      "slug": "agent-router",
-      "name": "Agent Router",
+      "id": "zulti",
+      "slug": "zulti",
+      "name": "Zulti",
       "category": [
-        "technology"
+        "other"
       ],
       "reward": {
-        "referrer": "$150.00 AI Credits",
-        "referred_user": "$50.00 AI Compute Credits",
+        "referrer": "$1.00 per referral + Free Play (up to $10), 500 gems, 50 XP & 20% draw prize match",
+        "referred_user": "30 XP, 200 gems + Free Play",
         "type": "dual_sided",
-        "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
+        "description": "Play 100% free games, spin the prize wheel, and win real USD cash. Referrers earn $1.00 immediately per confirmed referral (up to $7 per withdrawal), a free play worth up to $10, 500 gems and 50 XP after a 2-day spin streak, plus 20% lifetime draw prize matching. New players get 30 XP, 200 gems, and a free play."
       },
       "confidence": 100
     },
     {
-      "id": "buyhatke",
-      "slug": "buyhatke",
-      "name": "Buyhatke",
+      "id": "pawns-app",
+      "slug": "pawns-app",
+      "name": "Pawns.app",
       "category": [
-        "shopping"
+        "other"
       ],
       "reward": {
-        "referrer": "Instant points per order + Brand commissions",
-        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
-        "type": "sale_reward_cps",
-        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
+        "referrer": "$3 bonus ($1 x 3 payouts) + 10% commission",
+        "referred_user": "$3 Starter Bonus ($1 after each of first 3 payouts)",
+        "type": "dual_sided",
+        "description": "Kick-start your money-making journey on Pawns.app with a $3 bonus — $1 after your 1st payout, $1 after your 2nd payout, and $1 after your 3rd payout."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "pollpe",
+      "slug": "pollpe",
+      "name": "PollPe",
+      "category": [
+        "lifestyle"
+      ],
+      "reward": {
+        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
+        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
+        "type": "dual_sided",
+        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "yap-cash",
+      "slug": "yap-cash",
+      "name": "Yap Cash",
+      "category": [
+        "technology"
+      ],
+      "reward": {
+        "referrer": "$5 gift card per 5 active users",
+        "referred_user": "+200 XP free bonus",
+        "type": "gift_card",
+        "description": "Earn free gift cards just by using ChatGPT & Claude. Join with invite link or code YC-GETSAKET to get +200 XP free instantly when installing the browser extension. Referrers receive a $5 gift card per 5 users who use the extension for 7 days."
       },
       "confidence": 100
     },
@@ -78,17 +93,62 @@
       "confidence": 100
     },
     {
-      "id": "pawns-app",
-      "slug": "pawns-app",
-      "name": "Pawns.app",
+      "id": "agent-router",
+      "slug": "agent-router",
+      "name": "Agent Router",
       "category": [
-        "other"
+        "technology"
       ],
       "reward": {
-        "referrer": "$3 bonus ($1 x 3 payouts) + 10% commission",
-        "referred_user": "$3 Starter Bonus ($1 after each of first 3 payouts)",
+        "referrer": "$150.00 AI Credits",
+        "referred_user": "$50.00 AI Compute Credits",
         "type": "dual_sided",
-        "description": "Kick-start your money-making journey on Pawns.app with a $3 bonus — $1 after your 1st payout, $1 after your 2nd payout, and $1 after your 3rd payout."
+        "description": "For each friend you invite to register, you get a $150.00 reward and your friend gets a $50.00 reward in AI compute credits (not real money). Transfer the reward amount to your account balance through the transfer function."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "honey",
+      "slug": "honey",
+      "name": "Honey by PayPal",
+      "category": [
+        "shopping"
+      ],
+      "reward": {
+        "referrer": "500 Honey Gold",
+        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
+        "type": "dual_sided",
+        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "buyhatke",
+      "slug": "buyhatke",
+      "name": "Buyhatke",
+      "category": [
+        "shopping"
+      ],
+      "reward": {
+        "referrer": "Instant points per order + Brand commissions",
+        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
+        "type": "sale_reward_cps",
+        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "famapp",
+      "slug": "famapp",
+      "name": "FamApp by FamPay",
+      "category": [
+        "finance"
+      ],
+      "reward": {
+        "referrer": "₹20 FamCash per friend",
+        "referred_user": "₹20 Instant FamCash",
+        "type": "dual_sided",
+        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
       },
       "confidence": 100
     },
@@ -119,66 +179,6 @@
         "referred_user": "Instant Welcome Bonus Credits + Paid Surveys",
         "type": "dual_sided",
         "description": "Get paid for taking short surveys on your phone with low cashout thresholds to PayPal, Revolut, and digital gift cards."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "yap-cash",
-      "slug": "yap-cash",
-      "name": "Yap Cash",
-      "category": [
-        "technology"
-      ],
-      "reward": {
-        "referrer": "$5 gift card per 5 active users",
-        "referred_user": "+200 XP free bonus",
-        "type": "gift_card",
-        "description": "Earn free gift cards just by using ChatGPT & Claude. Join with invite link or code YC-GETSAKET to get +200 XP free instantly when installing the browser extension. Referrers receive a $5 gift card per 5 users who use the extension for 7 days."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "pollpe",
-      "slug": "pollpe",
-      "name": "PollPe",
-      "category": [
-        "lifestyle"
-      ],
-      "reward": {
-        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
-        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
-        "type": "dual_sided",
-        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "famapp",
-      "slug": "famapp",
-      "name": "FamApp by FamPay",
-      "category": [
-        "finance"
-      ],
-      "reward": {
-        "referrer": "₹20 FamCash per friend",
-        "referred_user": "₹20 Instant FamCash",
-        "type": "dual_sided",
-        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "honey",
-      "slug": "honey",
-      "name": "Honey by PayPal",
-      "category": [
-        "shopping"
-      ],
-      "reward": {
-        "referrer": "500 Honey Gold",
-        "referred_user": "500 Gold on 1st purchase + Redeem ₹500 / $5 Gift Card at 1,000 Gold",
-        "type": "dual_sided",
-        "description": "Get 500 Gold when you sign up using your link and make your first qualifying purchase. Redeem for a ₹500 gift card once you collect 1,000 Gold."
       },
       "confidence": 100
     }
