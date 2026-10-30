@@ -112,4 +112,4 @@ Get **1 Billion Free Muse Tokens** when signing up for Meta's personal AI agent 
 ### How to Claim:
 1. Join Muse at [muse.ai/join](https://muse.ai/join).
 2. Within 48 hours of creating your account, go to **Settings** → **General**.
-3. Under **Usage / Invitations**, enter invite code **`O8VAV4`**, **`ZEP1V3`**, **`AVL1VC`**, **`O0TMAV`**, **`ZV3R14`**, **`2YBM8K`**, or **`BLTW57`** to claim **1,000,000,000 free tokens** instantly!
+3. Under **Usage / Invitations**, enter invite code **`O8VAV4`**, **`ZEP1V3`**, **`B3NYLG`**, **`AVL1VC`**, **`O0TMAV`**, **`ZV3R14`**, **`2YBM8K`**, or **`BLTW57`** to claim **1,000,000,000 free tokens** instantly!
