@@ -31,6 +31,9 @@ alternative_codes:
   - code: 1NA0ZA
     submitted_by: houdaguang
     note: Community contributor code (1 billion free tokens for both sides, 29 uses remaining)
+  - code: EK3ZVU
+    submitted_by: abstractkevin92-dotcom
+    note: My Meta Muse invite code is EK3ZVU. Redeem it in Muse Settings within 48 hours of joining. If eligible, we both receive 1 billion bonus Muse tokens.
 status: active
 category:
   - technology
@@ -109,4 +112,4 @@ Get **1 Billion Free Muse Tokens** when signing up for Meta's personal AI agent 
 ### How to Claim:
 1. Join Muse at [muse.ai/join](https://muse.ai/join).
 2. Within 48 hours of creating your account, go to **Settings** → **General**.
-3. Under **Usage / Invitations**, enter invite code **`O8VAV4`**, **`ZEP1V3`**, **`B3NYLG`**, **`AVL1VC`**, **`O0TMAV`**, **`ZV3R14`**, **`2YBM8K`**, or **`BLTW57`** to claim **1,000,000,000 free tokens** instantly!
+3. Under **Usage / Invitations**, enter invite code **`O8VAV4`**, **`ZEP1V3`**, **`AVL1VC`**, **`O0TMAV`**, **`ZV3R14`**, **`2YBM8K`**, or **`BLTW57`** to claim **1,000,000,000 free tokens** instantly!
