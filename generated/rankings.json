@@ -1,5 +1,5 @@
 {
-  "calculated_at": "2026-11-02T15:34:11.957Z",
+  "calculated_at": "2026-11-02T15:47:31.405Z",
   "total_referrals": 13,
   "trending": [
     {
@@ -63,6 +63,21 @@
       "confidence": 100
     },
     {
+      "id": "buyhatke",
+      "slug": "buyhatke",
+      "name": "Buyhatke",
+      "category": [
+        "shopping"
+      ],
+      "reward": {
+        "referrer": "Instant points per order + Brand commissions",
+        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
+        "type": "sale_reward_cps",
+        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
+      },
+      "confidence": 100
+    },
+    {
       "id": "zulti",
       "slug": "zulti",
       "name": "Zulti",
@@ -74,51 +89,6 @@
         "referred_user": "30 XP, 200 gems + Free Play",
         "type": "dual_sided",
         "description": "Play 100% free games, spin the prize wheel, and win real USD cash. Referrers earn $1.00 immediately per confirmed referral (up to $7 per withdrawal), a free play worth up to $10, 500 gems and 50 XP after a 2-day spin streak, plus 20% lifetime draw prize matching. New players get 30 XP, 200 gems, and a free play."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "pawns-app",
-      "slug": "pawns-app",
-      "name": "Pawns.app",
-      "category": [
-        "other"
-      ],
-      "reward": {
-        "referrer": "$3 bonus ($1 x 3 payouts) + 10% commission",
-        "referred_user": "$3 Starter Bonus ($1 after each of first 3 payouts)",
-        "type": "dual_sided",
-        "description": "Kick-start your money-making journey on Pawns.app with a $3 bonus — $1 after your 1st payout, $1 after your 2nd payout, and $1 after your 3rd payout."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "famapp",
-      "slug": "famapp",
-      "name": "FamApp by FamPay",
-      "category": [
-        "finance"
-      ],
-      "reward": {
-        "referrer": "₹20 FamCash per friend",
-        "referred_user": "₹20 Instant FamCash",
-        "type": "dual_sided",
-        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
-      },
-      "confidence": 100
-    },
-    {
-      "id": "pollpe",
-      "slug": "pollpe",
-      "name": "PollPe",
-      "category": [
-        "lifestyle"
-      ],
-      "reward": {
-        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
-        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
-        "type": "dual_sided",
-        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
       },
       "confidence": 100
     },
@@ -138,21 +108,6 @@
       "confidence": 100
     },
     {
-      "id": "buyhatke",
-      "slug": "buyhatke",
-      "name": "Buyhatke",
-      "category": [
-        "shopping"
-      ],
-      "reward": {
-        "referrer": "Instant points per order + Brand commissions",
-        "referred_user": "Discounts on hundreds of brand gift cards + Auto coupons",
-        "type": "sale_reward_cps",
-        "description": "Earn instant rewards points in your wallet and brand commissions for every gift card order your friends place from hundreds of top brands."
-      },
-      "confidence": 100
-    },
-    {
       "id": "rooter",
       "slug": "rooter",
       "name": "Rooter",
@@ -164,6 +119,51 @@
         "referred_user": "₹100 Bonus Coins & Gaming Rewards",
         "type": "lead_reward_cpl",
         "description": "India's leading gaming community and live stream platform. Install Rooter and get up to ₹100 worth of bonus coins and gaming gift cards."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "pollpe",
+      "slug": "pollpe",
+      "name": "PollPe",
+      "category": [
+        "lifestyle"
+      ],
+      "reward": {
+        "referrer": "100 PollPe Coins (₹10) + Referral bonuses",
+        "referred_user": "₹10 Free Instant Signup Bonus (Code: STABLERSLEET)",
+        "type": "dual_sided",
+        "description": "Answer quick polls and opinion surveys to earn real cash payouts via UPI, Amazon, and Flipkart gift cards. Sign up with code STABLERSLEET for ₹10 free instantly."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "famapp",
+      "slug": "famapp",
+      "name": "FamApp by FamPay",
+      "category": [
+        "finance"
+      ],
+      "reward": {
+        "referrer": "₹20 FamCash per friend",
+        "referred_user": "₹20 Instant FamCash",
+        "type": "dual_sided",
+        "description": "Get ₹20 instant FamCash on FamApp when you make your first payment using famX Wallet."
+      },
+      "confidence": 100
+    },
+    {
+      "id": "pawns-app",
+      "slug": "pawns-app",
+      "name": "Pawns.app",
+      "category": [
+        "other"
+      ],
+      "reward": {
+        "referrer": "$3 bonus ($1 x 3 payouts) + 10% commission",
+        "referred_user": "$3 Starter Bonus ($1 after each of first 3 payouts)",
+        "type": "dual_sided",
+        "description": "Kick-start your money-making journey on Pawns.app with a $3 bonus — $1 after your 1st payout, $1 after your 2nd payout, and $1 after your 3rd payout."
       },
       "confidence": 100
     },
