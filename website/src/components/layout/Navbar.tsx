@@ -5,7 +5,7 @@ import {
   Plus, 
   Menu, 
   X,
-  Github
+  Globe
 } from 'lucide-react';
 
 export const Navbar: React.FC = () => {
@@ -109,7 +109,7 @@ export const Navbar: React.FC = () => {
               className="p-1.5 text-stone-500 hover:text-stone-800 hover:bg-stone-100 rounded-md transition-colors"
               title="GitHub Profile (@Saketkesar)"
             >
-              <Github className="w-4 h-4" />
+              <Globe className="w-4 h-4" />
             </a>
 
             {/* Mobile menu button */}

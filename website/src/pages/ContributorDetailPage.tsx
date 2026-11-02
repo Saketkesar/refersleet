@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { ArrowLeft, Github, Globe, ExternalLink } from 'lucide-react';
+import { ArrowLeft, Globe, ExternalLink } from 'lucide-react';
 import { useData } from '../context/DataContext';
 import { ReferralCard } from '../components/common/ReferralCard';
 
@@ -73,7 +73,7 @@ export const ContributorDetailPage: React.FC = () => {
               rel="noopener noreferrer"
               className="notion-btn-white px-3.5 py-1.5 text-xs font-medium inline-flex items-center gap-1.5"
             >
-              <Github className="w-3.5 h-3.5" />
+              <Globe className="w-3.5 h-3.5" />
               <span>GitHub Profile</span>
               <ExternalLink className="w-3 h-3 text-stone-400" />
             </a>
