@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Github, Mail } from 'lucide-react';
+import { Globe, Mail } from 'lucide-react';
 
 export const Footer: React.FC = () => {
   return (
@@ -41,7 +41,7 @@ export const Footer: React.FC = () => {
               rel="noopener noreferrer" 
               className="hover:text-stone-900 flex items-center gap-1"
             >
-              <Github className="w-3.5 h-3.5" />
+              <Globe className="w-3.5 h-3.5" />
               <span>@Saketkesar</span>
             </a>
           </div>

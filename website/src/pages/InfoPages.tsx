@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ShieldCheck, Heart, Github, Mail, Sparkles, CheckCircle2, ArrowUpRight } from 'lucide-react';
+import { ShieldCheck, Heart, Globe, Mail, Sparkles, CheckCircle2, ArrowUpRight } from 'lucide-react';
 
 export const AboutPage: React.FC = () => (
   <div className="max-w-3xl mx-auto px-4 sm:px-6 py-12 space-y-10 bg-white">
@@ -86,7 +86,7 @@ export const AboutPage: React.FC = () => (
             rel="noopener noreferrer"
             className="notion-btn-white px-3 py-1.5 inline-flex items-center gap-1.5 font-medium"
           >
-            <Github className="w-3.5 h-3.5" />
+            <Globe className="w-3.5 h-3.5" />
             <span>GitHub (@Saketkesar)</span>
             <ArrowUpRight className="w-3 h-3 text-stone-400" />
           </a>
