@@ -52,6 +52,15 @@ export const Navbar: React.FC = () => {
               </Link>
 
               <Link
+                to="/leaderboard"
+                className={`px-3 py-1.5 rounded-md text-stone-600 hover:text-stone-900 hover:bg-stone-100 transition-colors ${
+                  isActive('/leaderboard') ? 'text-stone-900 font-semibold bg-stone-100' : ''
+                }`}
+              >
+                Leaderboard
+              </Link>
+
+              <Link
                 to="/api-docs"
                 className={`px-3 py-1.5 rounded-md text-stone-600 hover:text-stone-900 hover:bg-stone-100 transition-colors ${
                   isActive('/api-docs') ? 'text-stone-900 font-semibold bg-stone-100' : ''
@@ -136,6 +145,13 @@ export const Navbar: React.FC = () => {
               className="p-2 rounded hover:bg-stone-100 text-stone-700"
             >
               Directory
+            </Link>
+            <Link
+              to="/leaderboard"
+              onClick={() => setMobileMenuOpen(false)}
+              className="p-2 rounded hover:bg-stone-100 text-stone-700"
+            >
+              Leaderboard
             </Link>
             <Link
               to="/api-docs"

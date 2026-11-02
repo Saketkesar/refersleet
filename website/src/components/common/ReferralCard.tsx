@@ -66,8 +66,13 @@ export const ReferralCard: React.FC<ReferralCardProps> = ({ referral }) => {
           </p>
         </div>
 
-        {/* Tags */}
-        <div className="flex flex-wrap gap-1.5 mb-4">
+        {/* Tags & Code */}
+        <div className="flex flex-wrap items-center gap-1.5 mb-4">
+          {referral.code && (
+            <span className="bg-orange-100 text-orange-900 border border-orange-200 text-[11px] font-mono font-semibold px-2 py-0.5 rounded">
+              Code: {referral.code}
+            </span>
+          )}
           {referral.tags?.slice(0, 3).map((tag) => (
             <span key={tag} className="notion-pill text-[11px]">
               #{tag}

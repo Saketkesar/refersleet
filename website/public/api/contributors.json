@@ -21,11 +21,195 @@
       "Trusted Contributor",
       "Top Contributor"
     ],
-    "approved_submissions": 8,
+    "approved_submissions": 13,
     "verified_submissions": 15,
     "reports_submitted": 0,
     "valid_reports": 0,
     "markdown_content": "# Saket Kesar\n\nLead maintainer and founder of the Refersleet open directory.",
     "source_file": "contributors/saketkesar.md"
+  },
+  {
+    "username": "shunshun2026",
+    "display_name": "shunshun2026",
+    "avatar": "https://avatars.githubusercontent.com/u/342438258?v=4",
+    "github_url": "https://github.com/shunshun2026",
+    "bio": "Community contributor on Refersleet sharing active AI rewards and invitation codes.",
+    "joined_at": "2026-10-14",
+    "links": {
+      "github": "https://github.com/shunshun2026"
+    },
+    "reputation": 60,
+    "rank": 2,
+    "badges": [
+      "First Contribution",
+      "community-contributor"
+    ],
+    "approved_submissions": 1,
+    "verified_submissions": 1,
+    "reports_submitted": 0,
+    "valid_reports": 0,
+    "markdown_content": "# shunshun2026\n\nCommunity contributor on Refersleet sharing active AI rewards and invitation codes.",
+    "source_file": "contributors/shunshun2026.md"
+  },
+  {
+    "username": "midnightmichigan",
+    "display_name": "Midnight Michigan",
+    "avatar": "https://avatars.githubusercontent.com/u/228204037?v=4",
+    "github_url": "https://github.com/midnightmichigan",
+    "bio": "Community contributor on Refersleet sharing verified AI agent compute and invitation codes.",
+    "joined_at": "2026-10-12",
+    "links": {
+      "github": "https://github.com/midnightmichigan"
+    },
+    "reputation": 60,
+    "rank": 3,
+    "badges": [
+      "First Contribution",
+      "community-contributor"
+    ],
+    "approved_submissions": 1,
+    "verified_submissions": 1,
+    "reports_submitted": 0,
+    "valid_reports": 0,
+    "markdown_content": "# Midnight Michigan\n\nCommunity contributor on Refersleet sharing verified AI agent compute and invitation codes.",
+    "source_file": "contributors/midnightmichigan.md"
+  },
+  {
+    "username": "houdaguang",
+    "display_name": "houdaguang",
+    "avatar": "https://avatars.githubusercontent.com/u/333405659?v=4",
+    "github_url": "https://github.com/houdaguang",
+    "bio": "Community contributor on Refersleet sharing active AI referral rewards and codes.",
+    "joined_at": "2026-10-21",
+    "links": {
+      "github": "https://github.com/houdaguang"
+    },
+    "reputation": 60,
+    "rank": 4,
+    "badges": [
+      "First Contribution",
+      "community-contributor"
+    ],
+    "approved_submissions": 1,
+    "verified_submissions": 1,
+    "reports_submitted": 0,
+    "valid_reports": 0,
+    "markdown_content": "# houdaguang\n\nCommunity contributor on Refersleet sharing active AI referral rewards and codes.",
+    "source_file": "contributors/houdaguang.md"
+  },
+  {
+    "username": "hill-wwy",
+    "display_name": "hill-wwy",
+    "avatar": "https://avatars.githubusercontent.com/u/55642473?v=4",
+    "github_url": "https://github.com/hill-wwy",
+    "bio": "Community contributor on Refersleet sharing verified AI compute codes and tools.",
+    "joined_at": "2026-10-14",
+    "links": {
+      "github": "https://github.com/hill-wwy"
+    },
+    "reputation": 60,
+    "rank": 5,
+    "badges": [
+      "First Contribution",
+      "community-contributor"
+    ],
+    "approved_submissions": 1,
+    "verified_submissions": 1,
+    "reports_submitted": 0,
+    "valid_reports": 0,
+    "markdown_content": "# hill-wwy\n\nCommunity contributor on Refersleet sharing verified AI compute codes and tools.",
+    "source_file": "contributors/hill-wwy.md"
+  },
+  {
+    "username": "eastar9630",
+    "display_name": "Kim DongJin",
+    "avatar": "https://avatars.githubusercontent.com/u/15670101?v=4",
+    "github_url": "https://github.com/eastar9630",
+    "bio": "Community contributor on Refersleet sharing active AI referral rewards and codes.",
+    "joined_at": "2026-10-15",
+    "links": {
+      "github": "https://github.com/eastar9630"
+    },
+    "reputation": 60,
+    "rank": 6,
+    "badges": [
+      "First Contribution",
+      "community-contributor"
+    ],
+    "approved_submissions": 1,
+    "verified_submissions": 1,
+    "reports_submitted": 0,
+    "valid_reports": 0,
+    "markdown_content": "# Kim DongJin (@eastar9630)\n\nCommunity contributor on Refersleet sharing active AI referral rewards and codes.",
+    "source_file": "contributors/eastar9630.md"
+  },
+  {
+    "username": "chefyhalf",
+    "display_name": "chefyhalf",
+    "avatar": "https://avatars.githubusercontent.com/u/106939706?v=4",
+    "github_url": "https://github.com/chefyhalf",
+    "bio": "Community contributor on Refersleet sharing Muse invite codes.",
+    "joined_at": "2026-10-15",
+    "links": {
+      "github": "https://github.com/chefyhalf"
+    },
+    "reputation": 60,
+    "rank": 7,
+    "badges": [
+      "First Contribution",
+      "community-contributor"
+    ],
+    "approved_submissions": 1,
+    "verified_submissions": 1,
+    "reports_submitted": 0,
+    "valid_reports": 0,
+    "markdown_content": "# chefyhalf\n\nCommunity contributor on Refersleet sharing Muse invite codes.",
+    "source_file": "contributors/chefyhalf.md"
+  },
+  {
+    "username": "MrWrecks",
+    "display_name": "MrWrecks",
+    "avatar": "https://avatars.githubusercontent.com/u/8411629?v=4",
+    "github_url": "https://github.com/MrWrecks",
+    "bio": "Community contributor on Refersleet sharing active AI referral rewards and codes.",
+    "joined_at": "2026-10-18",
+    "links": {
+      "github": "https://github.com/MrWrecks"
+    },
+    "reputation": 60,
+    "rank": 8,
+    "badges": [
+      "First Contribution",
+      "community-contributor"
+    ],
+    "approved_submissions": 1,
+    "verified_submissions": 1,
+    "reports_submitted": 0,
+    "valid_reports": 0,
+    "markdown_content": "# MrWrecks\n\nCommunity contributor on Refersleet sharing active AI referral rewards and codes.",
+    "source_file": "contributors/MrWrecks.md"
+  },
+  {
+    "username": "535774696a-cpu",
+    "display_name": "535774696a-cpu",
+    "avatar": "https://avatars.githubusercontent.com/u/280461383?v=4",
+    "github_url": "https://github.com/535774696a-cpu",
+    "bio": "Community contributor on Refersleet sharing verified AI and tech referral rewards.",
+    "joined_at": "2026-09-30",
+    "links": {
+      "github": "https://github.com/535774696a-cpu"
+    },
+    "reputation": 60,
+    "rank": 9,
+    "badges": [
+      "First Contribution",
+      "community-contributor"
+    ],
+    "approved_submissions": 1,
+    "verified_submissions": 1,
+    "reports_submitted": 0,
+    "valid_reports": 0,
+    "markdown_content": "# 535774696a-cpu\n\nCommunity contributor on Refersleet sharing verified AI and tech referral rewards.",
+    "source_file": "contributors/535774696a-cpu.md"
   }
 ]

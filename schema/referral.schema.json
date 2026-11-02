@@ -36,6 +36,21 @@
       "type": "string",
       "pattern": "^[a-z0-9-]+$"
     },
+    "code": {
+      "type": "string"
+    },
+    "alternative_codes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["code", "submitted_by"],
+        "properties": {
+          "code": { "type": "string" },
+          "submitted_by": { "type": "string" },
+          "note": { "type": "string" }
+        }
+      }
+    },
     "status": {
       "type": "string",
       "enum": ["active", "expired", "pending", "flagged", "archived"]

@@ -1,5 +1,269 @@
 [
   {
+    "id": "yap-cash",
+    "name": "Yap Cash",
+    "slug": "yap-cash",
+    "status": "active",
+    "category": [
+      "technology"
+    ],
+    "subcategories": [
+      "ai"
+    ],
+    "country": [
+      "US",
+      "IN",
+      "GB",
+      "CA",
+      "DE",
+      "AU"
+    ],
+    "official_website": "https://yapcash.ai",
+    "reward": {
+      "referrer": "$5 gift card per 5 active users",
+      "referred_user": "+200 XP free bonus",
+      "type": "gift_card",
+      "description": "Earn free gift cards just by using ChatGPT & Claude. Join with invite link or code YC-GETSAKET to get +200 XP free instantly when installing the browser extension. Referrers receive a $5 gift card per 5 users who use the extension for 7 days."
+    },
+    "eligibility": [
+      "New Yap Cash users",
+      "Desktop Chrome / Chromium browser for the extension",
+      "Use ChatGPT or Claude with the extension active"
+    ],
+    "requirements": [
+      "Visit https://yapcash.ai/invite?ref=YC-GETSAKET",
+      "Install the Yap Cash browser extension",
+      "Claim your +200 XP free sign-up bonus",
+      "Use ChatGPT or Claude with the extension active for 7 days"
+    ],
+    "terms_url": "https://yapcash.ai",
+    "submitted_by": {
+      "username": "saketkesar",
+      "display_name": "Saket Kesar",
+      "avatar": "https://avatars.githubusercontent.com/u/93246904?v=4"
+    },
+    "submitted_at": "2026-09-30",
+    "last_verified": "2026-09-30",
+    "verification": {
+      "status": "official-verified",
+      "working_votes": 1,
+      "not_working_votes": 0,
+      "reward_changed_votes": 0,
+      "confidence": 100
+    },
+    "tags": [
+      "ai",
+      "chatgpt",
+      "claude",
+      "browser-extension",
+      "gift-cards",
+      "rewards",
+      "free-xp"
+    ],
+    "screenshots": [
+      "https://lh3.googleusercontent.com/Ue3P4LEcLv5-s89USU-QmPM9bVPAlg5l-dxLQ1wDTWB3cLCH_NRokxlRl17by5osCfNA1LwnoXBbsqqRDV8RfgQjj6g=s120"
+    ],
+    "description": "Yap Cash lets you earn real gift cards simply by using ChatGPT and Claude for your daily tasks. Install the official browser extension with invite link or referral code YC-GETSAKET to immediately unlock a +200 XP welcome bonus. Every 5 referrals who keep the extension active for 7 days yield a $5 gift card.\n"
+  },
+  {
+    "id": "muse",
+    "name": "Muse",
+    "slug": "muse",
+    "status": "active",
+    "category": [
+      "technology"
+    ],
+    "subcategories": [
+      "ai"
+    ],
+    "country": [
+      "US",
+      "CA",
+      "IN",
+      "GB"
+    ],
+    "official_website": "https://muse.ai",
+    "reward": {
+      "referrer": "1 billion Muse tokens",
+      "referred_user": "1 billion Muse tokens",
+      "type": "dual_sided",
+      "description": "Invite a friend to Muse with your personal invite code. When they redeem it in Settings within 48 hours of joining, you both get 1 billion free Muse tokens."
+    },
+    "eligibility": [
+      "New Muse users",
+      "Code must be redeemed in Settings within 48 hours of joining"
+    ],
+    "requirements": [
+      "Sign up for Muse at https://muse.ai/join",
+      "Open Settings → General inside the Muse app/dashboard",
+      "Enter either community code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, or FUMWN1 under Claim Invitation to receive 1 billion free Muse tokens"
+    ],
+    "terms_url": "https://muse.ai",
+    "submitted_by": {
+      "username": "saketkesar",
+      "display_name": "Saket Kesar",
+      "avatar": "https://avatars.githubusercontent.com/u/93246904?v=4"
+    },
+    "submitted_at": "2026-09-30",
+    "last_verified": "2026-09-30",
+    "verification": {
+      "status": "official-verified",
+      "working_votes": 6,
+      "not_working_votes": 0,
+      "reward_changed_votes": 0,
+      "confidence": 100
+    },
+    "tags": [
+      "ai",
+      "personal-assistant",
+      "meta",
+      "invite-code",
+      "dual-sided",
+      "llm-credits"
+    ],
+    "screenshots": [
+      "https://lookaside.fbsbx.com/elementpath/media/?media_id=878166652047061&version=1789771377&transcode_extension=webp",
+      "https://saketkesar.github.io/refersleet/images/referrals/muse-settings.png"
+    ],
+    "description": "Take a look at Muse – your personal AI agent from Meta. Redeem community codes O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, or FUMWN1 in Settings within 48 hours of joining and both sides receive 1 billion free Muse tokens added to their balance for AI generation and assistance.\n"
+  },
+  {
+    "id": "kuro",
+    "name": "Kuro",
+    "slug": "kuro",
+    "status": "active",
+    "category": [
+      "technology"
+    ],
+    "subcategories": [
+      "ai",
+      "passive-income",
+      "rewards"
+    ],
+    "country": [
+      "IN",
+      "US",
+      "GB",
+      "CA",
+      "AU"
+    ],
+    "official_website": "https://trykuro.app",
+    "reward": {
+      "referrer": "₹100 bonus per active referral (after 1 hour of recording)",
+      "referred_user": "₹100/hour for accepted recordings + ₹100 welcome bonus",
+      "type": "dual_sided",
+      "description": "Record your screen while you study or work. Kuro pays you ₹100/hour for accepted recordings to help train frontier AI models on real computer workflows. Referrers receive ₹100 once their invitee completes their first hour of real paid work. Payouts via Amazon Pay, Flipkart, and Uber gift cards starting at ₹300."
+    },
+    "eligibility": [
+      "Windows (10/11) or macOS desktop/laptop users",
+      "Genuine computer activity (study, research, work, design, note-taking)"
+    ],
+    "requirements": [
+      "Download and install Kuro for macOS or Windows via invite link https://trykuro.app/r/ren7v7",
+      "Sign in and turn on background recording during daily computer work",
+      "On-device local filters automatically detect and mask sensitive apps (banking, passwords, messaging)",
+      "Accumulate earnings at ₹100/hour and cash out via Amazon Pay, Flipkart, or Uber vouchers starting at ₹300"
+    ],
+    "terms_url": "https://trykuro.app/legal/terms",
+    "submitted_by": {
+      "username": "saketkesar",
+      "display_name": "Saket Kesar",
+      "avatar": "https://avatars.githubusercontent.com/u/93246904?v=4"
+    },
+    "submitted_at": "2026-10-24",
+    "last_verified": "2026-10-24",
+    "verification": {
+      "status": "official-verified",
+      "working_votes": 6,
+      "not_working_votes": 0,
+      "reward_changed_votes": 0,
+      "confidence": 100
+    },
+    "tags": [
+      "ai",
+      "passive-income",
+      "screen-recording",
+      "rewards",
+      "work-from-home",
+      "cash",
+      "gift-cards"
+    ],
+    "screenshots": [
+      "https://trykuro.app/icon.svg",
+      "https://trykuro.app/og.png"
+    ],
+    "description": "Kuro is a frontier AI research platform that pays you ₹100/hour for recording real computer work as you study, code, browse, or take notes. With automatic on-device privacy masking, sensitive password, messaging, and banking data is filtered locally before upload.\n"
+  },
+  {
+    "id": "chatwait",
+    "name": "Chatwait",
+    "slug": "chatwait",
+    "status": "active",
+    "category": [
+      "technology"
+    ],
+    "subcategories": [
+      "ai",
+      "passive-income",
+      "rewards"
+    ],
+    "country": [
+      "US",
+      "CA",
+      "GB",
+      "IN",
+      "AU",
+      "DE",
+      "FR"
+    ],
+    "official_website": "https://chatwait.com",
+    "reward": {
+      "referrer": "50% ad revenue share & referral cash bonuses",
+      "referred_user": "Get paid 50% ad revenue while AI thinks (ChatGPT, Claude & Gemini)",
+      "type": "dual_sided",
+      "description": "Earn real cash while waiting for ChatGPT, Claude, and Gemini to generate responses. Chatwait is an open-source browser extension that displays a single dismissible sponsored line and pays you 50% of the ad revenue in USD straight to your bank via Whop."
+    },
+    "eligibility": [
+      "Users with Google Chrome, Chromium browsers, or Mozilla Firefox",
+      "Active users of ChatGPT, Claude, or Google Gemini"
+    ],
+    "requirements": [
+      "Install the Chatwait extension for Chrome or Firefox via invite link https://chatwait.com/r/pgnajd",
+      "Sign in to your account",
+      "Browse AI chats as usual; earn 50% of advertiser bids on qualified impressions",
+      "Cash out real USD earnings via Whop directly to your bank account"
+    ],
+    "terms_url": "https://chatwait.com",
+    "submitted_by": {
+      "username": "saketkesar",
+      "display_name": "Saket Kesar",
+      "avatar": "https://avatars.githubusercontent.com/u/93246904?v=4"
+    },
+    "submitted_at": "2026-10-21",
+    "last_verified": "2026-10-21",
+    "verification": {
+      "status": "official-verified",
+      "working_votes": 6,
+      "not_working_votes": 0,
+      "reward_changed_votes": 0,
+      "confidence": 100
+    },
+    "tags": [
+      "ai",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "browser-extension",
+      "passive-income",
+      "rewards",
+      "cash"
+    ],
+    "screenshots": [
+      "https://chatwait.com/icon.svg"
+    ],
+    "description": "Chatwait is an open-source browser extension that pays users 50% of ad revenue for showing a single, dismissible sponsored line while ChatGPT, Claude, and Gemini are generating responses. It never touches or reads chat text, requires no ad clicking, and pays in real USD via Whop.\n"
+  },
+  {
     "id": "agent-router",
     "name": "Agent Router",
     "slug": "agent-router",
@@ -177,6 +441,70 @@
       "https://lh3.googleusercontent.com/5MCP76SIC04mQLsYFJGteu_4jm8EDkW80WX9QtkK9b_cZwyIWhXGJqUBAZDSr7q6cEQhyamxc7taUJZpHsXg_J17=s120"
     ],
     "description": "Buyhatke Gift Card Referral Program lets you earn instant wallet points and brand commissions whenever your referred friends purchase gift cards across hundreds of top retail brands.\n"
+  },
+  {
+    "id": "zulti",
+    "name": "Zulti",
+    "slug": "zulti",
+    "status": "active",
+    "category": [
+      "other"
+    ],
+    "subcategories": [
+      "rewards",
+      "gaming"
+    ],
+    "country": [
+      "US",
+      "CA",
+      "GB",
+      "IN",
+      "AU"
+    ],
+    "official_website": "https://zulti.com",
+    "reward": {
+      "referrer": "$1.00 per referral + Free Play (up to $10), 500 gems, 50 XP & 20% draw prize match",
+      "referred_user": "30 XP, 200 gems + Free Play",
+      "type": "dual_sided",
+      "description": "Play 100% free games, spin the prize wheel, and win real USD cash. Referrers earn $1.00 immediately per confirmed referral (up to $7 per withdrawal), a free play worth up to $10, 500 gems and 50 XP after a 2-day spin streak, plus 20% lifetime draw prize matching. New players get 30 XP, 200 gems, and a free play."
+    },
+    "eligibility": [
+      "New Zulti players worldwide",
+      "Must register with referral code 79UJUHG94T or invite link"
+    ],
+    "requirements": [
+      "Register an account at https://zulti.com/?r=79UJUHG94T",
+      "Sign in and claim your welcome bonus of 30 XP and 200 gems",
+      "Complete the spin streak challenge (spin 2 days in a row) to unlock free play worth up to $10"
+    ],
+    "terms_url": "https://zulti.com",
+    "submitted_by": {
+      "username": "saketkesar",
+      "display_name": "Saket Kesar",
+      "avatar": "https://avatars.githubusercontent.com/u/93246904?v=4"
+    },
+    "submitted_at": "2026-10-14",
+    "last_verified": "2026-10-14",
+    "verification": {
+      "status": "official-verified",
+      "working_votes": 6,
+      "not_working_votes": 0,
+      "reward_changed_votes": 0,
+      "confidence": 100
+    },
+    "tags": [
+      "rewards",
+      "gaming",
+      "cash-prizes",
+      "free-play",
+      "dual-sided",
+      "gems"
+    ],
+    "screenshots": [
+      "https://zulti.com/images/zulti-logo-b251bf00f76a64ceb7a4f8588fd1098c.svg?vsn=d",
+      "https://iili.io/nX6D8Rn.png"
+    ],
+    "description": "Zulti is a 100% free-to-play gaming rewards platform where users spin wheels, earn gems, and enter USD draws for real cash prizes. Join via code 79UJUHG94T for 30 XP, 200 gems, and a free play worth up to $10.\n"
   },
   {
     "id": "pawns-app",

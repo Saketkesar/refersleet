@@ -44,7 +44,9 @@ export const HomePage: React.FC = () => {
         return (
           r.name.toLowerCase().includes(q) ||
           r.reward.description.toLowerCase().includes(q) ||
-          r.tags.some(t => t.toLowerCase().includes(q))
+          r.tags.some(t => t.toLowerCase().includes(q)) ||
+          r.code?.toLowerCase().includes(q) ||
+          r.alternative_codes?.some(ac => ac.code.toLowerCase().includes(q))
         );
       }
       return true;

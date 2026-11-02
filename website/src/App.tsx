@@ -12,6 +12,7 @@ import { CategoryDetailPage } from './pages/CategoryDetailPage';
 import { RedirectSimulatorPage } from './pages/RedirectSimulatorPage';
 import { SubmitPage } from './pages/SubmitPage';
 import { ContributorDetailPage } from './pages/ContributorDetailPage';
+import { LeaderboardPage } from './pages/LeaderboardPage';
 import { AboutPage, DisclosurePage, FAQPage } from './pages/InfoPages';
 import { ApiDocsPage } from './pages/ApiDocsPage';
 
@@ -29,11 +30,14 @@ export const App: React.FC = () => {
               <Route path="/category/:slug" element={<CategoryDetailPage />} />
               <Route path="/r/:slug" element={<RedirectSimulatorPage />} />
               <Route path="/submit" element={<SubmitPage />} />
+              <Route path="/leaderboard" element={<LeaderboardPage />} />
+              <Route path="/contributors" element={<LeaderboardPage />} />
               <Route path="/contributors/:username" element={<ContributorDetailPage />} />
               <Route path="/api-docs" element={<ApiDocsPage />} />
               <Route path="/about" element={<AboutPage />} />
               <Route path="/disclosure" element={<DisclosurePage />} />
               <Route path="/faq" element={<FAQPage />} />
+              <Route path="*" element={<HomePage />} />
             </Routes>
           </main>
           <Footer />

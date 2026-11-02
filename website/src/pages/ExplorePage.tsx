@@ -34,7 +34,8 @@ export const ExplorePage: React.FC = () => {
         const matchDesc = r.description.toLowerCase().includes(q);
         const matchReward = r.reward.description.toLowerCase().includes(q);
         const matchTag = r.tags.some(t => t.toLowerCase().includes(q));
-        if (!matchName && !matchDesc && !matchReward && !matchTag) return false;
+        const matchCode = r.code?.toLowerCase().includes(q) || r.alternative_codes?.some(ac => ac.code.toLowerCase().includes(q));
+        if (!matchName && !matchDesc && !matchReward && !matchTag && !matchCode) return false;
       }
 
       if (selectedCategory && !r.category.includes(selectedCategory)) return false;
