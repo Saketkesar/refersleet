@@ -31,6 +31,9 @@ alternative_codes:
   - code: 1NA0ZA
     submitted_by: houdaguang
     note: Community contributor code (1 billion free tokens for both sides, 29 uses remaining)
+  - code: EK3ZVU
+    submitted_by: abstractkevin92-dotcom
+    note: My Meta Muse invite code is EK3ZVU. Redeem it in Muse Settings within 48 hours of joining. If eligible, we both receive 1 billion bonus Muse tokens.
   - code: FUMWN1
     submitted_by: haiwaiid20-art
     note: Community contributor code (1 billion free tokens for both sides)
@@ -56,7 +59,7 @@ eligibility:
 requirements:
   - Sign up for Muse at https://muse.ai/join
   - Open Settings → General inside the Muse app/dashboard
-  - Enter either community code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, or FUMWN1 under Claim Invitation to receive 1 billion free Muse tokens
+  - Enter either community code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, or FUMWN1 under Claim Invitation to receive 1 billion free Muse tokens
 terms_url: https://muse.ai
 submitted_by:
   username: saketkesar
@@ -81,9 +84,9 @@ screenshots:
   - https://lookaside.fbsbx.com/elementpath/media/?media_id=878166652047061&version=1789771377&transcode_extension=webp
   - https://saketkesar.github.io/refersleet/images/referrals/muse-settings.png
 description: |
-  Take a look at Muse – your personal AI agent from Meta. Redeem community codes O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, or FUMWN1 in Settings within 48 hours of joining and both sides receive 1 billion free Muse tokens added to their balance for AI generation and assistance.
+  Take a look at Muse – your personal AI agent from Meta. Redeem community codes O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, or FUMWN1 in Settings within 48 hours of joining and both sides receive 1 billion free Muse tokens added to their balance for AI generation and assistance.
 notes: |
-  In Settings -> General, you can verify your active token balance and claim your invitation code. Ensure you enter code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, or FUMWN1 within 48 hours of creating your account.
+  In Settings -> General, you can verify your active token balance and claim your invitation code. Ensure you enter code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, or FUMWN1 within 48 hours of creating your account.
 redirect:
   redirect_slug: muse
   disclosure_required: true
@@ -106,10 +109,13 @@ Get **1 Billion Free Muse Tokens** when signing up for Meta's personal AI agent 
 6. **`ZV3R14`** — Submitted by [@chefyhalf](https://github.com/chefyhalf) *(Community Contributor)*
 7. **`2YBM8K`** — Submitted by [@eastar9630](https://github.com/eastar9630) *(Community Contributor)*
 8. **`BLTW57`** — Submitted by [@MrWrecks](https://github.com/MrWrecks) *(Community Contributor)*
+9. **`1NA0ZA`** — Submitted by [@houdaguang](https://github.com/houdaguang) *(Community Contributor)*
+10. **`EK3ZVU`** — Submitted by [@abstractkevin92-dotcom](https://github.com/abstractkevin92-dotcom) *(Community Contributor)*
+11. **`FUMWN1`** — Submitted by [@haiwaiid20-art](https://github.com/haiwaiid20-art) *(Community Contributor)*
 
 ---
 
 ### How to Claim:
 1. Join Muse at [muse.ai/join](https://muse.ai/join).
 2. Within 48 hours of creating your account, go to **Settings** → **General**.
-3. Under **Usage / Invitations**, enter invite code **`O8VAV4`**, **`ZEP1V3`**, **`B3NYLG`**, **`AVL1VC`**, **`O0TMAV`**, **`ZV3R14`**, **`2YBM8K`**, or **`BLTW57`** to claim **1,000,000,000 free tokens** instantly!
+3. Under **Usage / Invitations**, enter invite code **`O8VAV4`**, **`ZEP1V3`**, **`B3NYLG`**, **`AVL1VC`**, **`O0TMAV`**, **`ZV3R14`**, **`2YBM8K`**, **`BLTW57`**, **`1NA0ZA`**, **`EK3ZVU`**, or **`FUMWN1`** to claim **1,000,000,000 free tokens** instantly!
