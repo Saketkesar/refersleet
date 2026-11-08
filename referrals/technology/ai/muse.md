@@ -37,6 +37,12 @@ alternative_codes:
   - code: FUMWN1
     submitted_by: haiwaiid20-art
     note: Community contributor code (1 billion free tokens for both sides)
+      - code: KGDUUN
+    submitted_by: jacker-nz
+    note: Community contributor code (1 billion free tokens for both sides)
+  - code: 0M1PO9
+    submitted_by: jacker-nz
+        note: Community contributor code (1 billion free tokens for both sides)
 status: active
 category:
   - technology
