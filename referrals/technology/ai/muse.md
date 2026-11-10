@@ -37,6 +37,9 @@ alternative_codes:
   - code: FUMWN1
     submitted_by: haiwaiid20-art
     note: Community contributor code (1 billion free tokens for both sides)
+  - code: ARKHZZ
+    submitted_by: pdm0809
+    note: Community contributor code (1 billion free tokens for both sides, 19 uses remaining)
 status: active
 category:
   - technology
