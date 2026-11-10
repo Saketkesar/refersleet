@@ -12,6 +12,11 @@ This directory records all community members and maintainers contributing to Ref
 - [@eastar9630](eastar9630.md) — Community Contributor
 - [@MrWrecks](MrWrecks.md) — Community Contributor
 - [@houdaguang](houdaguang.md) — Community Contributor
+- [@abstractkevin92-dotcom](abstractkevin92-dotcom.md) — Community Contributor
+- [@haiwaiid20-art](haiwaiid20-art.md) — Community Contributor
+- [@pdm0809](pdm0809.md) — Community Contributor
+- [@AenfoSh](AenfoSh.md) — Community Contributor
+- [@jacker-nz](jacker-nz.md) — Community Contributor
 
 See [CONTRIBUTORS.md](../CONTRIBUTORS.md) for full directory links and GitHub profiles.
 

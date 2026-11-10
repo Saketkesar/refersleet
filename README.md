@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Verified_Programs-13-orange.svg?style=flat-square" alt="Verified Programs" />
-  <img src="https://img.shields.io/badge/Contributors-9-blue.svg?style=flat-square" alt="Contributors" />
+  <img src="https://img.shields.io/badge/Contributors-14-blue.svg?style=flat-square" alt="Contributors" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License" />
   <img src="https://img.shields.io/badge/Zero_Ads-Guaranteed-emerald.svg?style=flat-square" alt="Zero Ads" />
   <img src="https://img.shields.io/badge/Open_Source-100%25-green.svg?style=flat-square" alt="Open Source" />
@@ -45,7 +45,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Chatwait](https://chatwait.com/r/pgnajd)** | AI / Passive Income | `pgnajd` | **50% Ad Revenue Share** (Get paid while AI thinks) | 50% Lifetime Ad Share + Cash Bonuses | Dual-Sided |
 | **[Kuro](https://trykuro.app/r/ren7v7)** | AI / Passive Income | `ren7v7` | **₹100/Hour Screen Recording** + ₹100 Welcome Bonus | ₹100 Referral Bonus (after 1 hr recording) | Dual-Sided |
-| **[Muse](https://muse.ai/join)** | AI / Developer | `O8VAV4` (Alt: `ZEP1V3`, `B3NYLG`, `AVL1VC`, `O0TMAV`, `ZV3R14`, `2YBM8K`, `BLTW57`, `1NA0ZA`) | **1 Billion Free Muse Tokens** | 1 Billion Free Muse Tokens | Dual-Sided |
+| **[Muse](https://muse.ai/join)** | AI / Developer | `O8VAV4` (Alt: `ZEP1V3`, `B3NYLG`, `AVL1VC`, `O0TMAV`, `ZV3R14`, `2YBM8K`, `BLTW57`, `1NA0ZA`, `EK3ZVU`, `FUMWN1`, `ARKHZZ`, `AO7N41`, `KGDUUN`, `0M1PO9`) | **1 Billion Free Muse Tokens** | 1 Billion Free Muse Tokens | Dual-Sided |
 | **[Agent Router](https://agentrouter.org)** | AI / Developer | *Link* | **$50.00 AI Compute Credits** | $150.00 Credits | Dual-Sided |
 | **[Yap Cash](https://yapcash.ai/invite?ref=YC-GETSAKET)** | AI / Browser Extension | `YC-GETSAKET` | **+200 XP Free Welcome Bonus** | $5 Gift Card per 5 Active Friends | Dual-Sided |
 | **[Zulti](https://zulti.com/?r=79UJUHG94T)** | Rewards / Gaming | `79UJUHG94T` | **30 XP, 200 Gems + Free Play ($10)** | $1.00 Cash + Free Play + 20% Draw Match | Dual-Sided |
@@ -72,6 +72,11 @@ Refersleet is built and maintained by awesome open-source contributors! See our 
 - [@eastar9630](https://github.com/eastar9630)
 - [@MrWrecks](https://github.com/MrWrecks)
 - [@houdaguang](https://github.com/houdaguang)
+- [@abstractkevin92-dotcom](https://github.com/abstractkevin92-dotcom)
+- [@haiwaiid20-art](https://github.com/haiwaiid20-art)
+- [@pdm0809](https://github.com/pdm0809)
+- [@AenfoSh](https://github.com/AenfoSh)
+- [@jacker-nz](https://github.com/jacker-nz)
 
 ---
 
