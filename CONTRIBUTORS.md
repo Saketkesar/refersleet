@@ -18,6 +18,8 @@ Thank you to all community contributors and maintainers helping make Refersleet 
 | <img src="https://avatars.githubusercontent.com/u/316039127?v=4" width="40" height="40" style="border-radius:50%"> **pdm0809** | [@pdm0809](https://github.com/pdm0809) | Contributor | [Directory Profile](https://saketkesar.github.io/refersleet/#/contributors/pdm0809) |
 | <img src="https://avatars.githubusercontent.com/u/183635394?v=4" width="40" height="40" style="border-radius:50%"> **AenfoSh** | [@AenfoSh](https://github.com/AenfoSh) | Contributor | [Directory Profile](https://saketkesar.github.io/refersleet/#/contributors/AenfoSh) |
 | <img src="https://avatars.githubusercontent.com/u/349932159?v=4" width="40" height="40" style="border-radius:50%"> **jacker-nz** | [@jacker-nz](https://github.com/jacker-nz) | Contributor | [Directory Profile](https://saketkesar.github.io/refersleet/#/contributors/jacker-nz) |
+| <img src="https://avatars.githubusercontent.com/u/278748101?v=4" width="40" height="40" style="border-radius:50%"> **EternalEngine** | [@EternalEngineOS](https://github.com/EternalEngineOS) | Contributor | [Directory Profile](https://saketkesar.github.io/refersleet/#/contributors/EternalEngineOS) |
+| <img src="https://avatars.githubusercontent.com/u/120032915?v=4" width="40" height="40" style="border-radius:50%"> **huadidd** | [@huadidd](https://github.com/huadidd) | Contributor | [Directory Profile](https://saketkesar.github.io/refersleet/#/contributors/huadidd) |
 
 ---
 
