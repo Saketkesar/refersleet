@@ -49,6 +49,9 @@ alternative_codes:
   - code: 0M1PO9
     submitted_by: jacker-nz
     note: Community contributor code (1 billion free tokens for both sides)
+  - code: JU3ZNI
+    submitted_by: EternalEngineOS
+    note: Community contributor code (1 billion free tokens for both sides, 30 uses remaining)
 status: active
 category:
   - technology
