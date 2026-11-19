@@ -55,6 +55,9 @@ alternative_codes:
   - code: O7H609
     submitted_by: huadidd
     note: Community contributor code (1 billion free tokens for both sides, 25 uses remaining)
+  - code: VVNV2C
+    submitted_by: theartisian009-collab
+    note: Community contributor code (1 billion free tokens for both sides)
 status: active
 category:
   - technology
@@ -70,56 +73,42 @@ reward:
   referrer: "1 billion Muse tokens"
   referred_user: "1 billion Muse tokens"
   type: dual_sided
-  description: Invite a friend to Muse with your personal invite code. When they redeem it in Settings within 48 hours of joining, you both get 1 billion free Muse tokens.
+description: Invite a friend to Muse with your personal invite code. When they redeem it in Settings within 48 hours of joining, you'll both receive 1 billion Muse tokens each.
 eligibility:
   - New Muse users
   - Code must be redeemed in Settings within 48 hours of joining
 requirements:
   - Sign up for Muse at https://muse.ai/join
-  - Open Settings → General inside the Muse app/dashboard
-  - Enter either community code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, FUMWN1, ARKHZZ, AO7N41, KGDUUN, 0M1PO9, JU3ZNI, or O7H609 under Claim Invitation to receive 1 billion free Muse tokens
-terms_url: https://muse.ai
-submitted_by:
-  username: saketkesar
-  display_name: Saket Kesar
-  avatar: https://avatars.githubusercontent.com/u/93246904?v=4
-submitted_at: 2026-09-30
-last_verified: 2026-09-30
-verification:
-  status: official-verified
-  working_votes: 6
-  not_working_votes: 0
-  reward_changed_votes: 0
-  confidence: 100
-tags:
-  - ai
-  - personal-assistant
-  - meta
-  - invite-code
-  - dual-sided
-  - llm-credits
+  - Enter either community code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, FUMWN1, ARKHZZ, AO7N41, KGDUUN, 0M1PO9, JU3ZNI, or O7H609 under Claim / invite code and complete setup
+  - Redeem in Muse Settings within 48 hours of joining
+notes: Redeem community codes O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, FUMWN1, ARKHZZ, AO7N41, KGDUUN, 0M1PO9, JU3ZNI, or O7H609 in Settings within 48 hours of joining. Eligible new users and the inviter each receive 1 billion Muse tokens. Invites are subject to Muse's eligibility terms and may expire or be fully claimed. Community codes are shared by contributors and verified by the community, not by Meta.
+author: saketkesar
+verified: true
 screenshots:
   - https://lookaside.fbsbx.com/elementpath/media/?media_id=878166652047061&version=1789771377&transcode_extension=webp
   - https://saketkesar.github.io/refersleet/images/referrals/muse-settings.png
-description: |
-  Take a look at Muse – your personal AI agent from Meta. Redeem community codes O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, FUMWN1, ARKHZZ, AO7N41, KGDUUN, 0M1PO9, JU3ZNI, or O7H609 in Settings within 48 hours of joining and both sides receive 1 billion free Muse tokens added to their balance for AI generation and assistance.
-notes: |
-  In Settings -> General, you can verify your active token balance and claim your invitation code. Ensure you enter code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, FUMWN1, ARKHZZ, AO7N41, KGDUUN, 0M1PO9, JU3ZNI, or O7H609 within 48 hours of creating your account.
-redirect:
-  redirect_slug: muse
-  disclosure_required: true
-  featured: true
-  destination_url: https://muse.ai/join
+tags:
+  - ai
+  - ai-agent
+  - invite
+  - muse
+  - meta
+  - tokens
+  - new-user
+updated_at: 2026-11-19
+verified_at: 2026-11-19
+generated_json: true
 ---
 
-# Muse AI Referral Program
+# Muse
 
-Get **1 Billion Free Muse Tokens** when signing up for Meta's personal AI agent Muse.
+Muse is Meta's personal AI agent that automates web tasks such as research, booking and forms, while learning from your preferences. Muse is invitation-only right now. On the free tier, you get 100 weekly tokens, with 5 bonus tokens each week you use it.
 
----
+## Community Invite Codes
 
-### Community Invite Codes (Choose Any):
-1. **`O8VAV4`** — Submitted by [@saketkesar](https://github.com/Saketkesar) *(Verified Active)*
+Use any one of these community invite codes when you join Muse:
+
+1. **`O8VAV4`** — Submitted by [@saketkesar](https://github.com/saketkesar) *(Verified Maintainer)*
 2. **`ZEP1V3`** — Submitted by [@535774696a-cpu](https://github.com/535774696a-cpu) *(Community Contributor)*
 3. **`B3NYLG`** — Submitted by [@midnightmichigan](https://github.com/midnightmichigan) *(Community Contributor)*
 4. **`AVL1VC`** — Submitted by [@shunshun2026](https://github.com/shunshun2026) *(Community Contributor)*
@@ -137,9 +126,15 @@ Get **1 Billion Free Muse Tokens** when signing up for Meta's personal AI agent 
 16. **`JU3ZNI`** — Submitted by [@EternalEngineOS](https://github.com/EternalEngineOS) *(Community Contributor)*
 17. **`O7H609`** — Submitted by [@huadidd](https://github.com/huadidd) *(Community Contributor)*
 
----
+## Why use Muse?
 
-### How to Claim:
-1. Join Muse at [muse.ai/join](https://muse.ai/join).
-2. Within 48 hours of creating your account, go to **Settings** → **General**.
-3. Under **Usage / Invitations**, enter invite code **`O8VAV4`**, **`ZEP1V3`**, **`B3NYLG`**, **`AVL1VC`**, **`O0TMAV`**, **`ZV3R14`**, **`2YBM8K`**, **`BLTW57`**, **`1NA0ZA`**, **`EK3ZVU`**, **`FUMWN1`**, **`ARKHZZ`**, **`AO7N41`**, **`KGDUUN`**, **`0M1PO9`**, **`JU3ZNI`**, or **`O7H609`** to claim **1,000,000,000 free tokens** instantly!
+- **Automate web chores:** Research, bookings, forms and background tasks handled for you
+- **Earn 1 billion Muse tokens:** When you redeem the code within 48 hours of joining, you receive 1 billion bonus Muse tokens, and the person who shared it gets 1 billion too.
+- **Invitation-only access:** Muse is currently only available with an invite code.
+
+## How to Claim
+
+1. Join Muse at https://muse.ai/join
+2. Create your Muse account and open Settings
+3. Enter either code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, FUMWN1, ARKHZZ, AO7N41, KGDUUN, 0M1PO9, JU3ZNI, or O7H609 to claim your bonus
+4. Tokens are credited to your Muse account after your code is accepted. Redeem within 48 hours of joining or the option disappears.
