@@ -57,7 +57,7 @@ alternative_codes:
     note: Community contributor code (1 billion free tokens for both sides, 25 uses remaining)
       - code: Y28OQF
     submitted_by: leopark-muse
-    note: Community contributor code (1 billion free tokens for both sides, 23 uses left)
+    note: Community contributor code (1 billion free tokens for both sides, 22 uses left)
 status: active
 category:
   - technology
