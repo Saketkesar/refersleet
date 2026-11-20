@@ -20,6 +20,8 @@ Thank you to all community contributors and maintainers helping make Refersleet 
 | <img src="https://avatars.githubusercontent.com/u/349932159?v=4" width="40" height="40" style="border-radius:50%"> **jacker-nz** | [@jacker-nz](https://github.com/jacker-nz) | Contributor | [Directory Profile](https://saketkesar.github.io/refersleet/#/contributors/jacker-nz) |
 | <img src="https://avatars.githubusercontent.com/u/278748101?v=4" width="40" height="40" style="border-radius:50%"> **EternalEngine** | [@EternalEngineOS](https://github.com/EternalEngineOS) | Contributor | [Directory Profile](https://saketkesar.github.io/refersleet/#/contributors/EternalEngineOS) |
 | <img src="https://avatars.githubusercontent.com/u/120032915?v=4" width="40" height="40" style="border-radius:50%"> **huadidd** | [@huadidd](https://github.com/huadidd) | Contributor | [Directory Profile](https://saketkesar.github.io/refersleet/#/contributors/huadidd) |
+| <img src="https://avatars.githubusercontent.com/u/251283846?v=4" width="40" height="40" style="border-radius:50%"> **theartisian009-collab** | [@theartisian009-collab](https://github.com/theartisian009-collab) | Contributor | [Directory Profile](https://saketkesar.github.io/refersleet/#/contributors/theartisian009-collab) |
+| <img src="https://avatars.githubusercontent.com/u/358937751?v=4" width="40" height="40" style="border-radius:50%"> **leopark-muse** | [@leopark-muse](https://github.com/leopark-muse) | Contributor | [Directory Profile](https://saketkesar.github.io/refersleet/#/contributors/leopark-muse) |
 
 ---
 

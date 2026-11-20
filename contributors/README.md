@@ -19,6 +19,8 @@ This directory records all community members and maintainers contributing to Ref
 - [@jacker-nz](jacker-nz.md) — Community Contributor
 - [@EternalEngineOS](EternalEngineOS.md) — Community Contributor
 - [@huadidd](huadidd.md) — Community Contributor
+- [@theartisian009-collab](theartisian009-collab.md) — Community Contributor
+- [@leopark-muse](leopark-muse.md) — Community Contributor
 
 See [CONTRIBUTORS.md](../CONTRIBUTORS.md) for full directory links and GitHub profiles.
 
