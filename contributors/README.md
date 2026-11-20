@@ -24,6 +24,11 @@ This directory records all community members and maintainers contributing to Ref
 
 See [CONTRIBUTORS.md](../CONTRIBUTORS.md) for full directory links and GitHub profiles.
 
+### Submitting New Referral Programs:
+Know of an active referral program, discount deal, or invite bonus? We encourage all contributors to add new programs across technology, finance, travel, shopping, and more:
+- **Web Form**: Submit at [saketkesar.github.io/refersleet/#/submit](https://saketkesar.github.io/refersleet/#/submit)
+- **Direct PR**: Create `referrals/<category>/<subcategory>/<program>.md` following our [referral schema](../schemas/referral.schema.json).
+
 ### Adding Yourself as a Contributor:
 1. Create a markdown file named after your username: `contributors/<your_username>.md`.
 2. Provide your display name, GitHub profile URL, and avatar.
