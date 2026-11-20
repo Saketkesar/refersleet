@@ -55,6 +55,9 @@ alternative_codes:
   - code: O7H609
     submitted_by: huadidd
     note: Community contributor code (1 billion free tokens for both sides, 25 uses remaining)
+      - code: Y28OQF
+    submitted_by: leopark-muse
+    note: Community contributor code (1 billion free tokens for both sides, 23 uses left)
 status: active
 category:
   - technology
@@ -77,7 +80,7 @@ eligibility:
 requirements:
   - Sign up for Muse at https://muse.ai/join
   - Open Settings → General inside the Muse app/dashboard
-  - Enter either community code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, FUMWN1, ARKHZZ, AO7N41, KGDUUN, 0M1PO9, JU3ZNI, or O7H609 under Claim Invitation to receive 1 billion free Muse tokens
+  - Enter either community code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, FUMWN1, ARKHZZ, AO7N41, KGDUUN, 0M1PO9, JU3ZNI, O7H609, or Y28OQF under Claim Invitation to receive 1 billion free Muse tokens
 terms_url: https://muse.ai
 submitted_by:
   username: saketkesar
@@ -102,9 +105,9 @@ screenshots:
   - https://lookaside.fbsbx.com/elementpath/media/?media_id=878166652047061&version=1789771377&transcode_extension=webp
   - https://saketkesar.github.io/refersleet/images/referrals/muse-settings.png
 description: |
-  Take a look at Muse – your personal AI agent from Meta. Redeem community codes O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, FUMWN1, ARKHZZ, AO7N41, KGDUUN, 0M1PO9, JU3ZNI, or O7H609 in Settings within 48 hours of joining and both sides receive 1 billion free Muse tokens added to their balance for AI generation and assistance.
+  Take a look at Muse – your personal AI agent from Meta. Redeem community codes O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, FUMWN1, ARKHZZ, AO7N41, KGDUUN, 0M1PO9, JU3ZNI, O7H609, or Y28OQF in Settings within 48 hours of joining and both sides receive 1 billion free Muse tokens added to their balance for AI generation and assistance.
 notes: |
-  In Settings -> General, you can verify your active token balance and claim your invitation code. Ensure you enter code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, FUMWN1, ARKHZZ, AO7N41, KGDUUN, 0M1PO9, JU3ZNI, or O7H609 within 48 hours of creating your account.
+  In Settings -> General, you can verify your active token balance and claim your invitation code. Ensure you enter code O8VAV4, ZEP1V3, B3NYLG, AVL1VC, O0TMAV, ZV3R14, 2YBM8K, BLTW57, 1NA0ZA, EK3ZVU, FUMWN1, ARKHZZ, AO7N41, KGDUUN, 0M1PO9, JU3ZNI, O7H609, or Y28OQF within 48 hours of creating your account.
 redirect:
   redirect_slug: muse
   disclosure_required: true
@@ -136,10 +139,11 @@ Get **1 Billion Free Muse Tokens** when signing up for Meta's personal AI agent 
 15. **`0M1PO9`** — Submitted by [@jacker-nz](https://github.com/jacker-nz) *(Community Contributor)*
 16. **`JU3ZNI`** — Submitted by [@EternalEngineOS](https://github.com/EternalEngineOS) *(Community Contributor)*
 17. **`O7H609`** — Submitted by [@huadidd](https://github.com/huadidd) *(Community Contributor)*
+18. **`Y28OQF`** — Submitted by [@leopark-muse](https://github.com/leopark-muse) *(Community Contributor)*
 
 ---
 
 ### How to Claim:
 1. Join Muse at [muse.ai/join](https://muse.ai/join).
 2. Within 48 hours of creating your account, go to **Settings** → **General**.
-3. Under **Usage / Invitations**, enter invite code **`O8VAV4`**, **`ZEP1V3`**, **`B3NYLG`**, **`AVL1VC`**, **`O0TMAV`**, **`ZV3R14`**, **`2YBM8K`**, **`BLTW57`**, **`1NA0ZA`**, **`EK3ZVU`**, **`FUMWN1`**, **`ARKHZZ`**, **`AO7N41`**, **`KGDUUN`**, **`0M1PO9`**, **`JU3ZNI`**, or **`O7H609`** to claim **1,000,000,000 free tokens** instantly!
+3. Under **Usage / Invitations**, enter invite code **`O8VAV4`**, **`ZEP1V3`**, **`B3NYLG`**, **`AVL1VC`**, **`O0TMAV`**, **`ZV3R14`**, **`2YBM8K`**, **`BLTW57`**, **`1NA0ZA`**, **`EK3ZVU`**, **`FUMWN1`**, **`ARKHZZ`**, **`AO7N41`**, **`KGDUUN`**, **`0M1PO9`**, **`JU3ZNI`**, **`O7H609`**, or **`Y28OQF`** to claim **1,000,000,000 free tokens** instantly!
